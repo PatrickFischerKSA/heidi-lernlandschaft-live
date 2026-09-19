@@ -1,0 +1,160 @@
+[
+  {
+    "id": "buch-alp",
+    "path": "assets/buch-alp.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Heidi_-_facing_p34.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Heidi_-_facing_p34.png",
+    "caption": "Heidi beim Grossvater · Illustration von 1922",
+    "credit": "Jessie Willcox Smith · Public Domain laut Wikimedia Commons",
+    "bytes": 6083031
+  },
+  {
+    "id": "buch-klara",
+    "path": "assets/buch-klara.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Heidi_-_facing_p104.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Heidi_-_facing_p104.png",
+    "caption": "Heidi und Klara · Illustration von 1922",
+    "credit": "Jessie Willcox Smith · Public Domain laut Wikimedia Commons",
+    "bytes": 5787711
+  },
+  {
+    "id": "buch",
+    "path": "assets/buch.webp",
+    "url": "https://blog.nationalmuseum.ch/app/uploads/2019/11/Heidi-buch.webp",
+    "source": "https://blog.nationalmuseum.ch/2019/11/spyri-literaturstar/",
+    "caption": "Heidis Lehr- und Wanderjahre · Erstausgabe 1880",
+    "credit": "Schweizerisches Nationalmuseum · keine freie Lizenz ausgewiesen",
+    "bytes": 46648
+  },
+  {
+    "id": "1937",
+    "path": "assets/1937.webp",
+    "url": "https://www.doctormacro.com/Images/Posters/H/Poster%20-%20Heidi%20%281937%29_01.jpg",
+    "source": "https://www.doctormacro.com/Movie%20Summaries/H/Heidi%20%281937%29.htm",
+    "caption": "Verleihplakat zu Heidi (1937)",
+    "credit": "20th Century-Fox · Abbildung: Doctor Macro · keine freie Lizenz nachgewiesen",
+    "bytes": 4486869
+  },
+  {
+    "id": "1952",
+    "path": "assets/1952.webp",
+    "url": "https://blog.nationalmuseum.ch/app/uploads/2019/11/Heidi-kino.webp",
+    "source": "https://blog.nationalmuseum.ch/2019/11/spyri-literaturstar/",
+    "caption": "US-Verleihplakat zum Film von 1952; Plakat nach der Auszeichnung 1953",
+    "credit": "Schweizerisches Nationalmuseum / Praesens-Film · keine freie Lizenz ausgewiesen",
+    "bytes": 225548
+  },
+  {
+    "id": "1955",
+    "path": "assets/1955.webp",
+    "url": "https://www.filmo.ch/dam/jcr%3A633b82c8-7e33-44f5-9a0a-2ba4b47e75ca/poster_peter_9.jpg",
+    "source": "https://www.filmo.ch/Edition/katalog/staffel-11/heidi-und-peter.html",
+    "caption": "Deutsches Plakat zu Heidi und Peter (1955)",
+    "credit": "filmo / Praesens-Film · keine freie Lizenz ausgewiesen",
+    "bytes": 360866
+  },
+  {
+    "id": "1968",
+    "path": "assets/1968.webp",
+    "url": "https://media.npr.org/assets/img/2012/11/17/gettyimages_140852402_custom-f33b28b8310e53e498b05d1d7f090067d58cac24.jpg",
+    "source": "https://www.wwno.org/sports/2012-11-17/heidi-the-little-girl-who-changed-football-forever",
+    "caption": "Jennifer Edwards als Heidi (1968)",
+    "credit": "NBC via Getty Images · Abbildung bei NPR/WWNO · keine freie Lizenz",
+    "bytes": 771305
+  },
+  {
+    "id": "1974",
+    "path": "assets/1974.webp",
+    "url": "https://images.welt.de/65cefc991ffdbf2d9f3221e1/9c4081452796230e983a845ad8a8f3bd/ci3x2l-w2000/heidi-a-girl-of-the-alps-1974",
+    "source": "https://www.welt.de/geschichte/article249830918/Fernsehen-Wickie-Heidi-Biene-Maja-Die-Erfolgsrezepte-der-legendaeren-TV-Zeichentrickserien-der-70er.html",
+    "caption": "Heidi beim Ziegenmelken · Anime von 1974",
+    "credit": "Zuiyo · Abbildung bei Welt · keine freie Lizenz nachgewiesen",
+    "bytes": 285783
+  },
+  {
+    "id": "1978",
+    "path": "assets/1978.webp",
+    "url": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2416269",
+    "source": "https://www.rsi.ch/play/tv/heidi/video/heidi-il-vecchio-dellalpe?urn=urn%3Arsi%3Avideo%3A2410094",
+    "caption": "Heidi und Peter · Realserie von 1978",
+    "credit": "Programmbild RSI / SRG · keine freie Lizenz ausgewiesen",
+    "bytes": 301026
+  },
+  {
+    "id": "1993",
+    "path": "assets/1993.webp",
+    "url": "https://www.chroniquedisney.fr/imgTele/dcpf/1993-heidi-0.jpg",
+    "source": "https://www.chroniquedisney.fr/tele-10-DCPF/1993-heidi.htm",
+    "caption": "Heidi (1993) · Covermotiv",
+    "credit": "Abbildung: Chronique Disney · keine freie Lizenz nachgewiesen",
+    "bytes": 329250
+  },
+  {
+    "id": "2005",
+    "path": "assets/2005.webp",
+    "url": "https://images.moviesanywhere.com/fe2cd0685a8fa5022a5622325fc72c24/54dced7f-f55c-4aa2-8ed4-2289340a27fe.jpg",
+    "source": "https://moviesanywhere.com/movie/heidi-2005",
+    "caption": "Heidi (2005) · Covermotiv des Realfilms",
+    "credit": "Abbildung: Movies Anywhere · keine freie Lizenz nachgewiesen",
+    "bytes": 914676
+  },
+  {
+    "id": "2015",
+    "path": "assets/2015.webp",
+    "url": "https://www.filmportal.de/sites/default/files/styles/gal_image/public/fn083355_pic_04.jpg?itok=giqfE9nO",
+    "source": "https://www.filmportal.de/node/1246790/gallery",
+    "caption": "Anuk Steffen und Bruno Ganz · Heidi (2015)",
+    "credit": "© Studiocanal GmbH, Matthias Fleischer · Quelle Studiocanal / DIF",
+    "bytes": 139755
+  },
+  {
+    "id": "2022",
+    "path": "assets/2022.webp",
+    "url": "https://www.impawards.com/intl/switzerland/2022/posters/mad_heidi.jpg",
+    "source": "https://www.impawards.com/intl/switzerland/2022/mad_heidi.html",
+    "caption": "Mad Heidi (2022) · Kinoplakat",
+    "credit": "Swissploitation Films · Abbildung: IMP Awards · keine freie Lizenz nachgewiesen",
+    "bytes": 157915
+  },
+  {
+    "id": "hero",
+    "path": "assets/hero.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Maienfeld_Falknis.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Maienfeld_Falknis.JPG",
+    "caption": "Falknis, gesehen von Maienfeld · 18. Oktober 2014",
+    "credit": "Foto: Paebi / Wikimedia Commons · CC BY-SA 4.0 · Ausschnitt",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "1965",
+    "path": "assets/1965.webp",
+    "url": "https://www.filmportal.de/sites/default/files/styles/movie_teaser/public/image/2025-03/3AAFBDE5C1A04A6EA88F4705B68B3AA6_fn028957_pic_01.jpg?itok=-grApBUp",
+    "source": "https://www.filmportal.de/film/heidi_3433dc9200b04cc4923fcb3f7863320c",
+    "caption": "Gustav Knuth und Eva Maria Singhammer · Heidi (1965)",
+    "credit": "Quelle: DFF / filmportal · keine freie Lizenz ausgewiesen"
+  },
+  {
+    "id": "2015cgi",
+    "path": "assets/2015cgi.webp",
+    "url": "https://media.studio100international.com/media/sites/2/2024/02/7597e8ee23-heidi_visuel_01.jpg",
+    "source": "https://www.studio100international.com/en/catalog/heidi-2/",
+    "caption": "Heidi · Werbemotiv der CGI-Serie",
+    "credit": "Studio 100 International · keine freie Lizenz ausgewiesen"
+  },
+  {
+    "id": "2025",
+    "path": "assets/2025.webp",
+    "url": "https://media.studio100international.com/media/sites/2/2025/04/e2f688b2b2-mkt80_010_v001_beauty.png",
+    "source": "https://www.studio100international.com/en/catalog/heidi-rescue-of-the-lynx/",
+    "caption": "Heidi – Die Legende vom Luchs (2025) · Produktionsmotiv",
+    "credit": "Studio 100 International · keine freie Lizenz ausgewiesen"
+  },
+  {
+    "id": "2001",
+    "path": "assets/2001.webp",
+    "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2001/03/193b07e738cb7c629f316be443dbea2c-keyimg20010329_630942_0c-data.jpg",
+    "source": "https://www.swissinfo.ch/eng/culture/up-to-date-heidi-seen-on-swiss-cinema-screens/1961694",
+    "caption": "Premiere 2001: Markus Imboden mit Cornelia Gröschel, Nadine Fano und Aaron Arens · kein Filmstandbild",
+    "credit": "Keystone / SWI swissinfo.ch · keine freie Lizenz ausgewiesen"
+  }
+]

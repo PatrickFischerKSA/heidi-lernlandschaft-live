@@ -1,0 +1,31 @@
+HEIDI · EINE WELTGESCHICHTE
+Lernlandschaft für Gymnasium und FMS
+
+Öffnen
+Das gesamte ZIP entpacken und index.html in einem aktuellen Browser öffnen.
+Alle Inhalte, 18 Bilder und die vier Ausgangsdokumente liegen lokal bei.
+Die Schriftart kann bei Internetverbindung von Google Fonts geladen werden;
+ohne Internet nutzt die Seite eine lokale Ersatzschrift. Externe Quellenlinks
+benötigen Internet. Die Lernfunktionen selbst funktionieren ohne Server.
+
+Enthalten
+- 15 ausgewählte Film- und Serienfassungen von 1920 bis 2025
+- Historische Kontexte und dramaturgische Vergleichsmatrix
+- 10 Lernwerkstätten mit Hilfen und Erwartungshorizonten
+- Bildgalerien mit Vergrösserung und Nachweisen
+- Offener Lerncheck, Notizexport und Druckansicht
+- Arbeitsheft_Heidi.md mit Aufträgen, Filmtexten und Quellen
+- quellen/: unveränderte Kopien der vier bereitgestellten Dokumente
+
+Notizen
+Eingaben werden nicht automatisch dauerhaft gespeichert. Vor dem Schliessen
+mit «Notizen herunterladen» sichern.
+
+Quellen und Bilder
+Die Website unterscheidet belegte Daten, Analyse und Untersuchungshypothesen.
+Keine vollständigen Filme sind eingebettet. Nutzung von Filmausschnitten
+setzt eine verfügbare Filmfassung voraus. Bildquellen und bekannte Rechte
+stehen in der Website. Die beigefügten Bilder und Originaldokumente sind
+kein pauschal frei lizenziertes Paket zur öffentlichen Weiterverbreitung.
+
+Stand: 19. September 2026
