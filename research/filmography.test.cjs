@@ -31,3 +31,5 @@ for(const [id,clip] of Object.entries(clips)){
 }
 assert(node('#app').innerHTML.includes('30 von 34'));
 console.log('29 Clip-Player, 4 explizite Lücken, Klickladen, korrekte Anbieter, Zeitbegrenzung und barrierefreie Beschriftung geprüft.');
+
+const full=vm.runInContext("renderFullFilm(films.find(f=>f.id==='2015'))",c);assert(full.includes('media/heidi-2015-realfilm.mp4'));assert(full.includes('preload="none"'));assert(!full.includes('autoplay'));assert(full.includes('vollständiger Realfilm'));console.log('Vollständiger Realfilm: eigener Player, korrekte Datei, kein automatisches Laden.');

@@ -24,6 +24,10 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh release download v1.0.0 --repo "$GITHUB_REPOSITORY" --pattern Heidiundmehr.pdf --dir dist/quellen
+      - name: Vollständigen Realfilm ergänzen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download realfilm-2015 --repo "$GITHUB_REPOSITORY" --pattern heidi-2015-realfilm.mp4 --dir dist/media
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

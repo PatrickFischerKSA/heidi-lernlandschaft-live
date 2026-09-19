@@ -1226,3 +1226,7 @@ Kein überprüfbarer öffentlicher Clip zu Alain Gsponers dreiminütiger Animati
 
 [Offizieller Kinotrailer](https://www.youtube.com/watch?v=1PJJ90ryNxQ) · Heidi / Studio 100 · Deutsch. Trailer zu «Die Legende vom Luchs», Regie Tobias Schwarz.
 
+
+## Vollständiger Realfilm 2015
+
+[Heidi (2015), Alain Gsponer – vollständiger Film](media/heidi-2015-realfilm.mp4). Laufzeit 1:50:50. Vom Nutzer bereitgestellte Datei; neben dem offiziellen Szenenclip in der Filmkarte abspielbar.

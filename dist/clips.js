@@ -338,3 +338,6 @@ const filmClipGaps = {
   "1998short": "Kein überprüfbarer öffentlicher Clip zu Alain Gsponers dreiminütiger Animationssatire gefunden. Die zahlreichen Treffer zu seinem Spielfilm von 2015 sind keine Ausschnitte dieses Kurzfilms."
 };
 for (const f of films) { if (filmClips[f.id]) f.clip=filmClips[f.id]; else if (filmClipGaps[f.id]) f.clipGap=filmClipGaps[f.id]; }
+
+// Vollständiger Realfilm, vom Nutzer bereitgestellt. Release-Asset wird beim Deploy ergänzt.
+films.find(f=>f.id==='2015').fullVideo = {url:'media/heidi-2015-realfilm.mp4',label:'Vollständiger Realfilm · 1 Std. 50 Min. 50 Sek.',note:'Heidi (2015), Regie Alain Gsponer. Vom Nutzer bereitgestellte Fassung.'};

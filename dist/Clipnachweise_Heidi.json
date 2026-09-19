@@ -339,5 +339,13 @@
     "1959bbc": "Kein überprüfbarer öffentlicher Clip zur BBC-Serie mit Sara O’Connor gefunden. Sendungsnachweise belegen die Produktion, liefern aber keine abspielbaren Szenen. Keine pauschale Behauptung, die gesamte Serie sei verschollen.",
     "1998short": "Kein überprüfbarer öffentlicher Clip zu Alain Gsponers dreiminütiger Animationssatire gefunden. Die zahlreichen Treffer zu seinem Spielfilm von 2015 sind keine Ausschnitte dieses Kurzfilms."
   },
-  "note": "Metadaten und Quellen geprüft; die Wiedergabe kann je nach Anbieter, Region und Zeitpunkt abweichen. Zusätzliche Schnittfassungen sind nicht separat abgedeckt."
+  "note": "Metadaten und Quellen geprüft; die Wiedergabe kann je nach Anbieter, Region und Zeitpunkt abweichen. Zusätzliche Schnittfassungen sind nicht separat abgedeckt.",
+  "fullFilms": [
+    {
+      "film": "2015",
+      "url": "media/heidi-2015-realfilm.mp4",
+      "durationSeconds": 6650.31,
+      "source": "Vom Nutzer bereitgestellte Datei Heidi 2015.mp4"
+    }
+  ]
 }
