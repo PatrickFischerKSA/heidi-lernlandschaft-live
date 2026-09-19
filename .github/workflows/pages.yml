@@ -17,7 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Feedback prüfen
-        run: node research/feedback.test.cjs
+        run: |
+          node research/feedback.test.cjs
+          node research/filmography.test.cjs
       - name: Vollständige Originalquelle ergänzen
         env:
           GH_TOKEN: ${{ github.token }}

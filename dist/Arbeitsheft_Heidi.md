@@ -284,21 +284,25 @@ Die Parodie kann ein nationales Reinheits- oder Idyllenbild angreifen und gleich
 
 ## Filmarchiv
 
+Recherchebestand: 34 Produktionen; zusätzlich Schnittfassungen, offene Zuordnungen und Ankündigungen. Stand: 19. September 2026. Vollständigkeit über alle nationalen Kataloge ist nicht garantiert. Ein Quellennachweis ist kein Beleg einer vollständigen Filmsichtung.
+
 ### 1920 · Heidi of the Alps · Frederick A. Thomson
 
 USA · Stummfilm / Prizma
 
 Schon vor Shirley Temple gelangte Heidi ins Kino. Die filmhistorische Datenbank der Universität Zürich verzeichnet die Fassung von 1920 im Zusammenhang mit dem Prizma-Verfahren. Stummfilm und früher Farbfilm sind also keine Gegensätze.
 
-**Dramaturgische Lesart:** Das bereitgestellte Fragment erlaubt nun eine Untersuchung konkreter Einstellungen und ihrer Abfolge. Beschreibt mit Zeitangaben, wie Bildausschnitt, Gestik, Montage und gegebenenfalls Zwischentitel die Aufmerksamkeit lenken. Trennt sichtbare Beobachtung und Deutung. Aus dem rund zweieinhalbminütigen Ausschnitt lassen sich weder der vollständige Handlungsbogen noch die Gewichtung aller Figuren ableiten.
+**Dramaturgische Lesart / Prüfauftrag:** Das bereitgestellte Fragment erlaubt nun eine Untersuchung konkreter Einstellungen und ihrer Abfolge. Beschreibt mit Zeitangaben, wie Bildausschnitt, Gestik, Montage und gegebenenfalls Zwischentitel die Aufmerksamkeit lenken. Trennt sichtbare Beobachtung und Deutung. Aus dem rund zweieinhalbminütigen Ausschnitt lassen sich weder der vollständige Handlungsbogen noch die Gewichtung aller Figuren ableiten.
 
 **Historischer Kontext:** In der frühen Filmgeschichte konkurrierten verschiedene Verfahren darum, Farbe auf die Leinwand zu bringen. Eine vertraute Erzählung konnte dabei Orientierung bieten. Dies ist eine medienhistorische Einordnung, kein nachgewiesenes Produktionsmotiv dieses Films.
 
-**Prüffrage:** Welche Aussagen über eine Verfilmung erlauben Titel, Katalogeintrag und erhaltenes Bild – und welche gerade nicht?
+**Prüffrage:** Wie lenkt das Fragment euren Blick – und welche Fragen an den gesamten Film bleiben offen?
 
 **Untersuchung:** Sichtet das Fragment zweimal. Protokolliert drei Momente mit Zeitcode, sichtbarem Gestaltungsmittel und möglicher Wirkung. Formuliert danach eine begründete Deutung und eine Frage, die nur eine vollständigere Kopie beantworten könnte. Die Zuordnung der bereitgestellten Datei beruht auf ihrer Bezeichnung; ihre Digitalisierungsgeschichte ist nicht dokumentiert.
 
-**Filmfragment (2:30 Minuten):** [MP4 öffnen](https://patrickfischerksa.github.io/heidi-lernlandschaft-live/media/heidi-of-the-alps-1920-fragment.mp4). Bereitgestellte Datei; Herkunft der Digitalisierung nicht dokumentiert.
+[Filmfragment (2:30 Minuten)](https://patrickfischerksa.github.io/heidi-lernlandschaft-live/media/heidi-of-the-alps-1920-fragment.mp4)
+
+- [Universität Zürich: Timeline of Historical Film Colors, Prizma II](https://filmcolors.org/timeline-entry/1235/)
 
 ### 1937 · Heidi · Allan Dwan
 
@@ -306,7 +310,7 @@ USA · Shirley Temple
 
 Shirley Temple spielt Heidi. Der AFI-Katalog dokumentiert eine gravierende Verschiebung: Klara geht bereits in Frankfurt. Rottenmeier will ihre Abhängigkeit erhalten; der Grossvater sucht Heidi in der Stadt. Eine Musik- und Tanznummer gehört ebenfalls zur Fassung.
 
-**Dramaturgische Lesart:** Die Konflikte werden stark personalisiert. Ein deutliches Gut-Böse-Schema und die Rettung durch den Grossvater erzeugen eine andere Spannung als Spyris Heimweh- und Rückkehrgeschichte. Der Kinderstar wird zum emotionalen Mittelpunkt. Die Gesangsnummer unterbricht die Handlung und stellt zugleich Temples Können aus.
+**Dramaturgische Lesart / Prüfauftrag:** Die Konflikte werden stark personalisiert. Ein deutliches Gut-Böse-Schema und die Rettung durch den Grossvater erzeugen eine andere Spannung als Spyris Heimweh- und Rückkehrgeschichte. Der Kinderstar wird zum emotionalen Mittelpunkt. Die Gesangsnummer unterbricht die Handlung und stellt zugleich Temples Können aus.
 
 **Historischer Kontext:** Im Hollywood-Studiokino der 1930er-Jahre verbanden sich literarische Stoffe mit wiedererkennbaren Star-Personas. Tomkowiak zeigt, wie die Schweizer Ablehnung dieser Bearbeitung Forderungen nach einer «eigenen» Heidi beförderte; solche Reaktionen sind Teil nationaler Kulturpolitik.
 
@@ -314,13 +318,18 @@ Shirley Temple spielt Heidi. Der AFI-Katalog dokumentiert eine gravierende Versc
 
 **Untersuchung:** Vergleicht die Verteilung von Handlungsmacht: Wer entscheidet, wer reist, wer rettet? Untersucht zusätzlich den Übergang in die Tanznummer.
 
+[Offizielle Filmseite · 20th Century](https://family.20thcenturystudios.com/movies/heidi)
+
+- [American Film Institute: Heidi (1937)](https://catalog.afi.com/Film/4256-HEIDI)
+- [Tomkowiak: Die Schweizer Heidi-Filme (2004), S. 205–222](quellen/Spyri_Lesarten.pdf#page=206)
+
 ### 1952 · Heidi · Luigi Comencini
 
 Schweiz · Elsbeth Sigmund, Heinrich Gretler
 
 Die Praesens-Produktion erzählt in Schwarzweiss. Comencini arbeitet mit Elsbeth Sigmund als Heidi und Heinrich Gretler als Alpöhi. Der Gegensatz zwischen dem Leben auf der Alp und der Frankfurter Ordnung bildet die räumliche Grundstruktur.
 
-**Dramaturgische Lesart:** Die Aufmerksamkeit für kindliche Reaktionen macht Zugehörigkeit als Beziehung erfahrbar. Statt nur Handlungsschritte zu zählen, lohnt es sich, Blicke, Pausen und räumliche Abstände zu untersuchen. Die Landschaft kann zugleich Erfahrungsraum des Kindes und attraktives Bild für ein erwachsenes Publikum sein.
+**Dramaturgische Lesart / Prüfauftrag:** Die Aufmerksamkeit für kindliche Reaktionen macht Zugehörigkeit als Beziehung erfahrbar. Statt nur Handlungsschritte zu zählen, lohnt es sich, Blicke, Pausen und räumliche Abstände zu untersuchen. Die Landschaft kann zugleich Erfahrungsraum des Kindes und attraktives Bild für ein erwachsenes Publikum sein.
 
 **Historischer Kontext:** Nach Tomkowiak standen nationale Authentizitätsansprüche neben internationalen Vermarktungsinteressen. Der deutsche Verleihtitel «Sehnsucht nach der Heimat» eröffnete Anschlüsse an westdeutsche Erfahrungen von Heimatverlust. Der Film spielt dennoch im 19. Jahrhundert: Er ist kein in Trümmerstädten angesiedeltes Nachkriegsdrama.
 
@@ -328,13 +337,55 @@ Die Praesens-Produktion erzählt in Schwarzweiss. Comencini arbeitet mit Elsbeth
 
 **Untersuchung:** Vergleicht eine Alpsequenz mit der Ankunft in Frankfurt. Protokolliert Einstellungsgrössen, Blickrichtungen, Sprache und Geräusche.
 
+[filmo · Filmseite & Filmangebote](https://www.filmo.ch/Edition/katalog/staffel-11/heidi.html)
+
+- [filmo: Heidi (1952)](https://www.filmo.ch/Edition/katalog/staffel-11/heidi.html)
+- [Tomkowiak: Die Schweizer Heidi-Filme (2004), S. 205–222](quellen/Spyri_Lesarten.pdf#page=206)
+
+### 1953 · Heidi · BBC · Joy Harington · Bearbeitung / Produktion
+
+Grossbritannien · Julia Lockwood
+
+Die BBC produzierte bereits 1953 eine Heidi-Fassung mit Julia Lockwood. Sie gehört in die Fernsehgeschichte vor dem Anime und vor der Schweizer Serie.
+
+**Dramaturgische Lesart / Prüfauftrag:** Prüfauftrag: Wie zerlegt eine Fortsetzungsserie die Romanhandlung in abgeschlossene Etappen? Vergleicht die Funktion von Episodenbeginn und Episodenschluss mit einem Kinofilm. Eine Sendeliste allein belegt noch keine konkrete Montage.
+
+**Historischer Kontext:** Die Literaturbearbeitung macht einen bekannten Kinderbuchstoff im damals jungen Fernsehmedium verfügbar. Der Unterschied zwischen Studioaufnahme, Filmeinspielung und heute erhaltener Kopie ist bei frühen Fernsehproduktionen mitzuprüfen.
+
+**Prüffrage:** Was lässt sich aus Programmangaben über die Dramaturgie erschliessen – und was erst aus einer Kopie?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.imdb.com/title/tt0424138/)
+
+- [IMDb: Heidi (1953); ergänzend BBC-Nachweise in Julia Lockwoods Filmografie](https://www.imdb.com/title/tt0424138/)
+
+### 1954 · Heidi Grows Up · BBC · Joy Harington zugeschrieben
+
+Grossbritannien · Julia Lockwood
+
+Diese BBC-Fortsetzung ist als eigenständige Produktion von 1954 dokumentiert. Angaben zu Umfang und Regiezuschreibung sind in Filmografien nicht einheitlich; sie werden hier nicht als gesicherte Episodenzahl übernommen.
+
+**Dramaturgische Lesart / Prüfauftrag:** Das Weitererzählen verschiebt die Frage vom Ankommen des Kindes zum Heranwachsen einer bekannten Figur. Prüfauftrag: Welche Beziehungen können nach einem abgeschlossenen Happy End erneut Konflikte tragen?
+
+**Historischer Kontext:** Die Fortsetzung gehört zur frühen seriellen Verwertung des Heidi-Stoffs. Sie ist vom Schweizer Kinofilm Heidi und Peter (1955) zu unterscheiden.
+
+**Prüffrage:** Wann erweitert eine Fortsetzung eine Figur, und wann wiederholt sie nur einen bekannten Konflikt?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.imdb.com/title/tt0424139/)
+
+- [IMDb: Heidi Grows Up (1954)](https://www.imdb.com/title/tt0424139/)
+- [Camilla Badstübner-Kizik: Heidi – endlessly revisitable? (2022), Filmografie S. 181–182](https://www.iudicium.de/katalog/9783862058792.pdf#page=182)
+
 ### 1955 · Heidi und Peter · Franz Schnyder
 
 Schweiz · Fortsetzung in Farbe
 
 Die Fortsetzung übernimmt zentrale Darstellende von 1952. SRF hebt die farbige Berglandschaft und die aufwendig inszenierte Sturm- und Überschwemmungssequenz hervor. Sie erweitert die Konflikte um ein Ereignis, das die Dorfgemeinschaft betrifft.
 
-**Dramaturgische Lesart:** Neben der Entwicklung einzelner Figuren entsteht ein kollektiver Spannungsbogen: Die gefährdete Gemeinschaft muss handeln. Die Natur ist deshalb nicht nur heilsame Kulisse. Der Katastrophenhöhepunkt verschiebt die Gewichtung gegenüber einer rein intimen Geschichte von Heimweh, Eifersucht und Fürsorge.
+**Dramaturgische Lesart / Prüfauftrag:** Neben der Entwicklung einzelner Figuren entsteht ein kollektiver Spannungsbogen: Die gefährdete Gemeinschaft muss handeln. Die Natur ist deshalb nicht nur heilsame Kulisse. Der Katastrophenhöhepunkt verschiebt die Gewichtung gegenüber einer rein intimen Geschichte von Heimweh, Eifersucht und Fürsorge.
 
 **Historischer Kontext:** Farbfilm und technische Schauwerte steigern das touristisch verwertbare Alpenbild. Tomkowiak dokumentiert zugleich Kritik an einem gefälligen Exportprodukt. Nationales Selbstbild und internationaler Markt wirken zusammen; «Schweizer Film» ist keine Garantie für eine einzige, unveränderte Bedeutung.
 
@@ -342,13 +393,91 @@ Die Fortsetzung übernimmt zentrale Darstellende von 1952. SRF hebt die farbige 
 
 **Untersuchung:** Unterscheidet individuelle und kollektive Gefahr. Vergleicht, ob die Berge vor, während und nach dem Sturm mit denselben Mitteln gezeigt werden.
 
+[filmo · Filmseite & Filmangebote](https://www.filmo.ch/Edition/katalog/staffel-11/heidi-und-peter.html)
+
+- [SRF: Heidi und Peter (1955)](https://www.srf.ch/kultur/film-serien/film-serien-heidi-und-peter-1955)
+- [Tomkowiak: Die Schweizer Heidi-Filme (2004), S. 205–222](quellen/Spyri_Lesarten.pdf#page=206)
+
+### 1955 · Max Liebman Presents: Heidi · Max Liebman
+
+USA · NBC · Jeannie Carson
+
+Das Paley Center belegt die Sendung am 1. Oktober 1955, mit Jeannie Carson, Wally Cox und Natalie Wood. Musik, Tanz und Marionetten gehören zu den dokumentierten Gestaltungsmitteln. Eine Schwarzweisskopie überliefert die Farbsendung.
+
+**Dramaturgische Lesart / Prüfauftrag:** Eine Musicalnummer kann Gefühle aussprechen, Handlung anhalten oder einen Konflikt austragen. Das bekannte Figurenensemble wird zugleich zum Anlass einer Fernsehshow. Untersucht, ob ein Lied die Situation verändert oder vor allem die Darstellenden präsentiert.
+
+**Historischer Kontext:** Die Produktion verbindet Literaturadaption und US-Fernsehspektakel der 1950er-Jahre. Die Archivkopie zeigt auch, warum die Farbe einer heutigen Kopie nicht automatisch die Farbe der Erstausstrahlung belegt.
+
+**Prüffrage:** Welche dramaturgische Arbeit übernimmt ein Lied, die im Roman eine Erzählerpassage leistet?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.paleycenter.org/collection/item?item=B%3A29624)
+
+- [Paley Center: Max Liebman Presents: Heidi, 1.10.1955](https://www.paleycenter.org/collection/item?item=B%3A29624)
+
+### 1958 · A Gift for Heidi · George Templeton
+
+USA · Sandy Descher
+
+Die Fortführung der Heidi-Figur verbindet Abenteuer in den Alpen mit einer moralisch-religiösen Ausrichtung. Sie erzählt zusätzliche Erlebnisse statt lediglich die Frankfurt-Handlung erneut abzubilden.
+
+**Dramaturgische Lesart / Prüfauftrag:** Als Lesart bietet sich eine Bewährungsdramaturgie an: Eine Gefahr macht Werte handlungswirksam. Prüft, wie Hilfe und Rettung organisiert werden und ob die Figuren einander verändern oder vor allem eine bereits feststehende Lehre bestätigen.
+
+**Historischer Kontext:** Der Familienfilm der Nachkriegszeit verknüpft einen international bekannten Stoff mit Vorstellungen von Fürsorge und Glauben. Diese Perspektive lässt sich mit den religiösen Anteilen von Spyris Roman vergleichen.
+
+**Prüffrage:** Wird Glaube als innere Entwicklung, als Lehre oder als erfolgreiche Hilfe erzählt?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.tcm.com/watchtcm/titles/3554)
+
+- [TCM: A Gift for Heidi](https://www.tcm.com/watchtcm/titles/3554)
+
+### 1958 · Do Phool · Abdul Rashid Kardar
+
+Indien · Hindi · Baby Naaz
+
+Die indische Heidi-Bearbeitung von 1958 setzt Baby Naaz als Poornima ein. Das National Film Archive of India führt Do Phool mit Regisseur A. R. Kardar in seiner Liste digitalisierter und restaurierter Filme.
+
+**Dramaturgische Lesart / Prüfauftrag:** Die neue Namens- und Lebenswelt ist eine eigene Erzählentscheidung. Vergleicht soziale Abhängigkeit, Fürsorge und Arbeit: Welche Funktionen bleiben erhalten, wenn die sichtbaren kulturellen Zeichen wechseln? Nicht jede Abweichung ist eine Vereinfachung.
+
+**Historischer Kontext:** Die Adaption gehört zur internationalen Aneignung europäischer Kinderliteratur im Hindi-Kino. Die Forschung behandelt sie ausdrücklich unter der Frage nach arbeitenden Kindern; die Schweizer Alpen sind kein notwendiges Kriterium einer Heidi-Adaption.
+
+**Prüffrage:** Welche sozialen Beziehungen machen Poornima als Heidi-Figur erkennbar?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.imdb.com/title/tt0231474/fullcredits/)
+
+- [IMDb: Do Phool (1958), Besetzung und Vorlage](https://www.imdb.com/title/tt0231474/fullcredits/)
+- [National Film Archive of India: digitalisierte und restaurierte Filme, Do Phool (1958)](https://nfai.nfdcindia.com/upload/circleIconPdf/1499148501_Digitized%20and%20Restored%20Films%20List.pdf)
+
+### 1959 · Heidi · BBC-Neubearbeitung · Joy Harington
+
+Grossbritannien · Sara O’Connor
+
+Der BBC Programme Index belegt den Beginn am 19. Mai 1959 und sechs Teile. Sara O’Connor spielt Heidi, Mark Dignam den Grossvater. Damit handelt es sich um eine andere Besetzung als 1953.
+
+**Dramaturgische Lesart / Prüfauftrag:** Prüfauftrag: Welche Übergänge werden zu Episodengrenzen? Eine serielle Adaption kann Erwartung durch aufgeschobene Begegnungen organisieren und alltägliche Beziehungen länger entwickeln als ein kurzer Film.
+
+**Historischer Kontext:** Die erneute Bearbeitung im selben Jahrzehnt zeigt, dass nicht jede wiederkehrende Heidi-Sendung eine Wiederholung derselben Produktion ist. Besetzung, Herstellungsangabe und Sendedatum müssen zusammen geprüft werden.
+
+**Prüffrage:** Wie unterscheidet ihr eine Neuproduktion von einer Wiederholung?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://genome.ch.bbc.co.uk/8d3dbd53d8d342b2aa9d0de3d07487e3)
+
+- [BBC Programme Index: Heidi, Up the Mountain, 19.5.1959](https://genome.ch.bbc.co.uk/8d3dbd53d8d342b2aa9d0de3d07487e3)
+
 ### 1965 · Heidi · Werner Jacobs
 
 Österreich · Eva Maria Singhammer
 
 Die österreichische Sascha-Film-Produktion besetzt Heidi mit Eva Maria Singhammer, den Grossvater mit Gustav Knuth und Klara mit Michaela May. Das DFF verzeichnet den deutschen Kinostart am 29. Oktober 1965 und eine Laufzeit von 98 Minuten.
 
-**Dramaturgische Lesart:** Als Arbeitshypothese lässt sich die Fassung als erneute Stabilisierung eines vertrauten Familienfilmstoffes untersuchen. Bekannte erwachsene Darstellende und farbige Landschaften bilden einen anderen Rahmen als Temples Starkino oder Takahatas späterer serieller Alltag. Ob die Inszenierung Konflikte tatsächlich abmildert, muss an Szenen belegt werden.
+**Dramaturgische Lesart / Prüfauftrag:** Als Arbeitshypothese lässt sich die Fassung als erneute Stabilisierung eines vertrauten Familienfilmstoffes untersuchen. Bekannte erwachsene Darstellende und farbige Landschaften bilden einen anderen Rahmen als Temples Starkino oder Takahatas späterer serieller Alltag. Ob die Inszenierung Konflikte tatsächlich abmildert, muss an Szenen belegt werden.
 
 **Historischer Kontext:** Die Produktion gehört zum deutschsprachigen Unterhaltungskino der 1960er-Jahre. Das Erscheinungsjahr allein beweist jedoch weder eine konservative Aussage noch einen bewussten Gegenentwurf zum gesellschaftlichen Wandel. Filmform und konkrete Figurenzeichnung bleiben die Belege.
 
@@ -356,13 +485,15 @@ Die österreichische Sascha-Film-Produktion besetzt Heidi mit Eva Maria Singhamm
 
 **Untersuchung:** Vergleicht seine erste Begegnung mit Heidi in 1952 und 1965. Markiert den genauen Moment, an dem sich eure Einschätzung verändert.
 
+- [DFF / filmportal: Heidi (1965)](https://www.filmportal.de/film/heidi_3433dc9200b04cc4923fcb3f7863320c)
+
 ### 1968 · Heidi · Delbert Mann
 
 USA · Jennifer Edwards, Michael Redgrave
 
 Die NBC-Fernsehfassung besetzt Heidi mit Jennifer Edwards und den Grossvater mit Michael Redgrave. Jean Simmons spielt Rottenmeier, Maximilian Schell Herrn Sesemann. Die Musik stammt von John Williams.
 
-**Dramaturgische Lesart:** Die Fernsehadaption ist ein geeigneter Prüfstein für die Behauptung, Fernsehen erzähle grundsätzlich anders als Kino. Eine Analyse sollte Nähe durch Gesichter, Dialogführung und Musik untersuchen, ohne diese Merkmale schon aus dem Ausstrahlungsmedium abzuleiten. Das Starensemble bietet mehrere mögliche emotionale Zentren.
+**Dramaturgische Lesart / Prüfauftrag:** Die Fernsehadaption ist ein geeigneter Prüfstein für die Behauptung, Fernsehen erzähle grundsätzlich anders als Kino. Eine Analyse sollte Nähe durch Gesichter, Dialogführung und Musik untersuchen, ohne diese Merkmale schon aus dem Ausstrahlungsmedium abzuleiten. Das Starensemble bietet mehrere mögliche emotionale Zentren.
 
 **Historischer Kontext:** Literaturverfilmungen konnten im amerikanischen Fernsehen als besonderes Familienprogramm auftreten. Ein Film bleibt dabei zeitlich komprimiert; er ermöglicht nicht dasselbe lange Zusammenleben mit Figuren wie eine Jahresserie.
 
@@ -370,13 +501,15 @@ Die NBC-Fernsehfassung besetzt Heidi mit Jennifer Edwards und den Grossvater mit
 
 **Untersuchung:** Untersucht einen Dialog zunächst ohne Ton, dann nur akustisch. Vergleicht, welche Information jede Ebene beiträgt.
 
+- [Bibliothekskatalog SEKnFIND: Heidi, NBC-Fernsehfassung (1968)](https://www.seknfind.org/cgi-bin/koha/opac-detail.pl?biblionumber=662102)
+
 ### 1974 · Alps no Shōjo Heidi · Isao Takahata
 
 Japan · 52 Folgen · Zuiyo Eizo
 
 Takahata führt Regie, Hayao Miyazaki gestaltet Layouts, Yōichi Kotabe prägt das Figurendesign. Die Serie ist keine Studio-Ghibli-Produktion. Takahata erläutert drei Eingriffe: Peter zerstört Klaras Rollstuhl nicht aus Eifersucht; die christliche Botschaft wird reduziert; Rottenmeier reist auf die Alp.
 
-**Dramaturgische Lesart:** Langsames Erzählen bedeutet hier nicht Spannungslosigkeit. Kleine Ungewissheiten tragen die Folgen: Wie antwortet Heidi? Wo wird sie schlafen? Der Alltag baut Vertrautheit auf, die den späteren Verlust der Alp emotional begründet. Bewegungen machen Gefühle sichtbar. Der veränderte Rollstuhlvorfall verlagert das Gewicht von Peters Schuld auf Klaras Unsicherheit und ihre Beziehungen.
+**Dramaturgische Lesart / Prüfauftrag:** Langsames Erzählen bedeutet hier nicht Spannungslosigkeit. Kleine Ungewissheiten tragen die Folgen: Wie antwortet Heidi? Wo wird sie schlafen? Der Alltag baut Vertrautheit auf, die den späteren Verlust der Alp emotional begründet. Bewegungen machen Gefühle sichtbar. Der veränderte Rollstuhlvorfall verlagert das Gewicht von Peters Schuld auf Klaras Unsicherheit und ihre Beziehungen.
 
 **Historischer Kontext:** Takahata nennt Umweltverschmutzung und soziale Folgen des japanischen Wirtschaftswachstums als Hintergrund. Er wollte ein Gegenangebot zu leistungs- und kampforientierten Fernsehgeschichten schaffen. Das ist eine belegte Selbstauskunft, kein Beweis dafür, wie alle Zuschauenden die Serie wahrnahmen.
 
@@ -384,13 +517,35 @@ Takahata führt Regie, Hayao Miyazaki gestaltet Layouts, Yōichi Kotabe prägt d
 
 **Untersuchung:** Folgen 1–2: Ende der ersten Begegnung und Erkundung der Hütte. Zählt kleine Fragen, die offenbleiben. Sprache, Synchronisation und Musikfassung unbedingt angeben.
 
+- [Takahata: Making of the TV Series (2004), S. 189–204](quellen/Spyri_Lesarten.pdf#page=190)
+- [Stetter: Materialität des Stadt-Land-Gegensatzes (2026), S. 203–224](quellen/Heidiundmehr.pdf#page=209)
+- [Bando Saito: Heidi in Japan (2004), S. 183–187](quellen/Spyri_Lesarten.pdf#page=184)
+
+### 1974 · Heidi · BBC-Realserie · June Wyndham-Davies
+
+Grossbritannien · Emma Blake
+
+Neben Takahatas Anime entstand 1974 eine britische Realserie mit Emma Blake und Hans Meyer. June Wyndham-Davies inszenierte die sechsteilige Produktion.
+
+**Dramaturgische Lesart / Prüfauftrag:** Der gleichzeitige Vergleich mit dem Anime trennt Produktionszeit und Medium: Welche Gefühle werden durch Schauspiel, welche durch gezeichnete Bewegung vermittelt? Vergleicht eine gleichartige Begegnung und beschreibt die Dauer der Einstellungen statt pauschal von realistischer oder kindlicher zu sprechen.
+
+**Historischer Kontext:** 1974 bezeichnet zwei eigenständige Heidi-Produktionen. Die Jahreszahl allein identifiziert die Fassung nicht. Der Vergleich zeigt unterschiedliche Wege seriellen Kinderfernsehens innerhalb derselben Epoche.
+
+**Prüffrage:** Wie verändert das Medium die Darstellung von Nähe zwischen Heidi und dem Grossvater?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.imdb.com/title/tt0228374/fullcredits/)
+
+- [IMDb: BBC-Heidi (1974), Credits](https://www.imdb.com/title/tt0228374/fullcredits/)
+
 ### 1978 · Heidi · Toni Flaadt / Joachim Hess
 
 Deutschsprachige Realserie · 26 Folgen
 
 Die Serie mit Katia Polletin und René Deltgen startete im Schweizer Fernsehen am 13. September 1978. Laut SRF inszenierte Toni Flaadt die ersten elf Folgen; Joachim Hess die zehn Frankfurter Folgen und fünf Folgen der Rückkehr.
 
-**Dramaturgische Lesart:** Diese Fassung erlaubt es, den Einfluss von Medium und Länge auseinanderzuhalten. Sowohl die Realserie als auch der Anime können Alltag ausdehnen; ihre Körper und Bewegungen funktionieren aber unterschiedlich. Eine gezeichnete Figur kann eine Steigung anders bewältigen als eine Schauspielerin. Beziehungsnähe entsteht jeweils durch eigene Mittel.
+**Dramaturgische Lesart / Prüfauftrag:** Diese Fassung erlaubt es, den Einfluss von Medium und Länge auseinanderzuhalten. Sowohl die Realserie als auch der Anime können Alltag ausdehnen; ihre Körper und Bewegungen funktionieren aber unterschiedlich. Eine gezeichnete Figur kann eine Steigung anders bewältigen als eine Schauspielerin. Beziehungsnähe entsteht jeweils durch eigene Mittel.
 
 **Historischer Kontext:** Der Stoff wird zum wiederkehrenden Fernsehangebot. Die Staffelgliederung verteilt Erwartung und Erinnerung über Wochen. Gleichzeitig begegnen sich mehrere Heidi-Bilder in derselben Fernsehzeit: Realserie und deutschsprachige Ausstrahlung des Anime.
 
@@ -398,13 +553,108 @@ Die Serie mit Katia Polletin und René Deltgen startete im Schweizer Fernsehen a
 
 **Untersuchung:** Vergleicht den ersten Aufstieg in 1974 und 1978. Achtet auf Wegdauer, Anstrengung, Blickachsen und die Erreichbarkeit des Grossvaters.
 
+- [SRF-Chronik: Serienstart am 13. September 1978](https://medien.srf.ch/documents/20142/3708308/13._September_1978-Start_der_26-teiligen_Serie__Heidi_.pdf/65527ef3-59ad-c948-3c82-14f499717d5f?t=1548925423965)
+- [Takahata: Making of the TV Series (2004), S. 189–204](quellen/Spyri_Lesarten.pdf#page=190)
+
+### 1978 · The New Adventures of Heidi · Ralph Senensky
+
+USA · Katy Kurtzman / Burl Ives
+
+Diese amerikanische Fernsehfassung aktualisiert den Stoff und verlegt einen Teil der Handlung nach New York. Sie ist nicht die deutschsprachige Realserie desselben Jahres. Der Regisseur dokumentiert die Produktion in seinem eigenen Rückblick.
+
+**Dramaturgische Lesart / Prüfauftrag:** Das Ortswechselmotiv bleibt verwendbar, während die Grossstadt eine neue Bedeutung erhält. Gesang und komische Situationen können das Heimwehdrama entlasten. Prüft, ob die neue Umgebung als Bedrohung, Chance oder beides erzählt wird.
+
+**Historischer Kontext:** Der Produktionsbericht erlaubt es, zwischen späterer Erinnerung eines Beteiligten und am Film sichtbarer Gestaltung zu unterscheiden. Die Modernisierung zeigt eine andere Aktualisierungsstrategie als Imbodens Fassung von 2001.
+
+**Prüffrage:** Welche Funktion des ursprünglichen Frankfurt übernimmt New York?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Produktionsbericht & Filmausschnitte](https://ralph-senensky.blogspot.com/2010/08/new-adventures-of-heidi-june-july-1978.html)
+
+- [Ralph Senensky: eigener Produktionsbericht mit Ausschnitten](https://ralph-senensky.blogspot.com/2010/08/new-adventures-of-heidi-june-july-1978.html)
+
+### 1982 · Heidi’s Song · Robert Taylor
+
+USA · Hanna-Barbera
+
+Der AFI-Katalog dokumentiert Hanna-Barberas Kinomusical, veröffentlicht 1982. Im fertigen Film erscheinen sechzehn Lieder; die lange Produktionsgeschichte reicht bis in die 1970er-Jahre zurück.
+
+**Dramaturgische Lesart / Prüfauftrag:** Lieder können Innenleben direkt hörbar machen, Figuren typisieren und Schauwerte erzeugen. Im Vergleich zur Alltagsdauer des Anime ist zu prüfen, ob der Film Wendepunkte über musikalische Höhepunkte organisiert.
+
+**Historischer Kontext:** Hanna-Barbera bringt Erfahrungen der Fernsehproduktion in einen abendfüllenden Kinofilm ein. Die Produktionsdauer war länger als zunächst angekündigt; die Veröffentlichung von 1982 ist deshalb nicht mit dem Projektbeginn gleichzusetzen.
+
+**Prüffrage:** Wann vertieft eine Musiknummer die Figur – und wann ersetzt sie Entwicklung durch einen Effekt?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://catalog.afi.com/Catalog/moviedetails/56792)
+
+- [AFI: Heidi’s Song (1982)](https://catalog.afi.com/Catalog/moviedetails/56792)
+
+### 1987 · Climb a Tall Mountain · Heinz Fussle
+
+USA · christlicher Kinderfilm
+
+Der Vertrieb Vision Video beschreibt den Film als christliche Erzählung mit Heidi, Peter, Hans und einem Holzschnitzer. Datierung und Laufzeit unterscheiden sich zwischen Angeboten; Apple nennt 1987 und 39 Minuten, der Vertrieb 45 Minuten.
+
+**Dramaturgische Lesart / Prüfauftrag:** Die Konfliktlösung soll eine moralische Einsicht vermitteln. Untersucht, ob die Veränderung aus den Erfahrungen der Figuren entwickelt oder durch eine ausdrücklich formulierte Botschaft gelenkt wird.
+
+**Historischer Kontext:** Die Auswertung im kirchlichen Bildungszusammenhang macht eine andere Zielgruppe sichtbar als Kinostart oder tägliches Kinderprogramm. Religiöse Adaption ist hier auch eine Frage des Vorführorts.
+
+**Prüffrage:** Welche Rolle spielt Vergebung in der Konfliktlösung?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Vertriebsvorschau zur Filmsammlung](https://vimeo.com/118949719)
+
+- [Vision Video: Classic Children’s Films, Vertriebsvorschau](https://vimeo.com/118949719)
+- [Apple TV: Climb a Tall Mountain (1987), Fassung mit 39 Minuten](https://tv.apple.com/us/episode/climb-a-tall-mountain/umc.cmc.2vod0e0y9mwa6ziiai1kph5tr?showId=umc.cmc.2exy0cnmdprj94soy0wn01jp8)
+
+### 1990 · Courage Mountain · Heidi’s New Adventure · Christopher Leitch
+
+USA / Frankreich · Juliet Caton
+
+Der AFI-Katalog datiert die Veröffentlichung auf 1990, die Dreharbeiten auf 1988. Die Geschichte spielt 1915 und macht Heidi zur Jugendlichen. Internat, Krieg und Flucht erweitern den vertrauten Figurenkreis.
+
+**Dramaturgische Lesart / Prüfauftrag:** Der Schwerpunkt wandert von Heimweh und häuslicher Fürsorge zu äusserer Gefahr und selbstständigem Handeln. Eine Fluchtfolge kann den Spannungsbogen als Kette räumlicher Hindernisse organisieren. Diese Verschiebung ist mit der stärker inneren Krise des Romans zu vergleichen.
+
+**Historischer Kontext:** Erzählte Zeit 1915, Produktionszeit 1988 und Kinostart 1990 sind getrennte Ebenen. Ein Kriegssetting belegt noch keine historische Genauigkeit; es verändert zunächst die Bedingungen, unter denen die Figur handeln muss.
+
+**Prüffrage:** Wie wird aus dem heimwehkranken Kind eine handelnde Abenteuerheldin?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://catalog.afi.com/Film/58458-COURAGE-MOUNTAIN)
+
+- [AFI: Courage Mountain (1990)](https://catalog.afi.com/Film/58458-COURAGE-MOUNTAIN)
+
+### 1992 · Heidi · Videokunst · Mike Kelley / Paul McCarthy
+
+USA · experimentelle Arbeit
+
+Das Whitney Museum führt die gemeinsame Arbeit von Kelley und McCarthy unter 1992. Die Sammlung Goetz beschreibt sie als subversive Neuinterpretation des Heidi-Stoffs. Es handelt sich um Videokunst, nicht um einen Kinderfilm.
+
+**Dramaturgische Lesart / Prüfauftrag:** Die Wiedererkennbarkeit des Stoffs kann zum Material seiner Demontage werden. Prüft anhand der Museumsbeschreibung, welche Erwartungen an Familie, Unschuld und häusliche Ordnung gebrochen werden. Eine Provokation ist noch nicht ihre eigene Erklärung.
+
+**Historischer Kontext:** In der Videokunst wird ein populäres Bildreservoir zur Kritik seiner kulturellen Voraussetzungen eingesetzt. Für den Unterricht genügt die Werkbeschreibung; eine Sichtung erfordert eine passende Lerngruppe und Vorbereitung.
+
+**Prüffrage:** Welche Vorstellungen von Familie muss das Publikum kennen, damit die Verfremdung wirkt?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://whitney.org/collection/works/34266)
+
+- [Whitney Museum: Mike Kelley / Paul McCarthy, Heidi (1992)](https://whitney.org/collection/works/34266)
+- [Sammlung Goetz: Heidi, Kelley / McCarthy](https://online.sammlung-goetz.de/en/work/heidi-mike-kelley-paul-mccarthy/)
+
 ### 1993 · Heidi · Michael Ray Rhodes
 
 USA · Noley Thornton, Jason Robards
 
 Disney D23 dokumentiert die Ausstrahlung als Disney Channel Premiere Film ab 18. Juli 1993. Noley Thornton spielt Heidi, Jason Robards den Grossvater und Jane Seymour Rottenmeier. Die Produktion entfaltet die Geschichte als zweiteilige Miniserie.
 
-**Dramaturgische Lesart:** Das längere Format eröffnet Raum für Vorgeschichten und die emotionale Perspektive Erwachsener. Daraus folgt eine prüfbare Frage: Wird Heidis Geschichte stärker als Heilung einer ganzen Familie erzählt? Entscheidend ist, wem die Inszenierung Wissen, Erinnerungen und eigene Szenen zugesteht. Mehr Laufzeit bedeutet nicht automatisch mehr Nähe zu Spyri.
+**Dramaturgische Lesart / Prüfauftrag:** Das längere Format eröffnet Raum für Vorgeschichten und die emotionale Perspektive Erwachsener. Daraus folgt eine prüfbare Frage: Wird Heidis Geschichte stärker als Heilung einer ganzen Familie erzählt? Entscheidend ist, wem die Inszenierung Wissen, Erinnerungen und eigene Szenen zugesteht. Mehr Laufzeit bedeutet nicht automatisch mehr Nähe zu Spyri.
 
 **Historischer Kontext:** Der Klassiker wird Teil eines markierten Familienprogramms im amerikanischen Kabelfernsehen. Ein literarisch vertrauter Titel und bekannte Darstellende können Orientierung geben; konkrete Publikumswirkungen sind damit noch nicht nachgewiesen.
 
@@ -412,13 +662,52 @@ Disney D23 dokumentiert die Ausstrahlung als Disney Channel Premiere Film ab 18.
 
 **Untersuchung:** Erstellt eine Liste von Szenen, in denen Heidi nicht anwesend ist. Welche Motive der Erwachsenen werden dadurch verständlich?
 
+- [Disney D23: Heidi (television), 1993](https://d23.com/a-to-z/heidi-television/)
+
+### 1995 · Heidi · Jetlag-Animation · Toshiyuki Hiruma / Takashi Masunaga
+
+USA / Japan · Jetlag Productions
+
+Die Jetlag-Fassung ist eine eigenständige Animation von 1995. Sie ist weder eine Folge des Takahata-Anime noch die spätere Animation von Alan Simpson.
+
+**Dramaturgische Lesart / Prüfauftrag:** Eine kurze Spielfassung muss auswählen: Welcher Konflikt wird gezeigt, welcher nur erklärt, welcher ganz ausgelassen? Prüft am Anfang und Schluss, wie schnell Bindungen hergestellt werden und welche Entwicklungsschritte als selbstverständlich erscheinen.
+
+**Historischer Kontext:** Die Fassung steht im Umfeld animierter Literaturbearbeitungen für den Heimvideomarkt der 1990er-Jahre. Das Vertriebsformat ist ein Anhaltspunkt für die Erzählökonomie, aber kein Qualitätsurteil.
+
+**Prüffrage:** Welche Kürzung verändert den Sinn stärker als die blosse Spieldauer?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.imdb.com/title/tt0213709/)
+
+- [IMDb: Heidi (1995), Jetlag-Fassung](https://www.imdb.com/title/tt0213709/)
+
+### 1998 / 1999 · Heidi · Gsponers Kurzfilm · Alain Gsponer
+
+Schweiz / Deutschland · Animation
+
+Gsponers früher Animationskurzfilm heisst ebenfalls Heidi. SRG und Regiefilmografien nennen 1998; Swiss Films führt den Titel unter 1999. Die Abweichung wird hier offengelegt.
+
+**Dramaturgische Lesart / Prüfauftrag:** Der Kurzfilm lässt sich als Frage an die Marke Heidiland lesen: Welche vertrauten Zeichen genügen, um ein ganzes Landesbild aufzurufen? Die Kürze begünstigt die Pointe anstelle einer ausführlichen Figurenentwicklung.
+
+**Historischer Kontext:** Der gleiche Regisseur realisierte später den langen Realfilm von 2015. Ein Autorvergleich darf deshalb nicht aus dem Namen auf eine gleichbleibende Haltung schliessen.
+
+**Prüffrage:** Was kann eine dreiminütige Intervention am Heidi-Bild zeigen, was ein Familienfilm anders verhandelt?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://swissfilms.ch/en/person/alain-gsponer/d4c40e6f25334f708ee61b4964f0dc37)
+
+- [Swiss Films: Alain Gsponer, Filmografie; abweichend SRG 1998](https://swissfilms.ch/en/person/alain-gsponer/d4c40e6f25334f708ee61b4964f0dc37)
+- [SRG: Gsponers Heidi und sein Kurzfilm von 1998](https://www.srgd.ch/aktuelles/news/harte-kindheit-statt-heile-welt-heidi-pfeift-auf-schonfarberei/)
+
 ### 2001 · Heidi · Markus Imboden
 
 Schweiz · Cornelia Gröschel
 
 Imboden verlegt den Stoff in die Gegenwart. Berlin tritt an die Stelle des historischen Frankfurt; Peter bewegt sich in einer Welt von Bike und Internet. Cornelia Gröschel spielt Heidi, Paolo Villaggio den Alpöhi. Die Einträge von Porta Cultura und SWI dokumentieren diese Modernisierung.
 
-**Dramaturgische Lesart:** Hier wird nicht nur die Kleidung ausgetauscht. Wenn Kommunikationsmöglichkeiten und Lebensstile sich verändern, muss die Handlung Heidis Isolation neu plausibel machen. Moderne Technik kann Nähe ermöglichen, hebt aber die Frage nach verlässlichen Beziehungen nicht auf. Heidi lässt sich stärker als aktiv handelnde Jugendliche lesen.
+**Dramaturgische Lesart / Prüfauftrag:** Hier wird nicht nur die Kleidung ausgetauscht. Wenn Kommunikationsmöglichkeiten und Lebensstile sich verändern, muss die Handlung Heidis Isolation neu plausibel machen. Moderne Technik kann Nähe ermöglichen, hebt aber die Frage nach verlässlichen Beziehungen nicht auf. Heidi lässt sich stärker als aktiv handelnde Jugendliche lesen.
 
 **Historischer Kontext:** Die Fassung erschien im Jahr von Spyris 100. Todestag. Der Klassiker wird an eine bereits vernetzte Gegenwart angeschlossen. Damit wird die Gleichsetzung von Heimat und vormoderner Abgeschiedenheit ausdrücklich überprüfbar.
 
@@ -426,13 +715,16 @@ Imboden verlegt den Stoff in die Gegenwart. Berlin tritt an die Stelle des histo
 
 **Untersuchung:** Erstellt zwei Spalten: «Oberfläche modernisiert» und «Konflikt verändert». Ordnet jeder Behauptung eine konkrete Szene zu.
 
+- [Kantonsbibliothek Graubünden / Porta Cultura: Heidi (2001)](https://portacultura.gr.ch/records/AVGR6945)
+- [SWI swissinfo: Up-to-date Heidi (29. März 2001)](https://www.swissinfo.ch/eng/culture/up-to-date-heidi-seen-on-swiss-cinema-screens/1961694)
+
 ### 2005 · Heidi · Paul Marcus
 
 Grossbritannien · Emma Bolger, Max von Sydow
 
 Emma Bolger spielt Heidi, Max von Sydow den Grossvater, Geraldine Chaplin Rottenmeier und Diana Rigg die Grossmutter Sesemann. Gemeint ist der Realfilm von Paul Marcus, nicht eine gleichnamige Animationsproduktion desselben Jahres.
 
-**Dramaturgische Lesart:** Als Gegenstück zur Modernisierung von 2001 lässt sich untersuchen, was die Rückkehr zu historischer Ausstattung leistet. Kostüm und Landschaft können eine zeitliche Distanz aufbauen, während Mimik und Nahaufnahmen gegenwärtige Identifikation anbieten. Ob daraus Nostalgie, historische Fremdheit oder beides entsteht, ist eine Frage an konkrete Szenen.
+**Dramaturgische Lesart / Prüfauftrag:** Als Gegenstück zur Modernisierung von 2001 lässt sich untersuchen, was die Rückkehr zu historischer Ausstattung leistet. Kostüm und Landschaft können eine zeitliche Distanz aufbauen, während Mimik und Nahaufnahmen gegenwärtige Identifikation anbieten. Ob daraus Nostalgie, historische Fremdheit oder beides entsteht, ist eine Frage an konkrete Szenen.
 
 **Historischer Kontext:** Die internationale Besetzung macht den Schweizer Stoff innerhalb eines englischsprachigen Familienfilms zugänglich. Historische Ausstattung ist jedoch kein Beleg für historische Genauigkeit oder grössere Werktreue.
 
@@ -440,13 +732,69 @@ Emma Bolger spielt Heidi, Max von Sydow den Grossvater, Geraldine Chaplin Rotten
 
 **Untersuchung:** Vergleicht dieselbe Alltagshandlung in 2001 und 2005: Essen, Lernen oder Ankunft in der Stadt. Trennt Ausstattung von Handlung und Figurenperspektive.
 
+- [Common Sense Media: Heidi (2005), Filmangaben](https://www.commonsensemedia.org/movie-reviews/heidi-2005)
+
+### 2005 · Heidi · Zeichentrickfilm · Alan Simpson
+
+Deutschland / Kanada / Grossbritannien
+
+Filmportal weist eine eigenständige Zeichentrickproduktion von TV-Loonland, Nelvana und Telemagination aus, mit deutschem Kinostart am 22. Dezember 2005. Paul Marcus’ Realfilm desselben Jahres ist eine andere Produktion.
+
+**Dramaturgische Lesart / Prüfauftrag:** Prüfauftrag: Vergleicht denselben Beziehungskonflikt in beiden 2005er-Filmen. Untersucht Körperbewegung, Mimik und Landschaftsraum, ohne Animation automatisch als weniger realistisch im emotionalen Sinn zu bewerten.
+
+**Historischer Kontext:** Die internationale Koproduktion zeigt, dass Heidi nicht ausschliesslich als Schweizer Kulturgut vermarktet wird. Herstellungsland, Handlungsschauplatz und Sprachfassung fallen auseinander.
+
+**Prüffrage:** Was leistet die gezeichnete Körperlichkeit für die Darstellung von Nähe und Verletzlichkeit?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.filmportal.de/film/heidi_24a1ad0d0348473b971042ec1b19b8dc)
+
+- [DFF / filmportal: Heidi (2004/2005), Alan Simpson](https://www.filmportal.de/film/heidi_24a1ad0d0348473b971042ec1b19b8dc)
+
+### 2007 / 2008 · Heidi · Heidi & Co. · Pierre-Antoine Hiroz / Anne Deluz
+
+Schweizerisch-internationale Koproduktion · Élodie Bollée
+
+Die moderne Jugendserie versetzt Heidi in eine zeitgenössische Lebenswelt mit Schule und neuen Freundschaften. Die Ausstrahlung begann in der Schweiz 2007; andere Märkte führten sie 2008.
+
+**Dramaturgische Lesart / Prüfauftrag:** Die einzelne Trennung wird zum wiederkehrenden Konflikt zwischen Herkunft und neuem Alltag. Freundschaften und Zugehörigkeit erzeugen Stoff für viele Episoden. Untersucht, wie ein Schulkonflikt eine Funktion des ursprünglichen Stadt-Land-Gegensatzes übernimmt.
+
+**Historischer Kontext:** Der Klassiker wird an Formate jugendlicher Serienunterhaltung angeschlossen. Modernisierung betrifft nicht nur Kleidung und Technik, sondern auch Alter, Handlungsmacht und soziale Institutionen.
+
+**Prüffrage:** Wie viel vom Heidi-Stoff bleibt übrig, wenn Schule und Gleichaltrige den Alltag bestimmen?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.allocine.fr/series/ficheserie-3766/saison-6780/)
+
+- [AlloCiné: Heidi, Staffel und Episoden (2007)](https://www.allocine.fr/series/ficheserie-3766/saison-6780/)
+
+### 2008 · Heidi 4 Paws: A Furry Tale · Holly Goldberg Sloan
+
+USA · Hunde in den Figurenrollen
+
+Die Adaption besetzt die Heidi-Rollen mit Hunden und gibt ihnen menschliche Stimmen. WTTW dokumentiert Heidi 4 Paws in seinem Jahresbericht 2008 als nationale Produktion.
+
+**Dramaturgische Lesart / Prüfauftrag:** Sichtbare Tierkörper und menschliche Rede erzeugen eine doppelte Wahrnehmung. Prüft, wie Stimme und Schnitt eine Absicht zuschreiben, die aus der Tierbewegung allein nicht hervorgeht. Der bekannte Stoff hilft dabei, ungewöhnliche Rollenbesetzungen sofort zu verstehen.
+
+**Historischer Kontext:** Die Produktion gehört zur Familienunterhaltung im Umfeld des US-Public-Television-Systems. Sie zeigt, wie weit die Figurenstruktur transportierbar ist, auch wenn sich die sichtbaren Darstellenden grundlegend verändern.
+
+**Prüffrage:** Wann sehen wir eine Tierbewegung – und wann lesen wir bereits menschliche Gefühle hinein?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Filmseite · deutscher Teaser](https://www.filmstarts.de/kritiken/217263.html)
+
+- [WTTW: Jahresbericht 2008, Heidi 4 Paws](https://www.wttw.com/sites/default/files/2008-WTTW-WFMT-Annual-Report.pdf)
+
 ### 2015 · Heidi · Alain Gsponer
 
 Schweiz / Deutschland · Anuk Steffen, Bruno Ganz
 
 Der Realfilm entstand nach einem Drehbuch von Petra Volpe. Anuk Steffen spielt Heidi, Bruno Ganz den Alpöhi. Das begleitende Unterrichtsmaterial macht Heidis Wunsch, Geschichten zu schreiben, zu einem wichtigen Ausgangspunkt der Arbeit.
 
-**Dramaturgische Lesart:** Heidis Zukunft gewinnt ein eigenes Ziel. Lesen führt damit nicht nur zur Fürsorge für andere, sondern zur Vorstellung eigener Autorschaft. Das verändert den Bildungsbogen: Das Kind darf sich eine Zukunft vorstellen, die über vorgegebene Rollen hinausweist. Diese Deutung sollte mit den Schul- und Schreibszenen und dem Schluss belegt werden.
+**Dramaturgische Lesart / Prüfauftrag:** Heidis Zukunft gewinnt ein eigenes Ziel. Lesen führt damit nicht nur zur Fürsorge für andere, sondern zur Vorstellung eigener Autorschaft. Das verändert den Bildungsbogen: Das Kind darf sich eine Zukunft vorstellen, die über vorgegebene Rollen hinausweist. Diese Deutung sollte mit den Schul- und Schreibszenen und dem Schluss belegt werden.
 
 **Historischer Kontext:** Der historische Schauplatz wird mit einer zeitgenössischen Frage nach weiblicher Selbstbestimmung verbunden. Die Modernisierung betrifft Werte und Zielvorstellungen, ohne die Handlung wie 2001 in die Gegenwart zu verlegen.
 
@@ -454,13 +802,19 @@ Der Realfilm entstand nach einem Drehbuch von Petra Volpe. Anuk Steffen spielt H
 
 **Untersuchung:** Vergleicht die Bildungsziele des Films mit dem Vorlesen für Peters Grossmutter im Roman. Welche Handlungsmöglichkeiten erhält Heidi jeweils?
 
+[Produktion · Trailer & Bilder](https://claussen-putz.de/filme/heidi/?lang=en)
+
+- [SWISS FILMS: Heidi (2015)](https://www.swissfilms.ch/de/movie/heidi/888b5e77507647fca49e7f9f4617cb37)
+- [Stiftung Lesen: Unterrichtsmaterial zu Heidi (2015)](https://www.stiftunglesen.de/fileadmin/Schulportal/06_Lehrmaterial/02_Materialien_zur_Filmbildung/30_HEIDI/HEIDI_final_D_02.pdf)
+- [Klimek: Gott statt Goethe (2026), S. 29–60, besonders 49–54](quellen/Heidiundmehr.pdf#page=55)
+
 ### 2015 / 2019 · Heidi · Die CGI-Serie · Studio 100 · Regie der ersten Serie: Jérôme Mouscadet
 
 Internationale Produktion · 3D-Animation
 
 Studio 100 führt 39 Folgen der ersten und 26 Folgen der zweiten Staffel auf, jeweils etwa 22 Minuten. Der Katalog nennt die Produktionsjahre 2014–2015 und 2019 und eine Zielgruppe von fünf bis acht Jahren. Dies ist ein eigenständiger Titel neben Gsponers Realfilm.
 
-**Dramaturgische Lesart:** Eine wiedererkennbare Figurenwelt lässt sich durch neue episodische Probleme erweitern. Der dramaturgische Schwerpunkt kann dadurch von der einmaligen grossen Lebensveränderung zu wiederholbaren Abenteuern und Alltagslösungen wandern. Zu prüfen ist, wie stark einzelne Folgen abgeschlossen sind und welche Entwicklung über mehrere Folgen bestehen bleibt.
+**Dramaturgische Lesart / Prüfauftrag:** Eine wiedererkennbare Figurenwelt lässt sich durch neue episodische Probleme erweitern. Der dramaturgische Schwerpunkt kann dadurch von der einmaligen grossen Lebensveränderung zu wiederholbaren Abenteuern und Alltagslösungen wandern. Zu prüfen ist, wie stark einzelne Folgen abgeschlossen sind und welche Entwicklung über mehrere Folgen bestehen bleibt.
 
 **Historischer Kontext:** Die Serie steht in einer internationalen Kinderfernseh- und Lizenzökonomie. Der Katalog beschreibt ein Produkt und seine Zielgruppe; seine Aussagen sind keine unabhängige Qualitätsbewertung und keine Publikumsstudie.
 
@@ -468,13 +822,33 @@ Studio 100 führt 39 Folgen der ersten und 26 Folgen der zweiten Staffel auf, je
 
 **Untersuchung:** Untersucht den Anfang und Schluss zweier Folgen. Erstellt ein Schema aus Problem, Versuch, Lösung und verbleibender Veränderung.
 
+- [Studio 100: Heidi, CGI-Serie (2014–2015 / 2019)](https://www.studio100international.com/en/catalog/heidi-2/)
+
+### 2017 · Heidi, bienvenida a casa · Marcela Citterio · Serienkonzept
+
+Argentinien / Mondo TV · Chiara Francia
+
+Die für Nickelodeon entwickelte Serie überträgt Heidi in die moderne lateinamerikanische Jugendunterhaltung. Mondo TV beschreibt die Zusammenarbeit mit Alianzas Producciones und die Verbindung von bekanntem Stoff und neuen Figuren.
+
+**Dramaturgische Lesart / Prüfauftrag:** Lang laufende Handlungsbögen leben von wechselnden Bündnissen, Geheimnissen und aufgeschobenen Lösungen. Untersucht, wie eine wiederkehrende Figurenkonstellation Spannung erzeugt und welche Rolle musikalische Auftritte dabei übernehmen.
+
+**Historischer Kontext:** Die Adaption zeigt einen internationalen Medienverbund aus Serienfigur, Musik und jugendlichem Publikum. Eine kulturelle Übertragung verändert sowohl die erzählte Welt als auch die Art, wie das Publikum die Figur begleitet.
+
+**Prüffrage:** Was wird aus Heidis Heimweh, wenn der Stoff zur musikalischen Jugendserie wird?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Katalog / Nachweis öffnen](https://www.bmegrowth.es/docs/documentos/Otros/2016/12/MONDO_Folleto_20161216.pdf)
+
+- [Mondo TV Iberoamérica: Unternehmensdokument 2016, Heidi-Projekt](https://www.bmegrowth.es/docs/documentos/Otros/2016/12/MONDO_Folleto_20161216.pdf)
+
 ### 2022 · Mad Heidi · Johannes Hartmann / Sandro Klopfstein
 
 Schweiz · Alice Lucy · für Erwachsene
 
 In einer dystopischen Schweiz herrscht ein Käsemagnat. Die erwachsene Heidi wird zur Kämpferin gegen das Regime. Die Produktion bezeichnet ihren Film als Swissploitation und verbindet Heimatfilmparodie mit Action- und Splatterformen.
 
-**Dramaturgische Lesart:** Die Bewegung zur Versöhnung wird durch einen Kampf gegen Herrschaft ersetzt. Vertraute Zeichen wie Käse und Alpen verlieren ihre Harmlosigkeit. Die Parodie benötigt jedoch genau die Wiedererkennbarkeit, die sie angreift: Das Klischee ist Gegenstand des Spotts und zugleich Verkaufsargument.
+**Dramaturgische Lesart / Prüfauftrag:** Die Bewegung zur Versöhnung wird durch einen Kampf gegen Herrschaft ersetzt. Vertraute Zeichen wie Käse und Alpen verlieren ihre Harmlosigkeit. Die Parodie benötigt jedoch genau die Wiedererkennbarkeit, die sie angreift: Das Klischee ist Gegenstand des Spotts und zugleich Verkaufsargument.
 
 **Historischer Kontext:** Die Produktion verweist selbst auf Heimatfilm und Exploitationkino. Daraus ergibt sich ein doppelter historischer Bezug, nicht einfach eine Rückkehr zu Spyri. Die politische Bedeutung einer Übertreibung muss am konkreten Ziel des Spotts begründet werden.
 
@@ -482,19 +856,79 @@ In einer dystopischen Schweiz herrscht ein Käsemagnat. Die erwachsene Heidi wir
 
 **Untersuchung:** Im Unterricht mit einer geprüften Synopsis oder einem geeigneten Plakat arbeiten. Keine automatische Filmvorführung: Der Film enthält explizite Gewalt und richtet sich an Erwachsene.
 
+- [SWISS FILMS: Mad Heidi (2022)](https://www.swissfilms.ch/en/movie/mad-heidi/e2d52cd513ba427d9305da7a63a7746e)
+- [a film company: Mad Heidi – Selbstbeschreibung der Produktion](https://afilmcompany.ch/en/film/mad-heidi-2/)
+
+### 2024 · Heidi · Precious Light Pictures · Lynn Moody
+
+USA · Emily Dunphey / Tim Kaiser
+
+Die Produktionsfirma führt den Film als Veröffentlichung von 2024 und betont die christliche Dimension der Vorlage. Regie und Drehbuch stammen von Lynn Moody.
+
+**Dramaturgische Lesart / Prüfauftrag:** Die Produktionsselbstdarstellung legt Vertrauen in Gottes Plan als Deutungsrahmen nahe. Prüft, ob die Inszenierung diesen Zusammenhang durch Dialog, Erzählerrede oder das Arrangement der Ereignisse herstellt. Das Werbeversprechen der Treue ist selbst ein Analysegegenstand.
+
+**Historischer Kontext:** In der US-amerikanischen christlichen Filmkultur kann die Wiederentdeckung religiöser Stoffanteile ein eigenes Profil gegenüber säkularisierten Adaptionen bilden. Das ist eine Position im Feld der Bearbeitungen, kein neutraler Massstab für alle Fassungen.
+
+**Prüffrage:** Wie wird aus einer religiösen Lesart der Anspruch, dem Original besonders treu zu sein?
+
+**Untersuchung:** Begründet eure Deutung mit einer konkreten Szene und Zeitcode. Wenn nur der Nachweis zugänglich ist, formuliert eine überprüfbare Hypothese und kennzeichnet sie als solche.
+
+[Film auf YouTube · Link der Produktionsfirma](https://youtu.be/_9zLD2CUlVM)
+
+- [Precious Light Pictures: Heidi (2024)](https://preciouslightpictures.com/ourfilms.php)
+
 ### 2025 · Heidi – Die Legende vom Luchs · Tobias Schwarz
 
 Deutschland / Spanien / Belgien · CGI-Kinofilm
 
 Studio 100 beschreibt eine neue Geschichte: Heidi und Peter helfen einem verletzten Luchsjungen und geraten mit einem Geschäftsmann aneinander, der ein Sägewerk errichten will. Der Film ist eine Erweiterung der Figurenwelt, keine erneute Nacherzählung beider Romane.
 
-**Dramaturgische Lesart:** Natur wird zum bedrohten Gegenstand kindlichen Handelns. Der Konflikt organisiert sich als zielgerichtete Rettungsmission mit einem äusseren Gegenspieler. Im Vergleich zum Anime von 1974 verschiebt sich das Gewicht vom Leben in einer Umwelt zu einer Handlung, die deren Schutz ausdrücklich zum Ziel erklärt.
+**Dramaturgische Lesart / Prüfauftrag:** Natur wird zum bedrohten Gegenstand kindlichen Handelns. Der Konflikt organisiert sich als zielgerichtete Rettungsmission mit einem äusseren Gegenspieler. Im Vergleich zum Anime von 1974 verschiebt sich das Gewicht vom Leben in einer Umwelt zu einer Handlung, die deren Schutz ausdrücklich zum Ziel erklärt.
 
 **Historischer Kontext:** Die ökologische Botschaft steht bereits in der Selbstdarstellung des Produzenten. Damit ist eine Vermarktungs- und Erzählabsicht belegt. Wie differenziert der Film wirtschaftliche Interessen und Naturschutz darstellt, muss eine Filmsichtung zeigen.
 
 **Prüffrage:** Was verändert sich, wenn die Natur selbst gerettet werden muss?
 
 **Untersuchung:** Vergleicht die Rolle der Tiere in einer Alltagsfolge von 1974 und in der Luchs-Handlung. Sind sie Umgebung, Beziehungspartner oder Auslöser einer Mission?
+
+- [Studio 100: Heidi – Rescue of the Lynx (2025)](https://www.studio100international.com/en/catalog/heidi-rescue-of-the-lynx/)
+- [Stetter: Materialität des Stadt-Land-Gegensatzes (2026), S. 203–224](quellen/Heidiundmehr.pdf#page=209)
+
+### Schnittfassungen und Ausgaben
+
+- **1975 / 1980 / 1985 · The Story of Heidi:** Englische Kompilation des Anime. Die Angaben betreffen Copyright, Veröffentlichung und spätere US-VHS-Auswertung; keine drei Neuproduktionen. [Nachweis](https://en.wikipedia.org/wiki/Heidi,_Girl_of_the_Alps)
+- **1978 · Heidi in città / Heidi va in città:** Italienische Kino-Kompilation mit Schwerpunkt Frankfurt. [Nachweis](https://www.cinematografo.it/film/heidi-in-citta-bfafpkmk)
+- **1978 · Heidi torna tra i monti / Heidi torna sui monti:** Italienische Kompilation der Rückkehr und der Klara-Handlung. [Nachweis](https://www.antoniogenna.net/doppiaggio/anim/heidi.htm)
+- **1979 · Heidi a scuola:** Italienische Kino-Kompilation; die Veröffentlichungsreihenfolge entspricht nicht der Handlungsreihenfolge. [Nachweis](https://www.antoniogenna.net/doppiaggio/anim/heidi.htm)
+- **1979 · Alps no Shōjo Heidi · japanische Kinokompilation:** Zusammenschnitt der Serie von 1974; eigene Schnittfassung, kein neuer gezeichneter Gesamtfilm. [Nachweis](https://www.ne.jp/asahi/ts/hp/file5_heidi/file5004_moku5_eizo.html)
+- **Heimvideo · Heidi sui monti:** Als Ersatz für Heidi a scuola in späteren italienischen Zusammenstellungen geführt. Die genaue Ausgabe muss am Datenträger geprüft werden. [Nachweis](https://www.antoniogenna.net/doppiaggio/anim/heidi.htm)
+- **1993 · Alps no Shōjo Heidi: Arumu no Yama-hen:** Erster Teil der japanischen Video-Zusammenfassung. [Nachweis](https://en.wikipedia.org/wiki/Heidi,_Girl_of_the_Alps)
+- **1993 · Alps no Shōjo Heidi: Heidi to Clara-hen:** Zweiter Teil derselben Video-Bearbeitung. [Nachweis](https://en.wikipedia.org/wiki/Heidi,_Girl_of_the_Alps)
+- **1999 · Ausgabenangabe · Heidi in den Bergen:** Teil 1 einer deutschsprachigen Dreiteilung des Anime. [Nachweis](https://de.wikipedia.org/wiki/Heidi_(Roman))
+- **1999 · Ausgabenangabe · Heidi in der Stadt:** Teil 2 der Dreiteilung; kein eigenständiges Animationsremake. [Nachweis](https://de.wikipedia.org/wiki/Heidi_(Roman))
+- **1999 · Ausgabenangabe · Heidi zurück in den Bergen:** Teil 3 der Dreiteilung. [Nachweis](https://de.wikipedia.org/wiki/Heidi_(Roman))
+- **2000 · Ausgabenangabe · Heidi – Kindheit in den Bergen:** Erster Teil einer neu synchronisierten Zweiteilung. [Nachweis](https://de.wikipedia.org/wiki/Heidi_(Roman))
+- **2000 · Ausgabenangabe · Heidi – Ein Sommer voller Glück:** Zweiter Teil der Zweiteilung. Datierung bezeichnet die Ausgabe. [Nachweis](https://de.wikipedia.org/wiki/Heidi_(Roman))
+
+### Grenzfälle und offene Zuordnungen
+
+- **1954 · Frühlingslied / Heidi und ihre Freunde:** Hans Albin; motivische und vermarktungsbezogene Nachbarschaft. Filmportal beschreibt eine Waisenkindgeschichte um Wolfgang. Nicht als direkte Verfilmung des Heidi-Romans zählen. [Nachweis](https://www.filmportal.de/film/fruehlingslied_2f524a7bc12c4cfa8720f0a3c88b95b4)
+- **1956 · Heidemarie / S’Waisechind vo Engelberg:** Spyri-Verwandtschaft und Heidi-Erfolgsumfeld, aber eine andere Waisenkindgeschichte. Ein eigener Grenzfall der Wirkungsgeschichte. [Nachweis](https://www.filmdienst.de/film/details/10573/heidemarie)
+- **1977 · Heidi diventa principessa:** Italienischer Vermarktungstitel für einen anderen Toei-Stoff; keine Heidi-Romanadaption. [Nachweis](https://www.antoniogenna.net/doppiaggio/anim/heidi.htm)
+- **1991 · Sugar & Spice: Heidi:** Als kurze Animationsfassung katalogisiert. Eigenständigkeit gegenüber anderen bearbeiteten oder synchronisierten Ausgaben noch nicht durch Produktionsunterlagen geklärt. Als Recherchefund erhalten, nicht mit Jetlag 1995 gleichsetzen. [Nachweis](https://www.filmweb.pl/film/Heidi-1991-185795/vod)
+- **2002 · Heidi · Albert Hanan Kaminski zugeschrieben:** Filmografische Angabe mit Klärungsbedarf. Filmportal nennt Kaminski in der Vorproduktion der 2005er-Animation. Ohne gesonderten Veröffentlichungsbeleg wird daraus hier kein zusätzlicher erschienener Film. [Nachweis](https://www.filmportal.de/film/heidi_24a1ad0d0348473b971042ec1b19b8dc)
+- **2007 · Angeblicher französischer Film mit schwarzer Heidi und schwarzem Peter:** In einer allgemeinen Übersicht erwähnt, aber ohne belastbare identifizierende Produktionsangaben bestätigt. Nicht mit der Jugendserie Heidi & Co. verwechseln. [Nachweis](https://en.wikipedia.org/wiki/Heidi)
+- **1958 / 1959 · US-Fernsehmusical: abweichende Jahresangaben:** Das konkret identifizierte Liebman-Musical ist beim Paley Center am 1.10.1955 belegt. Abweichende Listenangaben nicht als zusätzliche Produktionen zählen. [Nachweis](https://www.paleycenter.org/collection/item?item=B%3A29624)
+- **1960 · Heidi · pauschaler Serienhinweis:** Eine zusätzliche Serie ist in allgemeinen Listen genannt, aber noch nicht unabhängig von BBC 1959 identifiziert. Eine Jahreszahl allein reicht nicht für einen neuen Datensatz. [Nachweis](https://de.wikipedia.org/wiki/Heidi_(Roman))
+
+### Dokumentarfilm
+
+- **1998 · Heidi Forever · Denise Gilliand:** Dokumentarische Untersuchung der weltweiten Heidi-Rezeption. Ergänzt die Adaptionen als Film über den Mythos; nicht als weitere Romanverfilmung gezählt. [Nachweis](https://swissfilms.ch/en/person/denise-gilliand/7ba6f1b7fa4a418f9571dfbc82625e06)
+
+### Angekündigte Produktionen
+
+- **2027 · angekündigt · Heidi · SRF / RTL:** Johannes Bachmann und Isabel Prahl; mit Neah Hefti und Christian Kohlund. SRF meldet im Juni 2026 den Drehbeginn. Erzählt wird das Älterwerden nach den bekannten Romanereignissen. Noch keine abgeschlossene Filmanalyse möglich. [Nachweis](https://medien.srf.ch/-/neue-%C2%ABheidi%C2%BB-serie-von-srf-und-rtl-entsteht?redirect=%2F)
+- **2025 angekündigt · Termin offen · Heidi · Zodiac / Claussen+Putz / Studiocanal:** Separates Miniserienprojekt, angekündigt im Januar 2025. Nicht mit der SRF/RTL-Serie zusammenlegen. Der damalige Bericht nennt noch keinen Sender; ein bestätigter aktueller Starttermin liegt dieser Recherche nicht vor. [Nachweis](https://www.dwdl.de/nachrichten/101154/kinderbuchklassiker_heidi_soll_zur_miniserie_werden/)
 
 ## Untersuchungsprotokoll
 
