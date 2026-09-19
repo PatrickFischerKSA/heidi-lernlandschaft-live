@@ -290,13 +290,15 @@ USA · Stummfilm / Prizma
 
 Schon vor Shirley Temple gelangte Heidi ins Kino. Die filmhistorische Datenbank der Universität Zürich verzeichnet die Fassung von 1920 im Zusammenhang mit dem Prizma-Verfahren. Stummfilm und früher Farbfilm sind also keine Gegensätze.
 
-**Dramaturgische Lesart:** Diese Station markiert eine Grenze unseres Wissens: Ohne eine gesichtete vollständige Kopie lässt sich keine belastbare Szenendramaturgie rekonstruieren. Eine moderne Inhaltsangabe oder ein einzelnes Standbild ersetzt den Film nicht. Untersuchen lässt sich dagegen, wie der literarisch bekannte Stoff an eine neue Bildtechnik gekoppelt wurde.
+**Dramaturgische Lesart:** Das bereitgestellte Fragment erlaubt nun eine Untersuchung konkreter Einstellungen und ihrer Abfolge. Beschreibt mit Zeitangaben, wie Bildausschnitt, Gestik, Montage und gegebenenfalls Zwischentitel die Aufmerksamkeit lenken. Trennt sichtbare Beobachtung und Deutung. Aus dem rund zweieinhalbminütigen Ausschnitt lassen sich weder der vollständige Handlungsbogen noch die Gewichtung aller Figuren ableiten.
 
 **Historischer Kontext:** In der frühen Filmgeschichte konkurrierten verschiedene Verfahren darum, Farbe auf die Leinwand zu bringen. Eine vertraute Erzählung konnte dabei Orientierung bieten. Dies ist eine medienhistorische Einordnung, kein nachgewiesenes Produktionsmotiv dieses Films.
 
 **Prüffrage:** Welche Aussagen über eine Verfilmung erlauben Titel, Katalogeintrag und erhaltenes Bild – und welche gerade nicht?
 
-**Untersuchung:** Archivkritik statt ungesicherter Szenenanalyse: Dokumentiert die Überlieferungslage und die Herkunft jeder Information.
+**Untersuchung:** Sichtet das Fragment zweimal. Protokolliert drei Momente mit Zeitcode, sichtbarem Gestaltungsmittel und möglicher Wirkung. Formuliert danach eine begründete Deutung und eine Frage, die nur eine vollständigere Kopie beantworten könnte. Die Zuordnung der bereitgestellten Datei beruht auf ihrer Bezeichnung; ihre Digitalisierungsgeschichte ist nicht dokumentiert.
+
+**Filmfragment (2:30 Minuten):** [MP4 öffnen](https://patrickfischerksa.github.io/heidi-lernlandschaft-live/media/heidi-of-the-alps-1920-fragment.mp4). Bereitgestellte Datei; Herkunft der Digitalisierung nicht dokumentiert.
 
 ### 1937 · Heidi · Allan Dwan
 
