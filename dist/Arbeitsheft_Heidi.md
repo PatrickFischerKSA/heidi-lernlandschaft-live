@@ -1085,3 +1085,144 @@ Eine mögliche Antwort (erst nach der eigenen Bearbeitung lesen):
 
 Die Heidi- und Johanna-Spyri-Archive wurden 2023 in Memory of the World aufgenommen, also in das Weltdokumentenerbe. Gemeint sind Dokumente und Sammlungen. Das Heididorf erhielt dadurch keinen Welterbetitel.
 
+
+## Videoquellen und offene Cliprecherche
+
+Stand: 19. September 2026. 30 von 34 eigenständigen Produktionen enthalten ein lokales Fragment oder einen externen Videoplayer. Die 13 zusätzlichen Schnittfassungen sind noch nicht durch ausgabenspezifische Clips belegt. Bei externen Videos kann die Verfügbarkeit wechseln. Trailer, Vorspann und einzelne Szene haben unterschiedliche Aussagekraft.
+
+### 1920 · Heidi of the Alps
+
+Lokales Filmfragment: [media/heidi-of-the-alps-1920-fragment.mp4](media/heidi-of-the-alps-1920-fragment.mp4).
+
+### 1937 · Heidi
+
+[Historischer Trailer](https://www.youtube.com/watch?v=hwr25WXUHxA) · Public Domain Stuff · Englisch. Externer Archivupload. Der Kanalname ist kein Nachweis für Gemeinfreiheit.
+
+### 1952 · Heidi
+
+[Restaurierungstrailer · 1:49](https://vimeo.com/645984065) · filmo · Schweizerdeutsch. Trailer zur restaurierten Fassung; veröffentlicht 2021, Film von 1952.
+
+### 1953 · Heidi · BBC
+
+Kein überprüfbarer öffentlicher Filmclip zur BBC-Produktion mit Julia Lockwood gefunden. Treffer zum Schweizer Film von 1952 sind kein Ersatz. Der Erhaltungszustand ist hier nicht abschliessend geklärt.
+
+### 1954 · Heidi Grows Up
+
+Kein überprüfbarer öffentlicher Clip zu «Heidi Grows Up» gefunden. Hörbücher des gleichnamigen Romans und «Heidi und Peter» (1955) gehören nicht zu dieser BBC-Produktion.
+
+### 1955 · Heidi und Peter
+
+[Restaurierungstrailer · 1:44](https://vimeo.com/645984230) · filmo · Schweizerdeutsch. Trailer zur restaurierten Fassung; Film von 1955.
+
+### 1955 · Max Liebman Presents: Heidi
+
+[Musical-Ausschnitt · 1:45](https://www.youtube.com/watch?v=Sf1IeVHBUQU) · Video Artists International (vaimusic) · Englisch. Vertriebsvorschau zur Fernsehproduktion mit Jeannie Carson und Natalie Wood. Der erhaltene Ausschnitt ist schwarzweiss.
+
+### 1958 · A Gift for Heidi
+
+[Filmanfang · spanische Synchronfassung](https://www.youtube.com/watch?v=aHZiubyGbd0) · Raro VHS · Spanisch. VHS-Archivupload zu «Un regalo para Heidi». Sandy Descher spielt Heidi; nicht mit der BBC-Serie verwechseln.
+
+### 1958 · Do Phool
+
+[Filmanfang · erste 3 Minuten](https://www.youtube.com/watch?v=V5CUt-zJurM) · Navsaar Movies / Nupur Audio · Hindi. Ausschnitt aus dem angebotenen Gesamtfilm. Die eingebettete Auswahl endet nach drei Minuten; der Quellenlink führt zum vollständigen Upload.
+
+### 1959 · Heidi · BBC-Neubearbeitung
+
+Kein überprüfbarer öffentlicher Clip zur BBC-Serie mit Sara O’Connor gefunden. Sendungsnachweise belegen die Produktion, liefern aber keine abspielbaren Szenen. Keine pauschale Behauptung, die gesamte Serie sei verschollen.
+
+### 1965 · Heidi
+
+[Filmanfang · erste 3 Minuten](https://www.youtube.com/watch?v=UYrQh9OvBtY) · All Time Classic Movies · Deutsch. Fassung mit Gustav Knuth und Eva Maria Singhammer. Auswahl aus einem Gesamtfilm-Upload.
+
+### 1968 · Heidi
+
+[Trailer](https://www.youtube.com/watch?v=gUa6eoObF-Q) · Vision Video · Englisch. Verleihtrailer zur Delbert-Mann-Fassung mit Jennifer Edwards und Michael Redgrave.
+
+### 1974 · Alps no Shōjo Heidi
+
+[Szenenauswahl · Heidi träumt von den Bergen](https://www.youtube.com/watch?v=9SooJz8YsAU) · Studio 100 – Heroes of Childhood · Deutsch. Offizieller Kanal für die klassischen Zeichentrickserien. Deutsch synchronisierte Ausschnitte des Anime, keine CGI-Neuverfilmung.
+
+### 1974 · Heidi · BBC-Realserie
+
+[Filmanfang · erste 3 Minuten](https://www.youtube.com/watch?v=Znn5ZTLSUik) · freedomfufighter · Englisch. Externer VHS-Archivupload der BBC-Fassung mit Emma Blake. Die Vorlage weist laut Uploader Bild- und Tonfehler auf; keine offizielle BBC-Veröffentlichung.
+
+### 1978 · Heidi
+
+[Vorspann der Realserie](https://www.youtube.com/watch?v=RPtaKhZ7OZ4) · Seb Jec · Deutsch. Archivupload des Vorspanns mit Katia Polletin. Der Vorspann eignet sich für den Vergleich von Landschaft, Figurenpräsentation und Titelmusik.
+
+### 1978 · The New Adventures of Heidi
+
+[Zeitgenössischer NBC-Promoclip · 0:11](https://www.youtube.com/watch?v=GLHkiUdznHs) · robatsea2009 · Englisch. Kurzer Sendetrailer von Dezember 1978 mit Burl Ives und Katy Kurtzman. Ein Werbeversprechen, keine vollständige Szene.
+
+### 1982 · Heidi’s Song
+
+[Offizieller Filmausschnitt](https://www.youtube.com/watch?v=-jVYCB2xly4) · Warner Bros. Classics / Warner Archive · Englisch. Ausschnitt aus dem Hanna-Barbera-Kinomusical.
+
+### 1987 · Climb a Tall Mountain
+
+[Filmanfang · erste 3 Minuten](https://www.youtube.com/watch?v=abTPN1g_ZHA) · Vision Video · Englisch. Datierungsabweichung: Der Verleih nennt im Videotitel 1996; der Katalognachweis der Lernlandschaft führt 1987. Regisseur Heinz Fussle und die Besetzung stimmen überein. Die Datierung bleibt zu klären.
+
+### 1990 · Courage Mountain · Heidi’s New Adventure
+
+[Historischer VHS-Trailer](https://www.youtube.com/watch?v=ebUb30Fi9DA) · 2ombieboy’s VHS Vault · Englisch. Archivupload des Trailers von Entertainment in Video; zeigt die Vermarktung als Abenteuerfilm.
+
+### 1992 · Heidi · Videokunst
+
+[Vorführtrailer · 2:08](https://vimeo.com/57293131) · Spectacle Theater · Englisch. Trailer des Kinos zur Vorführung der Videoarbeit von Kelley/McCarthy. Experimentelle, verstörende Puppen- und Körperbilder; vor Unterrichtseinsatz sichten.
+
+### 1993 · Heidi
+
+[Historischer Heimvideo-Trailer](https://www.youtube.com/watch?v=5FKoYvdxjOg) · Films and Cinema Collection · Englisch. Archivupload des Disney-Heimvideo-Trailers mit Noley Thornton, Jason Robards und Jane Seymour.
+
+### 1995 · Heidi · Jetlag-Animation
+
+[Musikszene · This Is Home · 2:41](https://www.youtube.com/watch?v=L-Miw9l3hxA) · TaranWanderer2 · Englisch. Archivupload einer Filmszene aus der Jetlag-Produktion von 1995. Untersucht, wie das Lied «Zuhause» definiert.
+
+### 1998 / 1999 · Heidi · Gsponers Kurzfilm
+
+Kein überprüfbarer öffentlicher Clip zu Alain Gsponers dreiminütiger Animationssatire gefunden. Die zahlreichen Treffer zu seinem Spielfilm von 2015 sind keine Ausschnitte dieses Kurzfilms.
+
+### 2001 · Heidi
+
+[Deutscher Kinotrailer](https://www.youtube.com/watch?v=lZRkhjcJn0A) · Trailer World · Deutsch. Trailer der Gegenwartsadaption mit Cornelia Gröschel und Paolo Villaggio.
+
+### 2005 · Heidi
+
+[Kinotrailer](https://www.youtube.com/watch?v=2Q-NAvcRtDo) · Rotten Tomatoes Classic Trailers · Englisch. Paul Marcus, Emma Bolger und Max von Sydow; nicht der gleichjährige Zeichentrickfilm.
+
+### 2005 · Heidi · Zeichentrickfilm
+
+[Deutscher Zeichentrick-Trailer](https://www.videobuster.de/trailer/10772/heidi-trailer) · Videobuster / Concorde Film · Deutsch. Trailer zur Alan-Simpson-Fassung, direkt vom Traileranbieter geladen.
+
+### 2007 / 2008 · Heidi · Heidi & Co.
+
+[Offizieller Teaser · 0:30](https://www.youtube.com/watch?v=fp3T0Yo_qE0) · Play Suisse · Französisch. Heidi als Jugendliche, gespielt von Élodie Bollée. Die Serie stammt von 2007/2008, der Teaser bewirbt ihre spätere Streaming-Veröffentlichung.
+
+### 2008 · Heidi 4 Paws: A Furry Tale
+
+[Trailer](https://www.youtube.com/watch?v=t_rvjI0fv2I) · 4PawsTV · Englisch. Holly Goldberg Sloans Adaption mit Hunden als Figuren; Upload 2014, Produktion 2008.
+
+### 2015 · Heidi
+
+[Offizielle Szene · Zu Tisch in Frankfurt](https://www.youtube.com/watch?v=SikG8WUX9Eg) · STUDIOCANAL Germany · Deutsch. Vergleicht Sitzordnung, Blickführung und Sprechanteile: Wie wird Heidis Fremdheit am Tisch sichtbar?
+
+### 2015 / 2019 · Heidi · Die CGI-Serie
+
+[Offizieller Serientrailer · 1:24](https://vimeo.com/760193644) · Studio 100 · Englisch. CGI-Serie, Produktionsjahre 2014/2015 und 2019.
+
+### 2017 · Heidi, bienvenida a casa
+
+[Offizieller Serientrailer · 2:06](https://vimeo.com/231523548) · Mondo TV Studios · Spanisch. Trailer der ersten Staffel «Bienvenida a casa».
+
+### 2022 · Mad Heidi
+
+[Offizieller Trailer](https://www.youtube.com/watch?v=tjGIWcOrq-I) · MAD HEIDI · Englisch. Enthält Gewalt und Splatter; für die Auseinandersetzung mit der Erwachsenenparodie vorab sichten.
+
+### 2024 · Heidi · Precious Light Pictures
+
+[Filmanfang · erste 3 Minuten](https://www.youtube.com/watch?v=_9zLD2CUlVM) · EncourageTV · Englisch. Vom offiziellen Filmauftritt verlinkte Veröffentlichung. Auswahl aus dem Gesamtfilm von Lynn Moody.
+
+### 2025 · Heidi – Die Legende vom Luchs
+
+[Offizieller Kinotrailer](https://www.youtube.com/watch?v=1PJJ90ryNxQ) · Heidi / Studio 100 · Deutsch. Trailer zu «Die Legende vom Luchs», Regie Tobias Schwarz.
+
