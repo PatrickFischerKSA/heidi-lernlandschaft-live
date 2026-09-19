@@ -341,3 +341,6 @@ for (const f of films) { if (filmClips[f.id]) f.clip=filmClips[f.id]; else if (f
 
 // Vollständiger Realfilm, vom Nutzer bereitgestellt. Release-Asset wird beim Deploy ergänzt.
 films.find(f=>f.id==='2015').fullVideo = {url:'media/heidi-2015-realfilm.mp4',label:'Vollständiger Realfilm · 1 Std. 50 Min. 50 Sek.',note:'Heidi (2015), Regie Alain Gsponer. Vom Nutzer bereitgestellte Fassung.'};
+
+filmClips["2023karpi"]={"provider": "youtube", "id": "0A2-Af5JEWU", "label": "Vollständiges Trailerexperiment · 1:14", "author": "Karpi", "language": "Englischer Titel / Originalveröffentlichung", "url": "https://www.youtube.com/watch?v=0A2-Af5JEWU", "source": "https://www.youtube.com/watch?v=0A2-Af5JEWU", "note": "Originalupload vom 10. Juli 2023. KI-generiertes Trailerexperiment; kein Nachweis eines zugehörigen Langfilms.", "checked": "2026-09-19"};
+films.find(f=>f.id==="2023karpi").clip=filmClips["2023karpi"];

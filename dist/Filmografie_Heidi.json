@@ -1210,6 +1210,46 @@
       }
     },
     {
+      "id": "2023karpi",
+      "year": "2023",
+      "title": "Cursed Heidi · KI-Trailerexperiment",
+      "director": "Karpi (Patrick Karpiczenko)",
+      "kind": "Neudeutung",
+      "country": "Schweiz · digitale Veröffentlichung",
+      "mode": "Verfremdung durch generierte Bilder",
+      "tag": "KI-Trailer · kein belegter Langfilm",
+      "facts": "Karpi veröffentlichte «CURSED HEIDI | AI-generated movie trailer» am 10. Juli 2023 auf seinem YouTube-Kanal. Das Video dauert 74 Sekunden. Die Beschreibung nennt KI-Bilderzeugung und die Schlagwörter Gen-2 und RunwayML. Belegt ist dieses Trailerexperiment; ein zugehöriger vollständiger Spielfilm ist damit nicht nachgewiesen.",
+      "analysis": "Prüfauftrag: Untersucht, wie ein Trailer mit kurzen Einstellungen, Musik und Erwartungsaufbau eine grössere Geschichte suggeriert. Unterscheidet dabei eine sichtbare Bildverformung, ihre Wirkung auf euch und eine vermutete Absicht des Gestalters. Die Ankündigungsform kann hier selbst zum Gegenstand der Parodie werden.",
+      "context": "Das Video gehört zur frühen öffentlichen Erprobung generativer Videowerkzeuge im Jahr 2023. Heidi stellt dafür ein bereits bekanntes Figuren- und Landschaftsrepertoire bereit. Ob die Verfremdung als Kritik an der Alpenidylle, als technisches Experiment oder als Netzkomik wirkt, muss an konkreten Stellen begründet werden.",
+      "question": "Wie erzeugt der 74-sekündige Trailer die Erwartung eines Films, den er nicht als vollständiges Werk nachweist?",
+      "scene": "Notiert zwei Zeitcodes. Beschreibt jeweils Bild, Ton und Schnitt und formuliert zwei mögliche Lesarten. Vergleicht anschliessend mit dem Trailer zu Mad Heidi: Was verändert sich zwischen der Werbung für einen existierenden Spielfilm und einem eigenständigen Trailerexperiment?",
+      "refs": [
+        "karpi"
+      ],
+      "compare": [
+        "Vertraute Ikone und irritierende Verfremdung",
+        "Verdichtetes Filmversprechen statt belegtem Langfilm-Erzählbogen",
+        "Generierte Bilder und Trailermontage",
+        "Generative Videowerkzeuge und Netzkultur 2023"
+      ],
+      "access": {
+        "label": "Originalveröffentlichung von Karpi",
+        "url": "https://www.youtube.com/watch?v=0A2-Af5JEWU",
+        "type": "KI-Trailerexperiment"
+      },
+      "clip": {
+        "provider": "youtube",
+        "id": "0A2-Af5JEWU",
+        "label": "Vollständiges Trailerexperiment · 1:14",
+        "author": "Karpi",
+        "language": "Englischer Titel / Originalveröffentlichung",
+        "url": "https://www.youtube.com/watch?v=0A2-Af5JEWU",
+        "source": "https://www.youtube.com/watch?v=0A2-Af5JEWU",
+        "note": "Originalupload vom 10. Juli 2023. KI-generiertes Trailerexperiment; kein Nachweis eines zugehörigen Langfilms.",
+        "checked": "2026-09-19"
+      }
+    },
+    {
       "id": "2024moody",
       "year": "2024",
       "title": "Heidi · Precious Light Pictures",
@@ -1406,8 +1446,8 @@
       "url": "https://www.heididorf.ch/willkommen/faszination-heidi/"
     },
     "karpi": {
-      "name": "Karpi: Veröffentlichung des KI-Trailers (Juli 2023)",
-      "url": "https://x.com/karpi/status/1678321009638637568"
+      "name": "Karpi: Cursed Heidi, Originalvideo vom 10. Juli 2023",
+      "url": "https://www.youtube.com/watch?v=0A2-Af5JEWU"
     },
     "archive_1953bbc": {
       "name": "IMDb: Heidi (1953); ergänzend BBC-Nachweise in Julia Lockwoods Filmografie",

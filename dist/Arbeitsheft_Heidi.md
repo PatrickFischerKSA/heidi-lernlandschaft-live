@@ -1088,7 +1088,7 @@ Die Heidi- und Johanna-Spyri-Archive wurden 2023 in Memory of the World aufgenom
 
 ## Videoquellen und offene Cliprecherche
 
-Stand: 19. September 2026. 30 von 34 eigenständigen Produktionen enthalten ein lokales Fragment oder einen externen Videoplayer. Die 13 zusätzlichen Schnittfassungen sind noch nicht durch ausgabenspezifische Clips belegt. Bei externen Videos kann die Verfügbarkeit wechseln. Trailer, Vorspann und einzelne Szene haben unterschiedliche Aussagekraft.
+Stand: 19. September 2026. 31 von 35 Archiveinträgen (einschliesslich des KI-Trailerexperiments) enthalten ein lokales Fragment oder einen externen Videoplayer. Die 13 zusätzlichen Schnittfassungen sind noch nicht durch ausgabenspezifische Clips belegt. Bei externen Videos kann die Verfügbarkeit wechseln. Trailer, Vorspann und einzelne Szene haben unterschiedliche Aussagekraft.
 
 ### 1920 · Heidi of the Alps
 
@@ -1230,3 +1230,13 @@ Kein überprüfbarer öffentlicher Clip zu Alain Gsponers dreiminütiger Animati
 ## Vollständiger Realfilm 2015
 
 [Heidi (2015), Alain Gsponer – vollständiger Film](media/heidi-2015-realfilm.mp4). Laufzeit 1:50:50. Vom Nutzer bereitgestellte Datei; neben dem offiziellen Szenenclip in der Filmkarte abspielbar.
+
+## Cursed Heidi (2023) – Trailerexperiment
+
+[Originalvideo von Karpi](https://www.youtube.com/watch?v=0A2-Af5JEWU), 74 Sekunden, veröffentlicht am 10. Juli 2023. Karpi veröffentlichte «CURSED HEIDI | AI-generated movie trailer» am 10. Juli 2023 auf seinem YouTube-Kanal. Das Video dauert 74 Sekunden. Die Beschreibung nennt KI-Bilderzeugung und die Schlagwörter Gen-2 und RunwayML. Belegt ist dieses Trailerexperiment; ein zugehöriger vollständiger Spielfilm ist damit nicht nachgewiesen.
+
+Prüfauftrag: Untersucht, wie ein Trailer mit kurzen Einstellungen, Musik und Erwartungsaufbau eine grössere Geschichte suggeriert. Unterscheidet dabei eine sichtbare Bildverformung, ihre Wirkung auf euch und eine vermutete Absicht des Gestalters. Die Ankündigungsform kann hier selbst zum Gegenstand der Parodie werden.
+
+Das Video gehört zur frühen öffentlichen Erprobung generativer Videowerkzeuge im Jahr 2023. Heidi stellt dafür ein bereits bekanntes Figuren- und Landschaftsrepertoire bereit. Ob die Verfremdung als Kritik an der Alpenidylle, als technisches Experiment oder als Netzkomik wirkt, muss an konkreten Stellen begründet werden.
+
+Lernauftrag: Notiert zwei Zeitcodes. Beschreibt jeweils Bild, Ton und Schnitt und formuliert zwei mögliche Lesarten. Vergleicht anschliessend mit dem Trailer zu Mad Heidi: Was verändert sich zwischen der Werbung für einen existierenden Spielfilm und einem eigenständigen Trailerexperiment?
