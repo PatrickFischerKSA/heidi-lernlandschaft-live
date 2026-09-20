@@ -1,4 +1,3 @@
-/* Einzelfallredaktion; keine Aufgaben aus Katalogdaten als Ersatz für fehlende Materialanalyse. */
 const HeidiCases = {
   "film-1920": {
     "id": "film-1920",
@@ -2965,6 +2964,87 @@ const HeidiCases = {
         ],
         "hint": "Welche beiden Artikel begrenzen das Bild uneingeschränkter religiöser Freiheit?",
         "follow": "Stelle Schutz und konfessionelle Beschränkung als gleichzeitig vorhandene Bestimmungen dar."
+      }
+    ]
+  },
+  "schweiz-solddienst": {
+    "id": "schweiz-solddienst",
+    "room": "schweiz",
+    "title": "Spuren der alten Eidgenossenschaft: Almöhi im Solddienst",
+    "where": "Band 1, Kapitel 1: Detes Bericht über Neapel. Band 2: Klaras Ankunft auf der Alp, vom Umsetzen in den Rollstuhl bis zur Erinnerung an den Hauptmann. Dazu Graubündens Ausstellung zu Militärkapitulationen und HLS «Fremde Dienste».",
+    "material": "Domleschg → Neapel → Sizilien → Alp: vier Ortsnamen verbinden Dorfgerücht, Kriegsvergangenheit und Krankenpflege. Diese Folge ordnet Textbelege, sie rekonstruiert keine lückenlose Reiseroute.",
+    "action": "Öffne zuerst «Neapel» und «Sizilien». Notiere für beide Stationen, wer das Wissen liefert und was damit belegt ist. Ergänze mit «Alte Eidgenossenschaft» die historische Verbindung. Schreibe dann zu Klaras sorgsam gebetteten Füssen einen kurzen Museumstext: Welche Erfahrung aus der Ferne steckt in dieser Geste?",
+    "question": "Was trägt Almöhi aus dem Solddienst in die scheinbar abgeschlossene Bergwelt zurück? Verbinde die Pflege des Hauptmanns mit Klaras Ankunft und erkläre, weshalb «Spuren der alten Eidgenossenschaft» eine fortwirkende Tradition bezeichnet, aber weder Almöhis Regiment noch sein Gefechtsjahr festlegt.",
+    "answer": "Bei Klaras Ankunft ruft eine Pflegehandlung die Erinnerung an den verwundeten Hauptmann wach. Die Erzählung verbindet Fürsorge auf der Alp mit erlernter Hilfe nach einem Gefecht in Sizilien. Damit lässt sich die Bergwelt als Teil einer grenzüberschreitenden Geschichte lesen. Solddienst war eine lange Tradition der eidgenössischen Orte und der Drei Bünde; sie reichte in das 19. Jahrhundert hinein. Der Roman nennt für Almöhi weder Regiment noch Gefechtsjahr. Detes Bericht über Neapel enthält ausdrücklich Gerüchte: Die spätere Erinnerung bestätigt Kriegserfahrung und Pflege, nicht die behauptete Desertion oder den Totschlag. Eine Verbindung zu einem bestimmten Feldzug wäre erst zusätzlich zu belegen.",
+    "evidence": [
+      [
+        "Domleschg → Neapel · Dete berichtet",
+        "Quellenparaphrase, Band 1, Kapitel 1: Dete erzählt von einem verlorenen Bauernhof im Domleschg und dem Weggang zum Militär nach Neapel. Nach zwölf oder fünfzehn Jahren sei der Öhi mit seinem Sohn zurückgekehrt. Desertion und Totschlag führt sie mit «man sagte auch» ein. Das sind keine unabhängig bestätigten Tatsachen."
+      ],
+      [
+        "Sizilien → Klara · Die Erzählung öffnet eine Erinnerung",
+        "Quellenparaphrase, Band 2, Klaras Ankunft: Almöhi setzt Klara sorgfältig in ihren Rollstuhl und bettet ihre Füsse. Auf die Frage nach seiner Pflegeerfahrung erinnert er sich an den Hauptmann, den er nach einem Gefecht in Sizilien verwundet gefunden, weggetragen und bis zu dessen Lebensende gepflegt hatte. Hier berichtet die Erzählinstanz von seiner Erinnerung; Dete spricht nicht."
+      ],
+      [
+        "Alte Eidgenossenschaft · Sold, Verträge und Einfluss",
+        "Historischer Kontext, Kanton Graubünden: In den eidgenössischen Orten und den Drei Bünden gehörte Solddienst für ausländische Herrscher über Jahrhunderte zur Erwerbs- und Machtgeschichte. Militärkapitulationen regelten die Anwerbung. Soldunternehmer verdienten daran; ausländische Pensionen schufen politische Abhängigkeiten. Almöhis Romanbiografie wird vor diesem Hintergrund lesbar, ist aber kein archivalischer Dienstnachweis."
+      ],
+      [
+        "1825 / 1848–49 · Die Tradition lebt weiter",
+        "Historischer Kontext, Kanton Graubünden: Kapitulationen von 1825 ermöglichten vier Schweizer Regimenter in neapolitanischen Diensten, darunter eines mit Bündner Zuordnung. 1848/49 wurden solche Truppen gegen Volksaufstände eingesetzt. Das rief liberale Kritik hervor. Diese Ereignisse erklären den politischen Konflikt des Solddienstes; sie identifizieren nicht Almöhis Einsatz."
+      ],
+      [
+        "1848 / 1859 · Kein Ende an einem einzigen Tag",
+        "Historischer Kontext, HLS: 1848 verbot die Bundesverfassung neue Militärkapitulationen, hob bestehende aber nicht auf. 1859 wurde der Eintritt in «nicht-nationale Truppen» ohne Erlaubnis des Bundesrats verboten; individueller Dienst in «nationalen Truppen» blieb möglich. «1859 endete jeder Schweizer Solddienst» wäre deshalb zu pauschal."
+      ],
+      [
+        "Zurück auf der Alp · Eine Geste neu lesen",
+        "Deutung zum Prüfen: Die sorgsame Pflege Klaras lässt sich als Nachwirkung einer gewaltsamen Vergangenheit lesen. Die vermeintlich weltferne Alp beherbergt einen Rückkehrer mit Erfahrungen aus Süditalien. «Alte Eidgenossenschaft» bezeichnet hier das historische Erbe des Solddienstes, nicht eine Datierung des Romanhelden vor 1798."
+      ]
+    ],
+    "refs": [
+      "chroman1",
+      "chromansold",
+      "chsolddienstgr",
+      "chsolddienst"
+    ],
+    "facets": [
+      {
+        "label": "Vom verwundeten Hauptmann zu Klara",
+        "terms": [
+          "hauptmann",
+          "verwundet",
+          "verletz",
+          "pflege",
+          "fuersorge",
+          "fuersorg",
+          "versorg",
+          "kranken",
+          "sorgsam",
+          "kriegserfahrung",
+          "sizilien"
+        ],
+        "hint": "Vergleiche das Betten von Klaras Füssen mit dem Wegtragen und Pflegen des Hauptmanns: Welche Fähigkeit kehrt wieder?",
+        "follow": "Zeige an der Pflegehandlung, wie Erfahrung aus dem Krieg auf der Alp weiterwirkt. Die Erinnerung bestätigt Detes Totschlagsgerücht nicht."
+      },
+      {
+        "label": "Tradition und Grenzen der Datierung",
+        "terms": [
+          "tradition",
+          "fortwirk",
+          "erbe",
+          "kapitulation",
+          "soldunternehm",
+          "pension",
+          "regiment",
+          "gefechtsjahr",
+          "datier",
+          "jahrhundert",
+          "fremde dienste",
+          "auslaendische herrscher"
+        ],
+        "hint": "Nutze die Vertragsgeschichte und die Einschnitte 1848/1859: Was besteht weiter, und welche Daten fehlen für Almöhi selbst?",
+        "follow": "Trenne die belegte Geschichte der fremden Dienste von der undatierten Romanbiografie. Ein historisches Regiment ist noch kein Nachweis seiner Zugehörigkeit."
       }
     ]
   }

@@ -69,3 +69,6 @@ Browserprüfung am lokalen Server: alle fünf Schweiz-Untersuchungen geöffnet, 
 
 ## Navigation in gewünschter Reihenfolge
 Schweiz um 1880 → Johanna Spyri → Zeitreise → Filmwelt → Schnittlabor → Bildspuren. Hauptnavigation, Startseiten-Kacheln und Bereichsnummern 01–06 synchronisiert. Browserprüfung: alle sechs Ziele samt aria-current und Nummerierung; Kempin-Unterseite markiert Spyri, Film-Direktlink markiert Filmwelt und öffnet den Dialog; Startseite visuell geprüft, keine JavaScript-Fehler im Test. Feedback-, Filmografie- und sämtliche 65 Aufgabenprüfungen bestanden. Inhaltsdateien unverändert.
+
+## 2026-09-20: Almöhi / Solddienst
+Roman Band 1 Kapitel 1 (Dete, Neapel, ausdrücklich Gerücht) und Band 2 Klaras Ankunft (Erzählinstanz: Pflege des verwundeten Hauptmanns in Sizilien) geprüft. Historischer Kontext: HLS Fremde Dienste, Fassung 31.10.2023; Kanton Graubünden, Abenddämmerung der fremden Dienste. 1848 nur neue Kapitulationen verboten; 1859 differenzierte Einschränkungen. Keine erfundene Regimentszugehörigkeit, Schlacht oder Einsatzdatierung. Neuer Fall ergänzt die bisherige literarische Untersuchung spyri-erzaehlen.

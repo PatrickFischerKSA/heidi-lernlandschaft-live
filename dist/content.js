@@ -319,6 +319,18 @@ const sources = {
   "chrigi": {
     "name": "Jean-Luc Rickenbacher, Nationalmuseum: Mit dem Zahnrad den Berg hinauf (2025)",
     "url": "https://blog.nationalmuseum.ch/2025/09/mit-dem-zahnrad-den-berg-hinauf/"
+  },
+  "chromansold": {
+    "name": "Spyri: Heidi kann brauchen, was es gelernt hat – Klaras Ankunft und der Hauptmann in Sizilien",
+    "url": "https://www.gutenberg.org/cache/epub/7512/pg7512.html"
+  },
+  "chsolddienstgr": {
+    "name": "Kanton Graubünden: Abenddämmerung der fremden Dienste – Verträge, Pensionen und Neapel",
+    "url": "https://www.gr.ch/DE/kanton/175-Jahre/Seiten/Abendd%C3%A4mmerung.aspx"
+  },
+  "chsolddienst": {
+    "name": "Henry / Krauer: Fremde Dienste, Historisches Lexikon der Schweiz, 31.10.2023",
+    "url": "https://hls-dhs-dss.ch/de/articles/008608/2023-10-31/"
   }
 };
 const films = [

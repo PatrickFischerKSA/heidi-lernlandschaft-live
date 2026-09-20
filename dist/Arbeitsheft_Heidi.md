@@ -1411,6 +1411,51 @@ Staatliche Leitung bezeichnet die institutionelle Zuständigkeit; sie schliesst 
 - [Spyri: Heidis Lehr- und Wanderjahre, Kapitel 1, 3–5 (Volltext)](https://www.gutenberg.org/cache/epub/7500/pg7500-images.html)
 - [Bundesverfassung 1874: ursprüngliche Artikel 27, 49, 51–52 und Übergangsbestimmungen](https://www.verfassungen.ch/verf74.htm)
 
+## Spuren der alten Eidgenossenschaft: Almöhi im Solddienst
+
+**Materialort:** Band 1, Kapitel 1: Detes Bericht über Neapel. Band 2: Klaras Ankunft auf der Alp, vom Umsetzen in den Rollstuhl bis zur Erinnerung an den Hauptmann. Dazu Graubündens Ausstellung zu Militärkapitulationen und HLS «Fremde Dienste».
+
+Domleschg → Neapel → Sizilien → Alp: vier Ortsnamen verbinden Dorfgerücht, Kriegsvergangenheit und Krankenpflege. Diese Folge ordnet Textbelege, sie rekonstruiert keine lückenlose Reiseroute.
+
+### Domleschg → Neapel · Dete berichtet
+
+Quellenparaphrase, Band 1, Kapitel 1: Dete erzählt von einem verlorenen Bauernhof im Domleschg und dem Weggang zum Militär nach Neapel. Nach zwölf oder fünfzehn Jahren sei der Öhi mit seinem Sohn zurückgekehrt. Desertion und Totschlag führt sie mit «man sagte auch» ein. Das sind keine unabhängig bestätigten Tatsachen.
+
+### Sizilien → Klara · Die Erzählung öffnet eine Erinnerung
+
+Quellenparaphrase, Band 2, Klaras Ankunft: Almöhi setzt Klara sorgfältig in ihren Rollstuhl und bettet ihre Füsse. Auf die Frage nach seiner Pflegeerfahrung erinnert er sich an den Hauptmann, den er nach einem Gefecht in Sizilien verwundet gefunden, weggetragen und bis zu dessen Lebensende gepflegt hatte. Hier berichtet die Erzählinstanz von seiner Erinnerung; Dete spricht nicht.
+
+### Alte Eidgenossenschaft · Sold, Verträge und Einfluss
+
+Historischer Kontext, Kanton Graubünden: In den eidgenössischen Orten und den Drei Bünden gehörte Solddienst für ausländische Herrscher über Jahrhunderte zur Erwerbs- und Machtgeschichte. Militärkapitulationen regelten die Anwerbung. Soldunternehmer verdienten daran; ausländische Pensionen schufen politische Abhängigkeiten. Almöhis Romanbiografie wird vor diesem Hintergrund lesbar, ist aber kein archivalischer Dienstnachweis.
+
+### 1825 / 1848–49 · Die Tradition lebt weiter
+
+Historischer Kontext, Kanton Graubünden: Kapitulationen von 1825 ermöglichten vier Schweizer Regimenter in neapolitanischen Diensten, darunter eines mit Bündner Zuordnung. 1848/49 wurden solche Truppen gegen Volksaufstände eingesetzt. Das rief liberale Kritik hervor. Diese Ereignisse erklären den politischen Konflikt des Solddienstes; sie identifizieren nicht Almöhis Einsatz.
+
+### 1848 / 1859 · Kein Ende an einem einzigen Tag
+
+Historischer Kontext, HLS: 1848 verbot die Bundesverfassung neue Militärkapitulationen, hob bestehende aber nicht auf. 1859 wurde der Eintritt in «nicht-nationale Truppen» ohne Erlaubnis des Bundesrats verboten; individueller Dienst in «nationalen Truppen» blieb möglich. «1859 endete jeder Schweizer Solddienst» wäre deshalb zu pauschal.
+
+### Zurück auf der Alp · Eine Geste neu lesen
+
+Deutung zum Prüfen: Die sorgsame Pflege Klaras lässt sich als Nachwirkung einer gewaltsamen Vergangenheit lesen. Die vermeintlich weltferne Alp beherbergt einen Rückkehrer mit Erfahrungen aus Süditalien. «Alte Eidgenossenschaft» bezeichnet hier das historische Erbe des Solddienstes, nicht eine Datierung des Romanhelden vor 1798.
+
+**Vorgehen:** Öffne zuerst «Neapel» und «Sizilien». Notiere für beide Stationen, wer das Wissen liefert und was damit belegt ist. Ergänze mit «Alte Eidgenossenschaft» die historische Verbindung. Schreibe dann zu Klaras sorgsam gebetteten Füssen einen kurzen Museumstext: Welche Erfahrung aus der Ferne steckt in dieser Geste?
+
+**Frage:** Was trägt Almöhi aus dem Solddienst in die scheinbar abgeschlossene Bergwelt zurück? Verbinde die Pflege des Hauptmanns mit Klaras Ankunft und erkläre, weshalb «Spuren der alten Eidgenossenschaft» eine fortwirkende Tradition bezeichnet, aber weder Almöhis Regiment noch sein Gefechtsjahr festlegt.
+
+<details><summary>Begründete Einordnung</summary>
+
+Bei Klaras Ankunft ruft eine Pflegehandlung die Erinnerung an den verwundeten Hauptmann wach. Die Erzählung verbindet Fürsorge auf der Alp mit erlernter Hilfe nach einem Gefecht in Sizilien. Damit lässt sich die Bergwelt als Teil einer grenzüberschreitenden Geschichte lesen. Solddienst war eine lange Tradition der eidgenössischen Orte und der Drei Bünde; sie reichte in das 19. Jahrhundert hinein. Der Roman nennt für Almöhi weder Regiment noch Gefechtsjahr. Detes Bericht über Neapel enthält ausdrücklich Gerüchte: Die spätere Erinnerung bestätigt Kriegserfahrung und Pflege, nicht die behauptete Desertion oder den Totschlag. Eine Verbindung zu einem bestimmten Feldzug wäre erst zusätzlich zu belegen.
+
+</details>
+
+- [Spyri: Heidis Lehr- und Wanderjahre, Kapitel 1, 3–5 (Volltext)](https://www.gutenberg.org/cache/epub/7500/pg7500-images.html)
+- [Spyri: Heidi kann brauchen, was es gelernt hat – Klaras Ankunft und der Hauptmann in Sizilien](https://www.gutenberg.org/cache/epub/7512/pg7512.html)
+- [Kanton Graubünden: Abenddämmerung der fremden Dienste – Verträge, Pensionen und Neapel](https://www.gr.ch/DE/kanton/175-Jahre/Seiten/Abendd%C3%A4mmerung.aspx)
+- [Henry / Krauer: Fremde Dienste, Historisches Lexikon der Schweiz, 31.10.2023](https://hls-dhs-dss.ch/de/articles/008608/2023-10-31/)
+
 ## Archivzugänge ohne Ersatzaufgabe
 
 1953bbc: Die BBC-Produktion mit Julia Lockwood ist nachgewiesen. Eine für eine konkrete Szenenuntersuchung geprüfte Kopie oder ein ausreichend genauer Szenenbericht liegt hier nicht vor. Der Eintrag bleibt als Archivzugang erhalten; die frühere Jahreszahlenübung entfällt.
