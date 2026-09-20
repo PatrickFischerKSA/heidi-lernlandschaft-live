@@ -31,7 +31,7 @@ Prüfungen: `node research/feedback.test.cjs` und `node research/filmography.tes
 
 ## Individuelle Aufgabenredaktion · 20. September 2026
 
-`dist/cases.js` enthält 56 einzeln formulierte Materialuntersuchungen: 32 Filmfälle, acht Bildaufgaben, neun konkrete Vergleichspaare, ein Montageversuch und eine Quellenuntersuchung zu Walther sowie fünf Quellenuntersuchungen zu Johanna Spyri. Der Bereich `#spyri` ist über Hauptnavigation und Startseite erreichbar. Jeder Fall benennt Materialort, Vorgehen, Frage, Einordnung und zwei eigene Rückmeldungsaspekte. Filmausschnitt, Quellenparaphrase und eigener Entwurf werden unterschieden.
+`dist/cases.js` enthält 60 einzeln formulierte Materialuntersuchungen: 32 Filmfälle, acht Bildaufgaben, neun konkrete Vergleichspaare, ein Montageversuch und eine Quellenuntersuchung zu Walther sowie neun Quellenuntersuchungen zu Johanna Spyri und Emilie Kempin-Spyri. Der Bereich `#spyri` ist über Hauptnavigation und Startseite erreichbar. Jeder Fall benennt Materialort, Vorgehen, Frage, Einordnung und zwei eigene Rückmeldungsaspekte. Filmausschnitt, Quellenparaphrase und eigener Entwurf werden unterschieden.
 
 Für beliebige Filmpaare werden keine Aufgaben erzeugt. Alte freie Notizen bleiben erhalten; Antworten auf neue Fragen werden getrennt gespeichert. Das Arbeitsheft und die herunterladbare Filmografie enthalten dieselben redigierten Aufgaben.
 
@@ -40,3 +40,5 @@ Die lokale Rückmeldung erkennt aufgabenspezifische Synonyme und begrenzte Tippv
 Nachredaktion: 18 Aufgaben inhaltlich neu ausgearbeitet. Drei schwache Ersatzübungen (BBC 1953, BBC 1974, Kurzfilm 1998/99) entfernt; diese Produktionen bleiben mit ihren Quellen und vorhandenen Videozugängen im Archiv. Materialbilder werden unmittelbar bei ihrer Frage gezeigt. Revidierte Fragen erhalten neue Entwurfsschlüssel, ohne alte Notizen zu löschen. Exporte: `node research/build-case-exports.cjs`.
 
 Filmkarten: 31 lokale Vorschaubilder in `dist/assets/filmframes`, registriert in `dist/thumbnails.js`. Screenshot, extrahiertes Standbild und Plattform-Vorschaubild sind im Bildnachweis unterscheidbar. Vier Produktionen ohne geprüftes Bildmaterial stehen als Archivzeilen unter der Galerie; die Suche umfasst weiterhin alle 35 Einträge.
+
+`#kempin` erweitert den Autorenraum um Tante/Nichte, Bildung und Berufszugang, Sorgearbeit und Erinnerung. Haslers Roman wird mit PDF-Fundstellen in kurzen Lesefenstern ausgewertet, Figurenrede ausdrücklich nicht als historisches Wortprotokoll präsentiert.

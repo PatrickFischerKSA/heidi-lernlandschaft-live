@@ -271,6 +271,26 @@ const sources = {
   "spyriportrait": {
     "name": "Nationalmuseum: Spyri-Porträt, Aufnahme 1860–1870",
     "url": "https://blog.nationalmuseum.ch/2019/11/spyri-literaturstar/"
+  },
+  "kempinhls": {
+    "name": "Marianne Delfosse: Emilie Kempin-Spyri, HLS (2008)",
+    "url": "https://hls-dhs-dss.ch/de/articles/009342/2008-12-02/"
+  },
+  "kempinuzh": {
+    "name": "UZH: Frauenrechtsgeschichte, Interview mit Elisabetta Fiocchi Malaspina (7.3.2025)",
+    "url": "https://news.uzh.ch/de/articles/news/2025/frauenrechtsgeschichte.html"
+  },
+  "hasler-tante": {
+    "name": "Hasler: Die Wachsflügelfrau, Lesefenster PDF 93–96 und 237",
+    "url": "quellen/Wachsfluegelfrau_Lesefenster.html#tante"
+  },
+  "hasler-gepaeck": {
+    "name": "Hasler: Die Wachsflügelfrau, Lesefenster PDF 20–21",
+    "url": "quellen/Wachsfluegelfrau_Lesefenster.html#gepaeck"
+  },
+  "hasler-archiv": {
+    "name": "Hasler: Die Wachsflügelfrau, Lesefenster PDF 6–7 und 236–237",
+    "url": "quellen/Wachsfluegelfrau_Lesefenster.html#archiv"
   }
 };
 const films = [

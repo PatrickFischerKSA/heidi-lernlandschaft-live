@@ -1116,6 +1116,136 @@ Figurenrede vermittelt zunächst ein belastendes Dorfbild. Die später erzählte
 
 - [Klimek: Gott statt Goethe (2026), S. 29–60, besonders 49–54](quellen/Heidiundmehr.pdf#page=55)
 
+## Die schreibende Tante weist die Studentin zurück
+
+**Materialort:** Eveline Hasler: Die Wachsflügelfrau (1991; bereitgestellte E-Book-Ausgabe 2024), PDF 93–96; zum Dokumentstatus PDF 237.
+
+Hasler lässt Emily bei Johanna Unterstützung suchen. Die Szene ist eine literarische Darstellung historischer Personen. Haslers Schlussvermerk kennzeichnet kursiv gesetzte Stellen als zeitgenössische Dokumente; das macht andere Dialoge nicht automatisch zu belegten Wortprotokollen.
+
+### Emilys Erwartung · PDF 93
+
+Haslers Erzählerin beschreibt Johanna als «die einzige Frau in der Familie, die ein eigenes Leben beansprucht, wenn auch nur am Schreibtisch». Emily erhofft sich von ihr Rat und Verständnis.
+
+### Johannas Handbewegung · PDF 95
+
+Im Roman sagt Johanna: «Was soll denn das? Du hast doch deine Aufgabe! Hier»; dabei führt sie die Hand über die Köpfe der Kinder. Sie nennt anschliessend Pflege, Geburtshilfe und Haushaltsführung als weibliche Arbeitsfelder.
+
+### Emilys Gegenrede · PDF 95
+
+«Ich kann auch als Juristin Menschen helfen, sagte Emily.» Sie beruft sich auf ihre Freude am Streitschlichten, Verteidigen und Argumentieren.
+
+### Was ist hier überliefert? · PDF 237
+
+Hasler erklärt: «Die kursiv gesetzten Stellen sind zeitgenössischen Dokumenten entnommen.» Der Roman enthält also Dokumente und literarische Gestaltung. Ein konkreter Dialog braucht einen eigenen Nachweis, bevor er als historischer Wortlaut verwendet wird.
+
+**Vorgehen:** Lies zuerst Emilys Erwartung. Notiere, welche Antwort sie von ihrer Tante erhofft. Öffne dann Johannas Reaktion und Emilys Erwiderung. Formuliere einen Satz, der mit «Hasler inszeniert …» beginnt und den Konflikt an der Handbewegung über die Kinder erklärt.
+
+**Frage:** Warum trifft die Zurückweisung durch gerade diese Tante Emily besonders? Wie deutet Emily das Helfen um, das Johanna an weibliche Sorgeberufe bindet – und was belegt diese Romanszene über die historische Johanna noch nicht?
+
+<details><summary>Begründete Einordnung</summary>
+
+Haslers Emily sieht in der Schriftstellerin ein Vorbild für ein eigenes Leben. Umso schärfer wirkt Johannas Geste: Die Kinder werden zur Antwort auf den Studienwunsch. Emily widerspricht nicht dem Helfen, sondern dessen Beschränkung auf Pflege und Haushalt; sie beansprucht es auch für juristische Arbeit. Diese Spannung berührt Sinas Berufswunsch. Die genaue Rede und Emilys Innensicht sind hier zunächst Haslers Gestaltung, kein unabhängig geprüftes Gesprächsprotokoll. Aus dieser Szene allein lässt sich Johannas Haltung nicht als historisches Zitat behaupten.
+
+</details>
+
+- [Hasler: Die Wachsflügelfrau, Lesefenster PDF 93–96 und 237](quellen/Wachsfluegelfrau_Lesefenster.html#tante)
+- [Jana Mikota: Studierte Mädchen (2026), S. 141–144; PDF 147–150](quellen/Heidiundmehr.pdf#page=147)
+
+## Sina studiert – Emilie promoviert. Wer darf arbeiten?
+
+**Materialort:** Sina-Analyse: Mikota, S. 141–145 / PDF 147–151. Historischer Fall: HLS Kempin-Spyri; UZH-Interview 7. März 2025, Absätze zur Bundesgerichtsbeschwerde.
+
+Zwei verschiedene Hindernisse: Sinas Studium führt im Roman nicht zum Arztberuf. Emilie Kempin-Spyris juristische Qualifikation beseitigt die institutionelle Zugangssperre nicht. Eine Romanhandlung und eine historische Rechtslage werden auf ihre Mechanismen hin verglichen.
+
+### Schwelle 1 · Studieren
+
+Sina: Medizin wird als eigener Lebensentwurf gewählt. Emilie: Rechtsstudium in Zürich ab 1885, Doktorat 1887. Sina ist eine Romanfigur, Emilie eine historische Person.
+
+### Schwelle 2 · Beruf ausüben
+
+Der UZH-Beitrag erläutert den Konflikt: Art. 4 der Bundesverfassung von 1874 verspricht Gleichheit vor dem Gesetz; für die Vertretung Dritter verlangt das Zürcher Recht das Aktivbürgerrecht. Frauen besitzen es nicht. Emilies Beschwerde scheitert.
+
+### Schwelle 3 · Anerkennung
+
+In Sina nähert sich Clementi der Hauptfigur nach Studienabbruch und häuslicher Fürsorge an. Emilies weitere Arbeit führt nach New York und später zurück nach Zürich: Rechtsunterricht, Beratung und Einsatz für Frauenrechte setzen sich fort. Ihr Leben endet nicht mit der verweigerten Zulassung.
+
+**Vorgehen:** Öffne die drei Schwellen «Studieren», «Beruf ausüben» und «Anerkennung». Zeichne sie für Sina und Emilie als zwei Pfeilketten in dein Antwortfeld. Benenne an jeder unterbrochenen Verbindung die konkrete Instanz, nicht bloss «die Gesellschaft».
+
+**Frage:** Worin unterscheiden sich Clementis Anerkennung nach Sinas Studienabbruch und das für Emilies Berufszugang verlangte Aktivbürgerrecht? Warum wäre «Beiden fehlte die nötige Ausbildung» eine falsche Zusammenfassung?
+
+<details><summary>Begründete Einordnung</summary>
+
+Sina beginnt Medizin; der von Mikota analysierte Schluss verknüpft Clementis Zuwendung mit dem aufgegebenen Studium und häuslicher Fürsorge. Emilies juristisches Doktorat liegt dagegen vor. Die Vertretung Dritter wird an ein Bürgerrecht gebunden, das Frauen nicht besitzen. Hier entscheidet eine rechtliche Zugangsvoraussetzung, dort prägen Figurenurteile und der Romanschluss die Möglichkeiten. Gemeinsam ist die Begrenzung weiblicher Berufswünsche; gleich sind die Mechanismen und Lebensläufe nicht.
+
+</details>
+
+- [Jana Mikota: Studierte Mädchen (2026), S. 141–144; PDF 147–150](quellen/Heidiundmehr.pdf#page=147)
+- [Marianne Delfosse: Emilie Kempin-Spyri, HLS (2008)](https://hls-dhs-dss.ch/de/articles/009342/2008-12-02/)
+- [UZH: Frauenrechtsgeschichte, Interview mit Elisabetta Fiocchi Malaspina (7.3.2025)](https://news.uzh.ch/de/articles/news/2025/frauenrechtsgeschichte.html)
+
+## Zweiundzwanzig Kisten – wer trägt die Familie?
+
+**Materialort:** Hasler, PDF 20–21: Nacht am Gepäckraum in Hoboken. Dossier Wirkungsgeschichte Heidi, Abschnitt 5 «Kindliche Bedürfnisse und erwachsene Entscheidungsmacht».
+
+Haslers Emily bewacht nachts das Gepäck, während Walter mit den Kindern ins Hotel geht. Das Dossier erinnert bei Dete daran, Erwerbsarbeit und Betreuung gemeinsam zu betrachten. Dete und Emily haben unterschiedliche Lebenslagen; verglichen wird ein konkreter Deutungsmechanismus.
+
+### Hoboken bei Nacht · PDF 20
+
+Emily bleibt am Gepäck, weil sie im Notfall Englisch sprechen kann. Unter den 22 Kisten befinden sich Bettwäsche, Geschirr und «das silberne Teeservice der Tante Johanna». Hasler verbindet die Gegenstände mit mütterlichen Erwartungen an Ehefrau und Haushalt.
+
+### Neubeginn mit Bindungen · PDF 21
+
+Hasler verdichtet die Lage so: «In die Neue Welt gehen und die Alte mittragen». Die erhoffte berufliche Bewegungsfreiheit trifft auf Kinder, familiäre Verantwortung und die Dinge aus Zürich.
+
+### Dete · Dossier, Abschnitt 5
+
+Das Dossier warnt vor der Reduktion auf eine schuldige Tante: Dete muss Erwerbsarbeit und Betreuung vereinbaren. Dies ist eine Interpretationshilfe für Heidi, kein biografischer Nachweis über die Familie Kempin.
+
+**Vorgehen:** Lies die Gepäckkarte und ersetze in einer probeweisen Zusammenfassung der Szene «22 Kisten» durch «ein Koffer». Schreibe darunter, welche familiäre Verpflichtung und welche Verbindung zu Johanna dadurch aus dieser Kurzfassung verschwinden. Prüfe anschliessend die Dete-Karte.
+
+**Frage:** Wie macht Hasler aus dem Gepäck mehr als eine Reiseschwierigkeit? Welche vorschnelle Bewertung von Dete hilft dieser Blick auf Erwerbsarbeit und Sorge zu überprüfen, ohne Emilies Biografie mit Detes Geschichte gleichzusetzen?
+
+<details><summary>Begründete Einordnung</summary>
+
+Die Kisten transportieren den erwarteten standesgemässen Haushalt, darunter Johannas Teeservice. Emily trägt im Roman materielle Dinge und verinnerlichte Erwartungen in den erhofften beruflichen Neubeginn. Mit einem leichten Einzelkoffer verschwänden genau diese Bindungen. Beim Blick auf Dete verhindert das keine Kritik an Heidis Übergabe; es fordert aber, ihren Arbeitswunsch und ihre Betreuungsverantwortung mitzudenken. Die gemeinsame Frage betrifft verfügbare Handlungsspielräume, nicht identische Motive oder historische Lebensläufe.
+
+</details>
+
+- [Hasler: Die Wachsflügelfrau, Lesefenster PDF 20–21](quellen/Wachsfluegelfrau_Lesefenster.html#gepaeck)
+- [Dossier Wirkungsgeschichte Heidi (bereitgestellte Arbeitsgrundlage)](quellen/Dossier_Wirkungsgeschichte_Heidi.docx)
+
+## Heidi im Weltgedächtnis – Emily ohne Karteikarte?
+
+**Materialort:** Hasler, Prolog PDF 6–7 und Schluss PDF 236–237. Dossier, Abschnitt 6 «Bewahrung und Neuinterpretation».
+
+Der Roman beginnt 1989 mit einer erfolglosen Anfrage nach Emilys Klinikunterlagen. Das Dossier nennt die Aufnahme der Heidi- und Johanna-Spyri-Archive in das UNESCO-Register 2023. Die unterschiedlichen Zeitpunkte und Bestände müssen sichtbar bleiben.
+
+### 1989 · Eine Recherche im Roman · PDF 6–7
+
+Eine Erzählerin fragt nach Kempin-Spyris Klinikunterlagen. Zunächst wird deren Existenz bestritten. Dagegen ist eine Hängesilberlinde im Bauminventar mit Alter und Abmessungen erfasst.
+
+### 2023 · Anerkannte Bestände · Dossier, Abschnitt 6
+
+Die Heidi- und Johanna-Spyri-Archive werden in das UNESCO-Register Memory of the World aufgenommen. Gemeint sind dokumentarische Bestände, kein touristischer Ort.
+
+### Der Roman korrigiert das erste Bild · PDF 236
+
+Am Schluss berichtet die Erzählerin, ihr seien Klinikunterlagen auf anderem Weg zugekommen, darunter sechs nicht abgeschickte Briefe. Fehlende Zugänglichkeit und vollständige Nichtexistenz sind also zu unterscheiden.
+
+**Vorgehen:** Öffne erst die beiden Archivkarten. Entwirf eine zweizeilige Museumsbeschriftung für die Porträts von Johanna und Emilie, die «berühmt» und «vergessen» nicht als Endurteil verwendet. Lies dann die Schlusskarte des Romans und korrigiere deine Beschriftung, falls sie ein vollständiges Verschwinden behauptet.
+
+**Frage:** Warum stellt Hasler dem fehlenden Personendossier das vorhandene Bauminventar gegenüber? Was verändert ihr späterer Zugang zu Klinikunterlagen an der Behauptung, Emilie sei spurlos verschwunden – und was lässt sich mit dem Heidi-Archiv von 2023 überhaupt vergleichen?
+
+<details><summary>Begründete Einordnung</summary>
+
+Das inventarisierte Baumleben kontrastiert im Prolog mit der zunächst bestrittenen Überlieferung einer Frau. Das macht die Auswahl und Zugänglichkeit von Erinnerung sichtbar. Der Schluss meldet jedoch einen anderen Zugangsweg zu Unterlagen und Briefen; «es gibt keine Quellen» wäre deshalb zu absolut. Der UNESCO-Status betrifft andere Bestände und eine spätere Zeit. Vergleichbar sind Formen institutioneller Sichtbarkeit und literarischer Wiederentdeckung, nicht ein messbares Mehr oder Weniger an menschlichem Wert. Haslers Prolog ist zudem die Darstellung der Recherche im Roman.
+
+</details>
+
+- [Hasler: Die Wachsflügelfrau, Lesefenster PDF 6–7 und 236–237](quellen/Wachsfluegelfrau_Lesefenster.html#archiv)
+- [Dossier Wirkungsgeschichte Heidi (bereitgestellte Arbeitsgrundlage)](quellen/Dossier_Wirkungsgeschichte_Heidi.docx)
+- [UNESCO: Heidi and Johanna Spyri Archives](https://www.unesco.org/en/memory-world/heidi-and-johanna-spyri-archives)
+
 ## Archivzugänge ohne Ersatzaufgabe
 
 1953bbc: Die BBC-Produktion mit Julia Lockwood ist nachgewiesen. Eine für eine konkrete Szenenuntersuchung geprüfte Kopie oder ein ausreichend genauer Szenenbericht liegt hier nicht vor. Der Eintrag bleibt als Archivzugang erhalten; die frühere Jahreszahlenübung entfällt.
