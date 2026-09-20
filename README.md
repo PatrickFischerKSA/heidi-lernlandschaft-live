@@ -28,3 +28,11 @@ Vier Räume ersetzen die bisherigen Texttafeln: visuelle Filmwelt mit Doppelverg
 Die acht Dateien in `dist/media/montage/` sind vier jeweils achtsekündige Ausschnitte und ihre Vorschaubilder aus der vom Nutzer zur Veröffentlichung bereitgestellten Fassung von 2015 (Startpositionen 03:00, 15:00, 45:00 und 53:20).
 
 Prüfungen: `node research/feedback.test.cjs` und `node research/filmography.test.cjs`. Der optionale Browserablauf `research/exploration.browser.cjs` benötigt Playwright und einen lokalen Server auf Port 8770; `HEIDI_BROWSER` wählt eine Chromium-Binärdatei, `HEIDI_URL` eine andere Testadresse. Er prüft Montagewiedergabe, Vergleiche, Bildmarkierungen, Speicherung, Feedback und responsive Ansichten.
+
+## Individuelle Aufgabenredaktion · 20. September 2026
+
+`dist/cases.js` enthält 54 einzeln formulierte Materialuntersuchungen: 35 Filmfälle, acht Bildaufgaben, neun konkrete Vergleichspaare, ein Montageversuch und eine Quellenuntersuchung zu Walther. Jeder Fall benennt Materialort, Vorgehen, Frage, Einordnung und zwei eigene Rückmeldungsaspekte. Filmausschnitt, Quellenparaphrase und eigener Entwurf werden unterschieden.
+
+Für beliebige Filmpaare werden keine Aufgaben erzeugt. Alte freie Notizen bleiben erhalten; Antworten auf neue Fragen werden getrennt gespeichert. Das Arbeitsheft und die herunterladbare Filmografie enthalten dieselben redigierten Aufgaben.
+
+Die lokale Rückmeldung erkennt aufgabenspezifische Synonyme und begrenzte Tippvarianten. Sie zeigt die Fundstelle im Antworttext, behandelt Verneinungen nicht als Zustimmung und vergibt keine automatische Richtigkeitsbewertung. Prüfung: `node research/cases.test.cjs`. Materialprüfung: `research/case-audit.md`. Für den Browser-Test der Video-Zeitmarken muss der lokale Server HTTP-Byte-Ranges unterstützen; GitHub Pages tut dies.

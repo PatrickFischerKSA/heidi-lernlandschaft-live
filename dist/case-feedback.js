@@ -1,0 +1,9 @@
+/* Shared mechanics; all pedagogical content belongs to the individual case. */
+(function(root){
+'use strict';
+const norm=s=>String(s??'').toLowerCase().replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue').replace(/ß/g,'ss').normalize('NFKD').replace(/[\u0300-\u036f]/g,'');
+function distance(a,b){let row=Array.from({length:b.length+1},(_,i)=>i);for(let i=1;i<=a.length;i++){const next=[i];for(let j=1;j<=b.length;j++)next[j]=Math.min(next[j-1]+1,row[j]+1,row[j-1]+(a[i-1]===b[j-1]?0:1));row=next}return row[b.length]}
+function match(sentence,term){const n=norm(sentence),t=norm(term);if(t.includes(' '))return n.includes(t);return (n.match(/[a-z0-9]+/g)||[]).some(w=>w===t||(t.length>=5&&w.startsWith(t))||(t.length>=7&&Math.abs(w.length-t.length)<=1&&distance(w,t)<=1));}
+function evaluate(id,text){const c=HeidiCases[id];if(!c)throw new Error('Keine individuell redigierte Aufgabe: '+id);const input=String(text||'').trim(),sentences=input.match(/[^.!?\n]+[.!?]?/g)||[];const aspects=c.facets.map(f=>{const sentence=sentences.find(s=>f.terms.some(t=>match(s,t)));return {label:f.label,evidence:sentence?.trim()||null,negated:!!sentence&&/\b(nicht|kein\w*|ohne|weder|niemals|nie)\b/.test(norm(sentence)),hint:f.hint,follow:f.follow}});return {title:c.title,aspects,items:aspects.map(a=>a.evidence?`${a.label} · Bezug gefunden: «${a.evidence}» ${a.negated?'Der Satz enthält eine Verneinung; der Worttreffer wird nicht als Zustimmung gewertet. ':''}${a.follow}`:`${a.label} · ${a.hint}`),note:'Die Rückmeldung sucht ausschliesslich nach den Aspekten dieser Aufgabe. Worttreffer bestätigen keine richtige Deutung; nicht erkannte Formulierungen sind nicht automatisch falsch. Die begründete Einordnung lässt sich separat aufklappen.'};}
+root.HeidiCaseFeedback={evaluate,match};
+})(typeof window!=='undefined'?window:globalThis);

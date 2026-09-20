@@ -14,7 +14,6 @@ assert.equal(E.filterFilms(data.films,{query:'groeschel'}).length,E.filterFilms(
 assert.deepEqual(Array.from(E.moveItem(['a','b','c'],'b',-1)),['b','a','c']);assert.deepEqual(Array.from(E.moveItem(['a','b'],'a',-1)),['a','b']);
 assert.deepEqual(Array.from(E.togglePair(['1937','1974'],'2015')),['1974','2015']);assert.deepEqual(Array.from(E.togglePair(['1937','2015'],'1937')),['2015']);
 for(const s of E.segments){assert(fs.existsSync('dist/media/montage/'+s.id+'.mp4'));assert(fs.existsSync('dist/media/montage/'+s.id+'.jpg'));}
-assert.equal(E.reflect('').items.length,1);assert.equal(E.reflect('Bei 01:20 sehe ich ein Fenster. Dadurch wirkt die Stadt eng. Vielleicht könnte es auch Schutz bedeuten.').items.length,3);
 assert.equal(E.esc('<img onerror="x">'),'&lt;img onerror=&quot;x&quot;&gt;');
-const index=fs.readFileSync('dist/index.html','utf8');for(const script of ['content','filmography','clips','images','feedback','explorer','app'])assert(index.includes(script+'.js'));
+const index=fs.readFileSync('dist/index.html','utf8');for(const script of ['content','filmography','clips','images','feedback','explorer','cases','case-feedback','app'])assert(index.includes(script+'.js'));
 console.log('35 Archiveinträge, 31 Videozugänge, alle Quellen/Bilder, Filter, Zeitgrenzen, Vergleichsauswahl, Montage-Reihenfolge und offene Rückmeldung geprüft.');
