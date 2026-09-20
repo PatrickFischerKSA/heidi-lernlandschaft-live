@@ -1246,6 +1246,171 @@ Das inventarisierte Baumleben kontrastiert im Prolog mit der zunächst bestritte
 - [Dossier Wirkungsgeschichte Heidi (bereitgestellte Arbeitsgrundlage)](quellen/Dossier_Wirkungsgeschichte_Heidi.docx)
 - [UNESCO: Heidi and Johanna Spyri Archives](https://www.unesco.org/en/memory-world/heidi-and-johanna-spyri-archives)
 
+## Zwei Stunden durch den Schnee – ist Schulpflicht schon Zugang?
+
+**Materialort:** Heidis Lehr- und Wanderjahre, Kapitel 5 «Es kommt ein Besuch und dann noch einer, der mehr Folgen hat»: Gespräch zwischen Pfarrer und Öhi. Bundesverfassung 1874, Art. 27 und Übergangsbestimmung Art. 4.
+
+Der Pfarrer fordert den Schulbesuch, der Öhi nennt den winterlichen Weg. Die Verfassung von 1874 ist ein Kontext der Veröffentlichung, keine Datierung der Romanhandlung. Bereits vor 1874 bestanden kantonale Schulpflichtregelungen.
+
+### Der Weg · Roman, Kapitel 5
+
+Der Öhi fragt, ob er das Kind morgens durch Sturm und Schnee zwei Stunden bergab und abends wieder hinauf schicken solle. Heidi ist während dieses Gesprächs auf seine Anweisung bei den Geissen.
+
+### Die Antwort · Roman, Kapitel 5
+
+Der Pfarrer bestreitet die Gefahr des Weges nicht. Er fordert den Öhi auf, mit Heidi wieder im Dorf zu wohnen. Dieser lehnt auch die Rückkehr unter die Menschen ab.
+
+### Die Norm · 1874
+
+Art. 27: Die Kantone sorgen für staatlich geleiteten, obligatorischen Primarunterricht; die öffentlichen Schulen sind unentgeltlich und für alle Bekenntnisse zugänglich. Für die Einführung der Unentgeltlichkeit gewährt die Übergangsbestimmung fünf Jahre.
+
+**Vorgehen:** Öffne zuerst die Wegkarte. Schreibe einen konkreten Vorschlag, wie Heidi im Winter täglich Unterricht erreichen könnte. Prüfe ihn dann an der Lösung des Pfarrers und am Verfassungstext: Welches Hindernis löst dein Vorschlag, welches bleibt?
+
+**Frage:** Warum antwortet der Pfarrer auf den gefährlichen Schulweg mit einem Wohnortwechsel? Was leistet die unentgeltliche, obligatorische Schule von Art. 27 – und was leistet sie für ein Kind auf einer abgelegenen Alp noch nicht?
+
+<details><summary>Begründete Einordnung</summary>
+
+Der Öhi beschreibt kein blosses Desinteresse: Er benennt Kälte, Sturm und einen zweistündigen Abstieg. Der Pfarrer erkennt dieses Hindernis an und schlägt das Wohnen im Dorf vor. Art. 27 verpflichtet die Kantone zu staatlich geleitetem, obligatorischem und in öffentlichen Schulen kostenlosem Primarunterricht. Ein Rechtsanspruch beseitigt aber nicht automatisch Entfernung und Wohnprobleme. Zugleich bedeutet der Umzug für den Öhi eine Rückkehr in die gemiedene Dorfgemeinschaft. Die Szene verdichtet damit einen Konflikt zwischen Bildung, Betreuung und sozialer Zugehörigkeit.
+
+</details>
+
+- [Spyri: Heidis Lehr- und Wanderjahre, Kapitel 1, 3–5 (Volltext)](https://www.gutenberg.org/cache/epub/7500/pg7500-images.html)
+- [Bundesverfassung 1874: ursprüngliche Artikel 27, 49, 51–52 und Übergangsbestimmungen](https://www.verfassungen.ch/verf74.htm)
+
+## Schützt das Fabrikgesetz auch den Geissenpeter?
+
+**Materialort:** Fabrikgesetz vom 23. März 1877, abgebildete Titelseite und Art. 1; Stefan Keller, Nationalmuseum, Abschnitte zu Geltungsbereich und Vollzug. Roman Band 1, Kapitel 3 «Auf der Weide» und 4 «Bei der Grossmutter».
+
+Die Abbildung ist ein historisches Gesetzblatt. Es geht um die Geltungsgrenze eines Schutzgesetzes, nicht um eine Gleichsetzung jeder Arbeit mit Fabrikarbeit. Peter hütet Geissen; im Winter besucht er die Schule.
+
+### Der Titel · 23. März 1877
+
+Auf dem Blatt steht «die Arbeit in den Fabriken». Art. 1 grenzt die erfasste industrielle Anstalt ein. Lies den Titel nicht als «jede Arbeit aller Kinder».
+
+### Peter · Roman, Kapitel 3 und 4
+
+Peter führt die Dorfgeissen auf die Weide. Im Winter geht er zur Schule. Seine Arbeit gehört zur ländlichen Versorgung, nicht zu einer Fabrikhalle.
+
+### Schutz und Lücken · Historische Einordnung
+
+Das Gesetz verbietet Fabrikarbeit unter 14 Jahren. Landwirtschaft und verbreitete Heimarbeit werden nicht erfasst. Fabrikinspektoren kontrollieren ab 1878; Verstösse führen nicht automatisch zu wirksamen Sanktionen.
+
+**Vorgehen:** Vergrössere das Gesetzblatt und finde im Titel die Wörter, die seinen Geltungsbereich eingrenzen. Vervollständige danach zwei Sätze: «Ein Kind unter 14 in einer erfassten Fabrik …» und «Peter beim Geissenhüten …». Öffne erst dann die Karte zum Vollzug.
+
+**Frage:** Warum wäre «Seit 1877 durften Kinder in der Schweiz nicht mehr arbeiten» irreführend? Erkläre am Geissenpeter sowohl die Grenze des Gesetzes als auch den Unterschied zwischen einem Verbot und seiner Durchsetzung.
+
+<details><summary>Begründete Einordnung</summary>
+
+Das Gesetz schützt Kinder unter 14 vor Arbeit in den erfassten Fabriken. Es ist kein allgemeines Verbot jeder Erwerbs- oder Mithilfe von Kindern. Landwirtschaft und zahlreiche Formen der Heimarbeit bleiben ausserhalb seines Geltungsbereichs; Peters Geissenhüten lässt sich deshalb nicht einfach darunter fassen. Zudem hängt die praktische Durchsetzung von Kontrollen und Behörden ab. Die Schweiz um 1880 verbindet sozialen Schutz mit weiterhin verbreiteter Kinderarbeit. Das Gesetz allein belegt weder Peters genaue Arbeitsbedingungen noch ein bestimmtes Handlungsjahr.
+
+</details>
+
+![Fabrikgesetz, 23. März 1877 · Titel und Art. 1](assets/schweiz-fabrikgesetz-1877.webp)
+
+Schweizerisches Bundesarchiv; Wiedergabe Nationalmuseum
+
+- [Stefan Keller, Nationalmuseum: Fabrikgesetz und Fabrikinspektor Nüsperli (2026)](https://blog.nationalmuseum.ch/2026/03/der-unermuedliche-fabrikinspektor-nuesperli/)
+- [Spyri: Heidis Lehr- und Wanderjahre, Kapitel 1, 3–5 (Volltext)](https://www.gutenberg.org/cache/epub/7500/pg7500-images.html)
+
+## Dete reist zur Arbeit – Klara reist zur Erholung
+
+**Materialort:** Band 1, Kapitel 1 «Zum Alm-Öhi hinauf» und Kapitel 5; Band 2, Kapitel 6 «Die fernen Freunde regen sich». HLS «Auswanderung», Abschnitt zum 19. Jahrhundert.
+
+Reisen in entgegengesetzten Richtungen: Dete sucht eine Arbeitsmöglichkeit ausserhalb der Schweiz; Klara und ihre Grossmutter kommen als versorgte Gäste in die Berge. Das historische Umfeld erklärt Möglichkeiten und Zwänge, aber nicht automatisch Detes individuelles Motiv.
+
+### Detes Bewegung · Roman Band 1
+
+Dete bringt Heidi zum Grossvater, um eine Stelle in Frankfurt anzutreten. Später vermittelt sie Heidi in den Haushalt Sesemann. Eigene Erwerbsarbeit und die Organisation fremder Betreuung greifen ineinander.
+
+### Klaras Bewegung · Roman Band 2
+
+Klara kommt mit ihrer Grossmutter in die Schweiz. Für den Weg zur Alp werden Träger, ein Pferd und weiteres Personal eingesetzt. Der Besuch beruht auf organisierter Versorgung.
+
+### Das Umfeld · 1870er und 1880er Jahre
+
+Das HLS verbindet die damaligen Agrarkrisen mit Auswanderung nach Amerika und in europäische Nachbarländer. Es beschreibt verschiedene Wanderungsformen; erst 1888–1900 verschiebt sich die Bilanz zugunsten der Einwanderung.
+
+**Vorgehen:** Schreibe zwei gerichtete Reisezeilen: «Dete: Schweiz → …, Zweck …» und «Klara: Frankfurt → …, Zweck …». Ergänze unter jede Zeile, wer Versorgung oder Betreuung organisiert. Lies danach die Auswanderungskarte und korrigiere die Überschrift «Alle verlassen die arme Schweiz».
+
+**Frage:** Was wird sichtbar, wenn Detes Weg und Klaras Besuch gleichzeitig auf derselben Karte stehen? Warum erklären die Auswanderungskrisen der 1870er und 1880er Jahre ein Umfeld, aber noch nicht Detes einzelne Entscheidung?
+
+<details><summary>Begründete Einordnung</summary>
+
+Dete nutzt grenzüberschreitende Erwerbsmöglichkeiten, während Klara mit familiärer Unterstützung und organisiertem Transport die Berge besucht. Dieselbe Schweiz ist Herkunftsort von Arbeitsmigration und Ziel wohlhabender Reisender. Das HLS nennt Agrarkrisen als einen Antrieb der Auswanderung; daraus folgt nicht, dass jede reisende Person aus demselben Grund geht oder dass Dete eine bäuerliche Existenz verloren hätte. Der Vergleich macht Unterschiede in Zweck, Mitteln und Entscheidungsspielraum sichtbar. Auch Heidis mitorganisierter Ortswechsel ist nicht mit Detes Erwerbsreise gleichzusetzen.
+
+</details>
+
+- [Spyri: Heidis Lehr- und Wanderjahre, Kapitel 1, 3–5 (Volltext)](https://www.gutenberg.org/cache/epub/7500/pg7500-images.html)
+- [Spyri: Heidi kann brauchen, was es gelernt hat, Die fernen Freunde regen sich (Volltext)](https://www.gutenberg.org/cache/epub/7512/pg7512.html)
+- [Anne-Lise Head-König: Auswanderung, HLS, Abschnitt 19. Jahrhundert](https://hls-dhs-dss.ch/de/articles/007988/2007-10-15/)
+
+## Wer bringt Klara hinauf – und wer die Gäste auf die Rigi?
+
+**Materialort:** Band 2, Kapitel 6 «Die fernen Freunde regen sich»: Ankunftszug auf der Alp. Foto der Vitznau-Rigi-Bahn auf der Schnurtobelbrücke, um 1875, Verkehrshaus VA-58261.
+
+Das historische Bild zeigt eine andere Bergregion als Heidis Alp. Die Rigi-Bahn wird 1871 eröffnet, vor den Heidi-Bänden. Verglichen werden Formen der Erschliessung; der Roman erzählt keine Rigi-Reise.
+
+### Der Ankunftszug · Roman Band 2
+
+Zwei Männer tragen Klara im offenen Sessel. Die Grossmutter reitet neben einem Führer; ein weiterer Mann schiebt den leeren Rollstuhl, ein Träger bringt Decken und Pelze.
+
+### Die Erschliessung · Rigi um 1875
+
+Das Bild zeigt einen Zug auf einer aufgeständerten Brücke, Gleise mit Zahnstange und einen Menschen auf dem seitlichen Steg vor der Lokomotive. Der Museumsnachweis erläutert seine Aufgabe als Zugsläufer.
+
+### Die Reihenfolge · 1871 und 1880/81
+
+Die Vitznau-Rigi-Bahn eröffnet 1871. Die Heidi-Bände folgen 1880 und 1881. Ein späterer Roman kann nicht die Ursache für eine bereits eröffnete Bahn sein.
+
+**Vorgehen:** Öffne das Foto gross. Suche den Menschen auf dem Steg vor dem Zug und die Zahnstange zwischen den Schienen. Stelle diesen beiden Details zwei Tätigkeiten aus Klaras Ankunftszug gegenüber. Schreibe dann eine neue Bildlegende, die neben der Aussicht auch Arbeit und Technik benennt.
+
+**Frage:** Wie verändert sich das Bild einer «unberührten Bergwelt», wenn Klaras Träger und die technischen Einrichtungen der Rigi-Bahn sichtbar bleiben? Weshalb kann Heidi nicht als Ursprung des Schweizer Bergtourismus gelten?
+
+<details><summary>Begründete Einordnung</summary>
+
+Klaras Aufenthalt setzt die Arbeit von Trägern, Führer und weiterem Personal voraus. Im Rigi-Bild erschliessen Brücke, Gleis und Zahnstange das Gelände; ein vorausgehender Zugsläufer gehört zur Sicherung. Naturerlebnis wird durch Arbeit und Technik ermöglicht. Die Bahn eröffnet 1871, Heidi erscheint 1880/81: Bergtourismus ist bereits vorhanden. Der Roman kann spätere Bergbilder prägen, er begründet aber nicht diese frühere Infrastruktur. Weder zeigt die Aufnahme Maienfeld noch darf die Rigi-Bahn in die Romanhandlung hineingelesen werden.
+
+</details>
+
+![Vitznau-Rigi-Bahn auf der Schnurtobelbrücke, um 1875](assets/schweiz-rigi-1875.webp)
+
+Verkehrshaus der Schweiz, VA-58261; Wiedergabe Nationalmuseum
+
+- [Spyri: Heidi kann brauchen, was es gelernt hat, Die fernen Freunde regen sich (Volltext)](https://www.gutenberg.org/cache/epub/7512/pg7512.html)
+- [Jean-Luc Rickenbacher, Nationalmuseum: Mit dem Zahnrad den Berg hinauf (2025)](https://blog.nationalmuseum.ch/2025/09/mit-dem-zahnrad-den-berg-hinauf/)
+- [Verena Rutschmann: Johanna Spyri, HLS (2013)](https://hls-dhs-dss.ch/de/articles/012304/2013-01-10/)
+
+## Der Pfarrer fordert Schule – der Staat leitet sie
+
+**Materialort:** Band 1, Kapitel 5, Gespräch Pfarrer/Öhi. Bundesverfassung 1874: Art. 27, 49, 51 und 52 in der ursprünglichen Fassung, nicht den späteren Änderungen.
+
+Die Verfassung ordnet Schule und Religion neu. Sie schützt Glaubensfreiheit und enthält zugleich konfessionelle Ausnahmebestimmungen. Der Pfarrer im Roman verbindet Schulbesuch, Nachbarschaft und Versöhnung mit Gott.
+
+### Der Vermittler · Roman, Kapitel 5
+
+Der Pfarrer fordert regelmässigen Unterricht für Heidi. Dem Öhi rät er zugleich zur Versöhnung mit Gott und zur Rückkehr unter die Nachbarn. Bildungsforderung und Seelsorge stehen in derselben Szene.
+
+### Die Zuständigkeit · 1874
+
+Art. 27 legt staatliche Leitung der Primarschule fest und verlangt Zugang für Angehörige aller Bekenntnisse ohne Beeinträchtigung ihrer Glaubensfreiheit. Art. 49 schützt Glaubens- und Gewissensfreiheit.
+
+### Die Grenze · ebenfalls 1874
+
+Art. 51 untersagt den Jesuiten und angegliederten Gesellschaften Aufnahme sowie Tätigkeit in Kirche und Schule. Art. 52 verbietet neue und wiederhergestellte Klöster oder religiöse Orden. Die späteren Aufhebungen auf der Quellenseite gehören nicht in das Jahr 1880.
+
+**Vorgehen:** Lies die Pfarrer-Karte und notiere getrennt seine Forderung für Heidi und seinen Rat an den Grossvater. Öffne dann die Verfassungskarten. Formuliere eine knappe historische Einordnung dieser Gleichzeitigkeit, die weder «Religion verschwindet» noch «Die Kirche beherrscht alles» behauptet.
+
+**Frage:** Wie können staatliche Schulleitung und ein Pfarrer als Vermittler des Schulbesuchs zusammenpassen? Welchen Widerspruch enthält die Verfassung von 1874 zwischen Glaubensfreiheit und dem Umgang mit Jesuiten und Klöstern?
+
+<details><summary>Begründete Einordnung</summary>
+
+Staatliche Leitung bezeichnet die institutionelle Zuständigkeit; sie schliesst nicht aus, dass ein Pfarrer im Dorfalltag Bildung einfordert und vermittelt. Spyris Szene verknüpft den Schulkonflikt mit einer religiös erzählten Rückkehr in die Gemeinschaft. Art. 49 schützt Glaubens- und Gewissensfreiheit, während Art. 51 und 52 Jesuiten beziehungsweise neue oder wiederhergestellte Klöster beschränken. Der Bundesstaat ist somit weder einfach religionslos noch konfessionell neutral in heutigem Sinn. Das Nebeneinander macht Konflikte sichtbar, ohne den Roman zu einem Kommentar zu einem bestimmten Verfassungsartikel zu erklären.
+
+</details>
+
+- [Spyri: Heidis Lehr- und Wanderjahre, Kapitel 1, 3–5 (Volltext)](https://www.gutenberg.org/cache/epub/7500/pg7500-images.html)
+- [Bundesverfassung 1874: ursprüngliche Artikel 27, 49, 51–52 und Übergangsbestimmungen](https://www.verfassungen.ch/verf74.htm)
+
 ## Archivzugänge ohne Ersatzaufgabe
 
 1953bbc: Die BBC-Produktion mit Julia Lockwood ist nachgewiesen. Eine für eine konkrete Szenenuntersuchung geprüfte Kopie oder ein ausreichend genauer Szenenbericht liegt hier nicht vor. Der Eintrag bleibt als Archivzugang erhalten; die frühere Jahreszahlenübung entfällt.

@@ -291,6 +291,34 @@ const sources = {
   "hasler-archiv": {
     "name": "Hasler: Die Wachsflügelfrau, Lesefenster PDF 6–7 und 236–237",
     "url": "quellen/Wachsfluegelfrau_Lesefenster.html#archiv"
+  },
+  "chroman1": {
+    "name": "Spyri: Heidis Lehr- und Wanderjahre, Kapitel 1, 3–5 (Volltext)",
+    "url": "https://www.gutenberg.org/cache/epub/7500/pg7500-images.html"
+  },
+  "chroman2": {
+    "name": "Spyri: Heidi kann brauchen, was es gelernt hat, Die fernen Freunde regen sich (Volltext)",
+    "url": "https://www.gutenberg.org/cache/epub/7512/pg7512.html"
+  },
+  "chverfassung": {
+    "name": "Bundesverfassung 1874: ursprüngliche Artikel 27, 49, 51–52 und Übergangsbestimmungen",
+    "url": "https://www.verfassungen.ch/verf74.htm"
+  },
+  "chbund": {
+    "name": "Schweizer Parlament: Bundesverfassung, Entstehung 1848 und Totalrevision 1874",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/faktenblatt-bundesverfassung.aspx"
+  },
+  "chfabrik": {
+    "name": "Stefan Keller, Nationalmuseum: Fabrikgesetz und Fabrikinspektor Nüsperli (2026)",
+    "url": "https://blog.nationalmuseum.ch/2026/03/der-unermuedliche-fabrikinspektor-nuesperli/"
+  },
+  "chauswanderung": {
+    "name": "Anne-Lise Head-König: Auswanderung, HLS, Abschnitt 19. Jahrhundert",
+    "url": "https://hls-dhs-dss.ch/de/articles/007988/2007-10-15/"
+  },
+  "chrigi": {
+    "name": "Jean-Luc Rickenbacher, Nationalmuseum: Mit dem Zahnrad den Berg hinauf (2025)",
+    "url": "https://blog.nationalmuseum.ch/2025/09/mit-dem-zahnrad-den-berg-hinauf/"
   }
 };
 const films = [

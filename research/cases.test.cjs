@@ -1,8 +1,8 @@
 const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
 const c={};c.window=c;vm.createContext(c);for(const f of ['content','filmography','cases','case-feedback'])vm.runInContext(fs.readFileSync('dist/'+f+'.js','utf8'),c);
 const {films,sources,cases,archive}=vm.runInContext('({films,sources,cases:HeidiCases,archive:HeidiArchiveNotes})',c),F=c.HeidiCaseFeedback;
-assert.equal(Object.keys(cases).length,60);
-assert.equal(new Set(Object.values(cases).map(t=>t.question)).size,60);
+assert.equal(Object.keys(cases).length,65);
+assert.equal(new Set(Object.values(cases).map(t=>t.question)).size,65);
 for(const f of films){if(!cases['film-'+f.id]){assert(archive[f.id],f.id);assert.equal(f.question,undefined);assert.equal(f.scene,undefined);assert(f.taskStatus);continue;}assert.equal(f.question,cases['film-'+f.id].question);assert(!f.scene.includes('Begründet eure Deutung mit einer konkreten Szene'));}
 for(const t of Object.values(cases)){for(const key of ['title','where','material','action','question','answer'])assert(t[key]?.length>10,t.id+' '+key);assert.equal(t.facets.length,2);for(const r of t.refs)assert(sources[r],t.id+' '+r);for(const a of t.facets){assert(a.terms.length>=3);assert(a.hint&&a.follow)}if(t.pair){assert.equal(t.pair.length,2);assert(t.pair.every(id=>films.find(f=>f.id===id)))}assert(F.evaluate(t.id,'').aspects.every(a=>!a.evidence));assert(F.evaluate(t.id,'Mein Fahrrad hat einen platten Reifen.').aspects.every(a=>!a.evidence),t.id+' unrelated');}
 const checks=[
@@ -22,7 +22,7 @@ const app=fs.readFileSync('dist/app.js','utf8');for(const old of ['E.reflect(',"
 assert(fs.readFileSync('dist/cases.js','utf8').includes('01:48–02:30'));
 assert.equal(Object.keys(archive).length,3);
 for(const t of Object.values(cases)){for(const id of t.materialImages||(t.materialImage?[t.materialImage]:[]))assert(fs.existsSync('dist/assets/'+id+'.webp'),id);}
-console.log('60 individuelle Materialfälle geprüft: 32 Filme, 8 Bilder, 9 Vergleiche, Montage, Walther und 9 Spyri/Kempin-Untersuchungen; eigene Fragen, Quellen, getrennte Aufgaben, Synonyme, Tippfehler, Verneinungen und sachfremde Antworten.');
+console.log('65 individuelle Materialfälle geprüft: 32 Filme, 8 Bilder, 9 Vergleiche, Montage, Walther und 9 Spyri/Kempin-Untersuchungen und 5 Schweiz-Fälle; eigene Fragen, Quellen, getrennte Aufgaben, Synonyme, Tippfehler, Verneinungen und sachfremde Antworten.');
 // Individually chosen alternate phrasings for the newly researched cases.
 for(const [id,answer] of [
  ['film-1958india','Die Schauspielerin arbeitet an der Rolle. Ungekünsteltes Verhalten ist eine erzeugte Wirkung.'],
@@ -43,3 +43,12 @@ assert(F.evaluate('spyri-kempin-tante','Der Dialog ist kein historisches Wortpro
 assert(F.evaluate('spyri-kempin-zugang','Es fehlt nicht die Qualifikation.').aspects[0].negated);
 assert(fs.existsSync('dist/assets/emilie-kempin-spyri.jpg'));
 assert(fs.readFileSync('dist/quellen/Wachsfluegelfrau_Lesefenster.html','utf8').includes('PDF 95'));
+
+for(const [id,answer] of [
+ ['schweiz-schule','Der Weg durch Schnee ist zu gefährlich. Der Umzug ins Dorf macht die Schulpflicht erreichbar.'],
+ ['schweiz-arbeit','Landwirtschaft fällt nicht unter das Fabrikgesetz. Kontrollen sind für die Durchsetzung nötig.'],
+ ['schweiz-migration','Dete sucht eine Stelle, Klara kommt zur Erholung. Die Agrarkrise belegt nicht jedes einzelne Motiv.'],
+ ['schweiz-tourismus','Träger und Zugsläufer ermöglichen den Zugang. Die Rigi-Bahn von 1871 ist älter als Heidi.'],
+ ['schweiz-religion','Der Pfarrer vermittelt, während der Staat die Schule leitet. Jesuiten sind trotz Glaubensfreiheit ausgeschlossen.']
+])assert(F.evaluate(id,answer).aspects.every(a=>a.evidence),id+' alternate');
+assert(F.evaluate('schweiz-arbeit','Das Fabrikgesetz gilt nicht für die Landwirtschaft.').aspects[0].negated);

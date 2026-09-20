@@ -2657,6 +2657,316 @@ const HeidiCases = {
         "follow": "Bewahre den Unterschied zwischen fehlendem Zugang, fehlender Überlieferung und einer späteren institutionellen Ehrung."
       }
     ]
+  },
+  "schweiz-schule": {
+    "id": "schweiz-schule",
+    "room": "schweiz",
+    "title": "Zwei Stunden durch den Schnee – ist Schulpflicht schon Zugang?",
+    "where": "Heidis Lehr- und Wanderjahre, Kapitel 5 «Es kommt ein Besuch und dann noch einer, der mehr Folgen hat»: Gespräch zwischen Pfarrer und Öhi. Bundesverfassung 1874, Art. 27 und Übergangsbestimmung Art. 4.",
+    "material": "Der Pfarrer fordert den Schulbesuch, der Öhi nennt den winterlichen Weg. Die Verfassung von 1874 ist ein Kontext der Veröffentlichung, keine Datierung der Romanhandlung. Bereits vor 1874 bestanden kantonale Schulpflichtregelungen.",
+    "action": "Öffne zuerst die Wegkarte. Schreibe einen konkreten Vorschlag, wie Heidi im Winter täglich Unterricht erreichen könnte. Prüfe ihn dann an der Lösung des Pfarrers und am Verfassungstext: Welches Hindernis löst dein Vorschlag, welches bleibt?",
+    "question": "Warum antwortet der Pfarrer auf den gefährlichen Schulweg mit einem Wohnortwechsel? Was leistet die unentgeltliche, obligatorische Schule von Art. 27 – und was leistet sie für ein Kind auf einer abgelegenen Alp noch nicht?",
+    "answer": "Der Öhi beschreibt kein blosses Desinteresse: Er benennt Kälte, Sturm und einen zweistündigen Abstieg. Der Pfarrer erkennt dieses Hindernis an und schlägt das Wohnen im Dorf vor. Art. 27 verpflichtet die Kantone zu staatlich geleitetem, obligatorischem und in öffentlichen Schulen kostenlosem Primarunterricht. Ein Rechtsanspruch beseitigt aber nicht automatisch Entfernung und Wohnprobleme. Zugleich bedeutet der Umzug für den Öhi eine Rückkehr in die gemiedene Dorfgemeinschaft. Die Szene verdichtet damit einen Konflikt zwischen Bildung, Betreuung und sozialer Zugehörigkeit.",
+    "evidence": [
+      [
+        "Der Weg · Roman, Kapitel 5",
+        "Der Öhi fragt, ob er das Kind morgens durch Sturm und Schnee zwei Stunden bergab und abends wieder hinauf schicken solle. Heidi ist während dieses Gesprächs auf seine Anweisung bei den Geissen."
+      ],
+      [
+        "Die Antwort · Roman, Kapitel 5",
+        "Der Pfarrer bestreitet die Gefahr des Weges nicht. Er fordert den Öhi auf, mit Heidi wieder im Dorf zu wohnen. Dieser lehnt auch die Rückkehr unter die Menschen ab."
+      ],
+      [
+        "Die Norm · 1874",
+        "Art. 27: Die Kantone sorgen für staatlich geleiteten, obligatorischen Primarunterricht; die öffentlichen Schulen sind unentgeltlich und für alle Bekenntnisse zugänglich. Für die Einführung der Unentgeltlichkeit gewährt die Übergangsbestimmung fünf Jahre."
+      ]
+    ],
+    "refs": [
+      "chroman1",
+      "chverfassung"
+    ],
+    "facets": [
+      {
+        "label": "Konkretes Zugangshindernis",
+        "terms": [
+          "schnee",
+          "sturm",
+          "weg",
+          "entfernung",
+          "zwei stunden",
+          "kaelte",
+          "winter",
+          "abstieg"
+        ],
+        "hint": "Welches Problem nennt der Öhi für einen einzelnen Schultag?",
+        "follow": "Verbinde die Entfernung mit der winterlichen Gefährdung statt nur von Bildungsfeindlichkeit zu sprechen."
+      },
+      {
+        "label": "Recht, Wohnort und Gemeinschaft",
+        "terms": [
+          "dorf",
+          "umzug",
+          "wohnort",
+          "unentgelt",
+          "kostenlos",
+          "schulpflicht",
+          "gemeinschaft",
+          "kanton"
+        ],
+        "hint": "Warum schlägt der Pfarrer das Wohnen im Dorf vor?",
+        "follow": "Prüfe getrennt, was die Schule rechtlich bereitstellt und was räumlich organisiert werden muss."
+      }
+    ]
+  },
+  "schweiz-arbeit": {
+    "id": "schweiz-arbeit",
+    "room": "schweiz",
+    "title": "Schützt das Fabrikgesetz auch den Geissenpeter?",
+    "where": "Fabrikgesetz vom 23. März 1877, abgebildete Titelseite und Art. 1; Stefan Keller, Nationalmuseum, Abschnitte zu Geltungsbereich und Vollzug. Roman Band 1, Kapitel 3 «Auf der Weide» und 4 «Bei der Grossmutter».",
+    "material": "Die Abbildung ist ein historisches Gesetzblatt. Es geht um die Geltungsgrenze eines Schutzgesetzes, nicht um eine Gleichsetzung jeder Arbeit mit Fabrikarbeit. Peter hütet Geissen; im Winter besucht er die Schule.",
+    "action": "Vergrössere das Gesetzblatt und finde im Titel die Wörter, die seinen Geltungsbereich eingrenzen. Vervollständige danach zwei Sätze: «Ein Kind unter 14 in einer erfassten Fabrik …» und «Peter beim Geissenhüten …». Öffne erst dann die Karte zum Vollzug.",
+    "question": "Warum wäre «Seit 1877 durften Kinder in der Schweiz nicht mehr arbeiten» irreführend? Erkläre am Geissenpeter sowohl die Grenze des Gesetzes als auch den Unterschied zwischen einem Verbot und seiner Durchsetzung.",
+    "answer": "Das Gesetz schützt Kinder unter 14 vor Arbeit in den erfassten Fabriken. Es ist kein allgemeines Verbot jeder Erwerbs- oder Mithilfe von Kindern. Landwirtschaft und zahlreiche Formen der Heimarbeit bleiben ausserhalb seines Geltungsbereichs; Peters Geissenhüten lässt sich deshalb nicht einfach darunter fassen. Zudem hängt die praktische Durchsetzung von Kontrollen und Behörden ab. Die Schweiz um 1880 verbindet sozialen Schutz mit weiterhin verbreiteter Kinderarbeit. Das Gesetz allein belegt weder Peters genaue Arbeitsbedingungen noch ein bestimmtes Handlungsjahr.",
+    "evidence": [
+      [
+        "Der Titel · 23. März 1877",
+        "Auf dem Blatt steht «die Arbeit in den Fabriken». Art. 1 grenzt die erfasste industrielle Anstalt ein. Lies den Titel nicht als «jede Arbeit aller Kinder»."
+      ],
+      [
+        "Peter · Roman, Kapitel 3 und 4",
+        "Peter führt die Dorfgeissen auf die Weide. Im Winter geht er zur Schule. Seine Arbeit gehört zur ländlichen Versorgung, nicht zu einer Fabrikhalle."
+      ],
+      [
+        "Schutz und Lücken · Historische Einordnung",
+        "Das Gesetz verbietet Fabrikarbeit unter 14 Jahren. Landwirtschaft und verbreitete Heimarbeit werden nicht erfasst. Fabrikinspektoren kontrollieren ab 1878; Verstösse führen nicht automatisch zu wirksamen Sanktionen."
+      ]
+    ],
+    "refs": [
+      "chfabrik",
+      "chroman1"
+    ],
+    "facets": [
+      {
+        "label": "Geltungsbereich",
+        "terms": [
+          "fabrik",
+          "landwirtschaft",
+          "heimarbeit",
+          "geissen",
+          "hirt",
+          "bereich",
+          "unter 14"
+        ],
+        "hint": "Welche Einschränkung steht schon im Titel des Gesetzes?",
+        "follow": "Ordne Peters Tätigkeit ein, bevor du eine Schutzvorschrift auf ihn überträgst."
+      },
+      {
+        "label": "Norm und Durchsetzung",
+        "terms": [
+          "kontroll",
+          "inspekt",
+          "vollzug",
+          "durchsetz",
+          "verstoss",
+          "sanktion",
+          "behoerde"
+        ],
+        "hint": "Warum braucht ein beschlossenes Verbot noch Inspektionen und Behörden?",
+        "follow": "Trenne den Inhalt des Gesetzes von seiner tatsächlichen Befolgung."
+      }
+    ],
+    "contextFigure": [
+      "assets/schweiz-fabrikgesetz-1877.webp",
+      "Fabrikgesetz, 23. März 1877 · Titel und Art. 1",
+      "Schweizerisches Bundesarchiv; Wiedergabe Nationalmuseum",
+      "chfabrik"
+    ]
+  },
+  "schweiz-migration": {
+    "id": "schweiz-migration",
+    "room": "schweiz",
+    "title": "Dete reist zur Arbeit – Klara reist zur Erholung",
+    "where": "Band 1, Kapitel 1 «Zum Alm-Öhi hinauf» und Kapitel 5; Band 2, Kapitel 6 «Die fernen Freunde regen sich». HLS «Auswanderung», Abschnitt zum 19. Jahrhundert.",
+    "material": "Reisen in entgegengesetzten Richtungen: Dete sucht eine Arbeitsmöglichkeit ausserhalb der Schweiz; Klara und ihre Grossmutter kommen als versorgte Gäste in die Berge. Das historische Umfeld erklärt Möglichkeiten und Zwänge, aber nicht automatisch Detes individuelles Motiv.",
+    "action": "Schreibe zwei gerichtete Reisezeilen: «Dete: Schweiz → …, Zweck …» und «Klara: Frankfurt → …, Zweck …». Ergänze unter jede Zeile, wer Versorgung oder Betreuung organisiert. Lies danach die Auswanderungskarte und korrigiere die Überschrift «Alle verlassen die arme Schweiz».",
+    "question": "Was wird sichtbar, wenn Detes Weg und Klaras Besuch gleichzeitig auf derselben Karte stehen? Warum erklären die Auswanderungskrisen der 1870er und 1880er Jahre ein Umfeld, aber noch nicht Detes einzelne Entscheidung?",
+    "answer": "Dete nutzt grenzüberschreitende Erwerbsmöglichkeiten, während Klara mit familiärer Unterstützung und organisiertem Transport die Berge besucht. Dieselbe Schweiz ist Herkunftsort von Arbeitsmigration und Ziel wohlhabender Reisender. Das HLS nennt Agrarkrisen als einen Antrieb der Auswanderung; daraus folgt nicht, dass jede reisende Person aus demselben Grund geht oder dass Dete eine bäuerliche Existenz verloren hätte. Der Vergleich macht Unterschiede in Zweck, Mitteln und Entscheidungsspielraum sichtbar. Auch Heidis mitorganisierter Ortswechsel ist nicht mit Detes Erwerbsreise gleichzusetzen.",
+    "evidence": [
+      [
+        "Detes Bewegung · Roman Band 1",
+        "Dete bringt Heidi zum Grossvater, um eine Stelle in Frankfurt anzutreten. Später vermittelt sie Heidi in den Haushalt Sesemann. Eigene Erwerbsarbeit und die Organisation fremder Betreuung greifen ineinander."
+      ],
+      [
+        "Klaras Bewegung · Roman Band 2",
+        "Klara kommt mit ihrer Grossmutter in die Schweiz. Für den Weg zur Alp werden Träger, ein Pferd und weiteres Personal eingesetzt. Der Besuch beruht auf organisierter Versorgung."
+      ],
+      [
+        "Das Umfeld · 1870er und 1880er Jahre",
+        "Das HLS verbindet die damaligen Agrarkrisen mit Auswanderung nach Amerika und in europäische Nachbarländer. Es beschreibt verschiedene Wanderungsformen; erst 1888–1900 verschiebt sich die Bilanz zugunsten der Einwanderung."
+      ]
+    ],
+    "refs": [
+      "chroman1",
+      "chroman2",
+      "chauswanderung"
+    ],
+    "facets": [
+      {
+        "label": "Ungleiche Reisemöglichkeiten",
+        "terms": [
+          "arbeit",
+          "erwerb",
+          "stelle",
+          "erholung",
+          "traeger",
+          "betreuung",
+          "versorgung",
+          "wohlhab"
+        ],
+        "hint": "Was unterscheidet den Zweck und die Versorgung der beiden Reisen?",
+        "follow": "Stelle die Richtungen und die verfügbaren Mittel ausdrücklich nebeneinander."
+      },
+      {
+        "label": "Kontext ist keine Einzelursache",
+        "terms": [
+          "agrarkrise",
+          "umfeld",
+          "motiv",
+          "einzelfall",
+          "nicht alle",
+          "belegt",
+          "ursache",
+          "verallgemein"
+        ],
+        "hint": "Welche persönliche Vorgeschichte Detes ist durch eine allgemeine Migrationsgeschichte nicht nachgewiesen?",
+        "follow": "Benenne die Grenze zwischen historischem Umfeld und der Erklärung einer Romanfigur."
+      }
+    ]
+  },
+  "schweiz-tourismus": {
+    "id": "schweiz-tourismus",
+    "room": "schweiz",
+    "title": "Wer bringt Klara hinauf – und wer die Gäste auf die Rigi?",
+    "where": "Band 2, Kapitel 6 «Die fernen Freunde regen sich»: Ankunftszug auf der Alp. Foto der Vitznau-Rigi-Bahn auf der Schnurtobelbrücke, um 1875, Verkehrshaus VA-58261.",
+    "material": "Das historische Bild zeigt eine andere Bergregion als Heidis Alp. Die Rigi-Bahn wird 1871 eröffnet, vor den Heidi-Bänden. Verglichen werden Formen der Erschliessung; der Roman erzählt keine Rigi-Reise.",
+    "action": "Öffne das Foto gross. Suche den Menschen auf dem Steg vor dem Zug und die Zahnstange zwischen den Schienen. Stelle diesen beiden Details zwei Tätigkeiten aus Klaras Ankunftszug gegenüber. Schreibe dann eine neue Bildlegende, die neben der Aussicht auch Arbeit und Technik benennt.",
+    "question": "Wie verändert sich das Bild einer «unberührten Bergwelt», wenn Klaras Träger und die technischen Einrichtungen der Rigi-Bahn sichtbar bleiben? Weshalb kann Heidi nicht als Ursprung des Schweizer Bergtourismus gelten?",
+    "answer": "Klaras Aufenthalt setzt die Arbeit von Trägern, Führer und weiterem Personal voraus. Im Rigi-Bild erschliessen Brücke, Gleis und Zahnstange das Gelände; ein vorausgehender Zugsläufer gehört zur Sicherung. Naturerlebnis wird durch Arbeit und Technik ermöglicht. Die Bahn eröffnet 1871, Heidi erscheint 1880/81: Bergtourismus ist bereits vorhanden. Der Roman kann spätere Bergbilder prägen, er begründet aber nicht diese frühere Infrastruktur. Weder zeigt die Aufnahme Maienfeld noch darf die Rigi-Bahn in die Romanhandlung hineingelesen werden.",
+    "evidence": [
+      [
+        "Der Ankunftszug · Roman Band 2",
+        "Zwei Männer tragen Klara im offenen Sessel. Die Grossmutter reitet neben einem Führer; ein weiterer Mann schiebt den leeren Rollstuhl, ein Träger bringt Decken und Pelze."
+      ],
+      [
+        "Die Erschliessung · Rigi um 1875",
+        "Das Bild zeigt einen Zug auf einer aufgeständerten Brücke, Gleise mit Zahnstange und einen Menschen auf dem seitlichen Steg vor der Lokomotive. Der Museumsnachweis erläutert seine Aufgabe als Zugsläufer."
+      ],
+      [
+        "Die Reihenfolge · 1871 und 1880/81",
+        "Die Vitznau-Rigi-Bahn eröffnet 1871. Die Heidi-Bände folgen 1880 und 1881. Ein späterer Roman kann nicht die Ursache für eine bereits eröffnete Bahn sein."
+      ]
+    ],
+    "refs": [
+      "chroman2",
+      "chrigi",
+      "spyrihls"
+    ],
+    "facets": [
+      {
+        "label": "Arbeit hinter der Aussicht",
+        "terms": [
+          "traeger",
+          "fuehrer",
+          "zugslauf",
+          "steg",
+          "zahnstange",
+          "bruecke",
+          "personal",
+          "technik"
+        ],
+        "hint": "Welche Menschen und Einrichtungen ermöglichen den Aufenthalt am Berg?",
+        "follow": "Verbinde mindestens eine Tätigkeit im Roman mit einem sichtbaren Detail des historischen Fotos."
+      },
+      {
+        "label": "Chronologie und Ortsunterschied",
+        "terms": [
+          "1871",
+          "1880",
+          "1881",
+          "vorher",
+          "bereits",
+          "ursprung",
+          "rigi",
+          "maienfeld"
+        ],
+        "hint": "Welche Eröffnung liegt vor der Veröffentlichung – und welcher Ort ist auf dem Foto zu sehen?",
+        "follow": "Begrenze deine Aussage: historischer Vergleich, keine Abbildung von Heidis tatsächlichem Reiseweg."
+      }
+    ],
+    "contextFigure": [
+      "assets/schweiz-rigi-1875.webp",
+      "Vitznau-Rigi-Bahn auf der Schnurtobelbrücke, um 1875",
+      "Verkehrshaus der Schweiz, VA-58261; Wiedergabe Nationalmuseum",
+      "chrigi"
+    ]
+  },
+  "schweiz-religion": {
+    "id": "schweiz-religion",
+    "room": "schweiz",
+    "title": "Der Pfarrer fordert Schule – der Staat leitet sie",
+    "where": "Band 1, Kapitel 5, Gespräch Pfarrer/Öhi. Bundesverfassung 1874: Art. 27, 49, 51 und 52 in der ursprünglichen Fassung, nicht den späteren Änderungen.",
+    "material": "Die Verfassung ordnet Schule und Religion neu. Sie schützt Glaubensfreiheit und enthält zugleich konfessionelle Ausnahmebestimmungen. Der Pfarrer im Roman verbindet Schulbesuch, Nachbarschaft und Versöhnung mit Gott.",
+    "action": "Lies die Pfarrer-Karte und notiere getrennt seine Forderung für Heidi und seinen Rat an den Grossvater. Öffne dann die Verfassungskarten. Formuliere eine knappe historische Einordnung dieser Gleichzeitigkeit, die weder «Religion verschwindet» noch «Die Kirche beherrscht alles» behauptet.",
+    "question": "Wie können staatliche Schulleitung und ein Pfarrer als Vermittler des Schulbesuchs zusammenpassen? Welchen Widerspruch enthält die Verfassung von 1874 zwischen Glaubensfreiheit und dem Umgang mit Jesuiten und Klöstern?",
+    "answer": "Staatliche Leitung bezeichnet die institutionelle Zuständigkeit; sie schliesst nicht aus, dass ein Pfarrer im Dorfalltag Bildung einfordert und vermittelt. Spyris Szene verknüpft den Schulkonflikt mit einer religiös erzählten Rückkehr in die Gemeinschaft. Art. 49 schützt Glaubens- und Gewissensfreiheit, während Art. 51 und 52 Jesuiten beziehungsweise neue oder wiederhergestellte Klöster beschränken. Der Bundesstaat ist somit weder einfach religionslos noch konfessionell neutral in heutigem Sinn. Das Nebeneinander macht Konflikte sichtbar, ohne den Roman zu einem Kommentar zu einem bestimmten Verfassungsartikel zu erklären.",
+    "evidence": [
+      [
+        "Der Vermittler · Roman, Kapitel 5",
+        "Der Pfarrer fordert regelmässigen Unterricht für Heidi. Dem Öhi rät er zugleich zur Versöhnung mit Gott und zur Rückkehr unter die Nachbarn. Bildungsforderung und Seelsorge stehen in derselben Szene."
+      ],
+      [
+        "Die Zuständigkeit · 1874",
+        "Art. 27 legt staatliche Leitung der Primarschule fest und verlangt Zugang für Angehörige aller Bekenntnisse ohne Beeinträchtigung ihrer Glaubensfreiheit. Art. 49 schützt Glaubens- und Gewissensfreiheit."
+      ],
+      [
+        "Die Grenze · ebenfalls 1874",
+        "Art. 51 untersagt den Jesuiten und angegliederten Gesellschaften Aufnahme sowie Tätigkeit in Kirche und Schule. Art. 52 verbietet neue und wiederhergestellte Klöster oder religiöse Orden. Die späteren Aufhebungen auf der Quellenseite gehören nicht in das Jahr 1880."
+      ]
+    ],
+    "refs": [
+      "chroman1",
+      "chverfassung"
+    ],
+    "facets": [
+      {
+        "label": "Zuständigkeit und Vermittlung",
+        "terms": [
+          "staat",
+          "leitung",
+          "pfarrer",
+          "vermitt",
+          "seelsorge",
+          "nachbar",
+          "gemeinschaft"
+        ],
+        "hint": "Was bedeutet staatliche Leitung, und was tut der Pfarrer tatsächlich in der Szene?",
+        "follow": "Trenne institutionelle Zuständigkeit von religiöser und sozialer Vermittlung."
+      },
+      {
+        "label": "Freiheit und Ausnahme",
+        "terms": [
+          "jesuit",
+          "kloster",
+          "ausnahme",
+          "glaubensfreiheit",
+          "gewissensfreiheit",
+          "widerspruch",
+          "verbot"
+        ],
+        "hint": "Welche beiden Artikel begrenzen das Bild uneingeschränkter religiöser Freiheit?",
+        "follow": "Stelle Schutz und konfessionelle Beschränkung als gleichzeitig vorhandene Bestimmungen dar."
+      }
+    ]
   }
 };
 
