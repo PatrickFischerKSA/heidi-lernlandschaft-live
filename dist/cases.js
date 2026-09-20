@@ -2131,6 +2131,280 @@ const HeidiCases = {
       "walther"
     ],
     "sourceTask": true
+  },
+  "spyri-werk": {
+    "id": "spyri-werk",
+    "title": "Heidi verdeckt eine Schriftstellerin",
+    "where": "HLS: Johanna Spyri, Absätze zu den Veröffentlichungen von 1871, 1877 und den Mädchenbüchern.",
+    "material": "Vor Heidi steht Ein Blatt auf Vrony’s Grab (1871). Nach Heidi erscheint Sina (1884). Das Werk umfasst auch Texte für Erwachsene und Mädchenromane.",
+    "action": "Öffne die drei Buchkarten. Schreibe eine zweisätzige Ankündigung einer Spyri-Ausstellung, in der Heidi erst im zweiten Satz vorkommt. Im ersten muss ein anderer belegter Werkbereich sichtbar werden.",
+    "question": "Welche Seite von Spyris Autorschaft verschwindet hinter der Bezeichnung «Heidi-Mutter»? Begründe deinen neuen Ausstellungseinstieg am Adressatenkreis von Vrony oder am Studienwunsch in Sina.",
+    "answer": "Eine Werkbiografie beginnt vor dem Welterfolg und umfasst unterschiedliche Adressaten. Die religiöse Erzählung für Erwachsene und der Mädchenroman über Lebensentscheidungen verhindern, dass Spyri allein als Lieferantin einer Kinderfigur erscheint. Die neue Ankündigung soll diese konkrete Verschiebung leisten; eine blosse Liste von Lebensdaten tut das nicht.",
+    "facets": [
+      {
+        "label": "Werkbreite",
+        "terms": [
+          "vrony",
+          "erwachsen",
+          "sina",
+          "maedchenroman",
+          "erbauung"
+        ],
+        "hint": "Welche der beiden anderen Buchkarten erweitert das Bild einer reinen Heidi-Autorin?",
+        "follow": "Benutze den Adressatenkreis oder Konflikt des gewählten Werks als Beleg."
+      },
+      {
+        "label": "Veränderte Zuschreibung",
+        "terms": [
+          "autorin",
+          "schriftstellerin",
+          "werk",
+          "heidi-mutter",
+          "reduktion",
+          "verengt"
+        ],
+        "hint": "Was lässt «Heidi-Mutter» über die schriftstellerische Tätigkeit unsichtbar werden?",
+        "follow": "Zeige am ersten Satz deiner Ankündigung, wie du diese Verkürzung aufbrichst."
+      }
+    ],
+    "evidence": [
+      [
+        "1871 · Vrony",
+        "Ein Blatt auf Vrony’s Grab: religiöse Erzählung für Erwachsene. Veröffentlichung vor den Heidi-Bänden."
+      ],
+      [
+        "1880 / 1881 · Heidi",
+        "Zwei Romane, deren internationaler Erfolg das Bild der Autorin besonders stark prägt."
+      ],
+      [
+        "1884 · Sina",
+        "Eine junge Frau erwägt Medizin, Erwerbsarbeit und Ehe. Der Konflikt trägt einen eigenen Mädchenroman."
+      ]
+    ],
+    "refs": [
+      "spyrihls",
+      "mikota"
+    ],
+    "room": "spyri"
+  },
+  "spyri-sina": {
+    "id": "spyri-sina",
+    "title": "Sina will Medizin studieren. Wer bestimmt ihr Ende?",
+    "where": "Jana Mikota, gedruckte S. 141–144; PDF-Seiten 147–150 in Heidiundmehr.",
+    "material": "Mikota verfolgt Sinas Weg vom abgelehnten Heiratsantrag über das Medizinstudium und die Arbeit als Lehrerin bis zur Ehe mit Clementi. Die Wegkarten paraphrasieren diese Analyse.",
+    "action": "Öffne die vier Stationen nacheinander. Halte nach Station 2 eine Vermutung über Sinas Zukunft fest. Vergleiche sie danach mit Station 4: Welche Bedingung für Clementis Zustimmung hat dein erster Entwurf noch nicht enthalten?",
+    "question": "Weshalb ist die Studentin als Hauptfigur ein bemerkenswerter Freiraum, während die Heirat mit Clementi diesen Freiraum zugleich begrenzt? Beziehe dich auf seine Haltung vor und nach ihrem Studienabbruch.",
+    "answer": "Spyri gibt dem Wunsch nach einem eigenständigen Arbeitsfeld erzählerisches Gewicht. Clementi lehnt Studentinnen jedoch ab und nähert sich Sina erst, nachdem sie das Studium aufgegeben hat und häusliche Fürsorge übernimmt. Der Schluss privilegiert die Ehe; die zuvor dargestellten Wünsche und Kränkungen bleiben dennoch lesbar. Eine ausschliesslich emanzipatorische oder ausschliesslich reaktionäre Zusammenfassung würde jeweils einen dieser Befunde ausblenden.",
+    "facets": [
+      {
+        "label": "Eigener Lebensentwurf",
+        "terms": [
+          "medizin",
+          "studium",
+          "studentin",
+          "arbeitsfeld",
+          "selbststaendig",
+          "beruf"
+        ],
+        "hint": "Was will Sina zunächst tun, das über die Erwartung einer Heirat hinausgeht?",
+        "follow": "Binde den Freiraum an ihren konkreten Studien- oder Arbeitswunsch."
+      },
+      {
+        "label": "Bedingte Anerkennung",
+        "terms": [
+          "clementi",
+          "aufgegeben",
+          "abbruch",
+          "haeuslich",
+          "ehe",
+          "heirat",
+          "bedingung"
+        ],
+        "hint": "Wann passt Sina nach Clementis eigener Aussage zu seiner Vorstellung einer Frau?",
+        "follow": "Vergleiche seine Ablehnung der Studentin mit seiner späteren Annäherung."
+      }
+    ],
+    "evidence": [
+      [
+        "1 · Den Antrag ablehnen",
+        "Sina lehnt Wilhelms Heiratsantrag ab; sie sucht ein grösseres Arbeitsfeld."
+      ],
+      [
+        "2 · Medizin wählen",
+        "Sie will beruflich Menschen helfen. Die Grossmutter fürchtet um Glauben und weibliche Bestimmung; Clementi spricht Frauen die gleiche Eignung zur Chirurgie ab."
+      ],
+      [
+        "3 · Das Studium abbrechen",
+        "Nach dem Tod der Grossmutter geht Sina als Lehrerin nach Breslau. Auch dieses Leben erfüllt sie nicht; nach sechs Jahren kehrt sie zurück."
+      ],
+      [
+        "4 · Clementis Bedingung",
+        "Erst ohne Studienplan und im Umgang mit Kindern entspricht Sina seinem Frauenbild. Sie stimmt seiner Werbung zu."
+      ]
+    ],
+    "refs": [
+      "mikota"
+    ],
+    "room": "spyri"
+  },
+  "spyri-martha": {
+    "id": "spyri-martha",
+    "title": "Marthas Schüchternheit: weibliche Natur oder Lebensgeschichte?",
+    "where": "Mikota, gedruckte S. 145, PDF-Seite 151: Absatz zu Martha Halm.",
+    "material": "Martha Halm ist Sinas Studienfreundin. Mikota liest ihre Unsicherheit im Zusammenhang mit einer Kindheit bei Pflegeeltern, wenig Zuwendung und geringem Selbstvertrauen.",
+    "action": "Öffne zuerst die biografische Erklärung. Formuliere danach probeweise denselben Befund mit «Frauen sind von Natur aus …». Streiche in deiner zweiten Fassung alles, was die konkrete Kindheitsgeschichte nicht belegt.",
+    "question": "Was geht verloren, wenn Marthas erlernte Unsicherheit als allgemeine weibliche Eigenschaft ausgegeben wird? Welche Veränderungsmöglichkeit eröffnet die biografische Erklärung?",
+    "answer": "Die Lebensgeschichte erklärt eine konkrete Person aus Erfahrungen; eine pauschale Naturbehauptung erklärt dagegen alle Frauen für ähnlich und macht das Verhalten unveränderlich. Aus der biografischen Lesart lässt sich fragen, wie Anerkennung und andere Erfahrungen Selbstvertrauen ermöglichen könnten. Das ist eine Folgerung, keine von Mikota nachgewiesene spätere Handlung Marthas.",
+    "facets": [
+      {
+        "label": "Erfahrungsbedingte Unsicherheit",
+        "terms": [
+          "pflegeeltern",
+          "kindheit",
+          "zuwendung",
+          "erfahrung",
+          "selbstvertrauen",
+          "liebe"
+        ],
+        "hint": "Welche Erfahrungen werden für Martha genannt, statt ihr Verhalten aus ihrem Geschlecht abzuleiten?",
+        "follow": "Stelle einen Zusammenhang zwischen dieser Erfahrung und ihrem Selbstvertrauen her."
+      },
+      {
+        "label": "Unzulässige Verallgemeinerung",
+        "terms": [
+          "natur",
+          "angeboren",
+          "alle frauen",
+          "verallgemeiner",
+          "veraender",
+          "erlernt"
+        ],
+        "hint": "Wo wird aus einer einzelnen Biografie eine Behauptung über sämtliche Frauen?",
+        "follow": "Erkläre, weshalb die beiden Erklärungen unterschiedliche Veränderungsmöglichkeiten offenlassen."
+      }
+    ],
+    "evidence": [
+      [
+        "Marthas Vorgeschichte",
+        "Pflegeeltern, wenig erfahrene Liebe, geringes Zutrauen zu sich selbst: Mikota verbindet diese Erfahrungen mit Schüchternheit und Aufopferung."
+      ],
+      [
+        "Der entscheidende Unterschied",
+        "Eine soziale Erklärung fragt nach Bedingungen des Verhaltens. Eine Naturzuschreibung erklärt dasselbe Verhalten aus einem unveränderlichen Geschlecht. Diesen Unterschied prüfst du an Martha."
+      ]
+    ],
+    "refs": [
+      "mikotamartha"
+    ],
+    "room": "spyri"
+  },
+  "spyri-rechte": {
+    "id": "spyri-rechte",
+    "title": "«Frauenrechtlerin avant la lettre» – welche Behauptung trägt?",
+    "where": "Mikotas Sina-Analyse und Nationalmuseum: Emilie Kempin-Spyri, Abschnitt über das verweigerte Anwaltspatent.",
+    "material": "Johanna Spyri schreibt über Studien- und Berufswünsche von Frauen. Ihre Nichte Emilie Kempin-Spyri kämpft als Juristin um Berufszugang. Literatur und juristisches Handeln sind unterschiedliche Belegarten.",
+    "action": "Stelle zwei Belege nebeneinander: Sinas Studienwunsch und Emilies Klage. Formuliere für Johanna eine These, die der erste Beleg trägt. Ergänze den widersprechenden Sina-Schluss, bevor du «Frauenrechtlerin avant la lettre» bewertest.",
+    "question": "In welchem literarischen Sinn lässt sich die Bezeichnung für Johanna Spyri vertreten, und welche politische Tätigkeit wäre damit noch nicht nachgewiesen? Warum darf Emilies Klage diese Beweislücke nicht schliessen?",
+    "answer": "Als zugespitzte Lesart kann die Bezeichnung die erzählten Ansprüche auf Bildung und ein selbstbestimmtes Leben hervorheben. Sinas Heiratsschluss begrenzt diese Lesart. Die hier geprüften Texte weisen damit noch keine organisierte frauenrechtspolitische Tätigkeit Johannas nach. Emilies Einsatz für ihren Berufszugang gehört zu einer anderen Biografie; Verwandtschaft macht ihre Handlungen nicht zu Johannas Handlungen.",
+    "facets": [
+      {
+        "label": "Literarischer Anspruch und Grenze",
+        "terms": [
+          "sina",
+          "studium",
+          "bildung",
+          "selbstbestimm",
+          "heirat",
+          "schluss"
+        ],
+        "hint": "Welche Möglichkeit eröffnet Sina – und welche Grenze setzt ihr Ende?",
+        "follow": "Verbinde Anspruch und Grenze in deiner These, statt nur das Etikett zu übernehmen."
+      },
+      {
+        "label": "Zwei Personen, zwei Belegarten",
+        "terms": [
+          "emilie",
+          "nichte",
+          "jurist",
+          "klage",
+          "politisch",
+          "organisation",
+          "biograf"
+        ],
+        "hint": "Wessen Handlung belegt die Klage um den Berufszugang?",
+        "follow": "Erkläre, weshalb eine Verwandtschaft kein Nachweis für Johannas politische Tätigkeit ist."
+      }
+    ],
+    "evidence": [
+      [
+        "Johanna · Literatur",
+        "Die Studentin Sina steht im Zentrum eines Romans von 1884. Ihr Studienwunsch erhält eine Stimme; die Handlung endet mit einer Ehe."
+      ],
+      [
+        "Emilie · Rechtlicher Berufszugang",
+        "Emilie Kempin-Spyri, Johannas Nichte, klagt gegen den Ausschluss vom Anwaltsberuf. Die Behörden verknüpfen den Zugang mit dem Frauen verweigerten aktiven Bürgerrecht."
+      ],
+      [
+        "Die These präzisieren",
+        "«Spyris Literatur macht weibliche Selbstbestimmung verhandelbar» und «Spyri organisierte eine politische Frauenrechtskampagne» verlangen unterschiedliche Nachweise."
+      ]
+    ],
+    "refs": [
+      "mikota",
+      "kempinmuseum"
+    ],
+    "room": "spyri"
+  },
+  "spyri-erzaehlen": {
+    "id": "spyri-erzaehlen",
+    "title": "Der Alm-Öhi: Dorfgerücht gegen erzählte Erinnerung",
+    "where": "Sonja Klimek, gedruckte S. 49–51, PDF-Seiten 55–57 in Heidiundmehr.",
+    "material": "Am Romananfang berichten Dete und Barbel abwertend über den Grossvater. Später zeigt die Erzählung seine Erinnerung an die Pflege eines verwundeten Hauptmanns in Sizilien.",
+    "action": "Lies beide Belegkarten. Schreibe zu jeder dazu, wer Auskunft gibt. Formuliere anschliessend den ersten Eindruck des Grossvaters neu, ohne Detes Gerücht als Erzählerwissen zu übernehmen.",
+    "question": "Wie korrigiert Spyri das anfängliche Bild des Grossvaters durch einen Wechsel der Informationsquelle? Warum ist das mehr als eine Geschichte über ein Kind, das einen mürrischen Alten aufheitert?",
+    "answer": "Figurenrede vermittelt zunächst ein belastendes Dorfbild. Die später erzählte Erinnerung macht seine Fürsorge aus einer anderen Perspektive zugänglich und stellt das Gerücht infrage. Damit besitzt der Erwachsene eine eigene Geschichte von sozialer Ausgrenzung und Wiederannäherung. Klimeks Lesart zeigt eine zusätzliche Adresse an erwachsene Leserinnen und Leser.",
+    "facets": [
+      {
+        "label": "Quelle der Information",
+        "terms": [
+          "dete",
+          "barbel",
+          "geruecht",
+          "figurenrede",
+          "dorfklatsch"
+        ],
+        "hint": "Wer erzählt am Anfang über ihn – und weiss diese Person alles?",
+        "follow": "Trenne das Urteil der Dorffiguren von verlässlichem Erzählerwissen."
+      },
+      {
+        "label": "Erinnerte Fürsorge",
+        "terms": [
+          "erinnerung",
+          "hauptmann",
+          "pflege",
+          "sizilien",
+          "fuer­sorge",
+          "erwachsen",
+          "fuersorge"
+        ],
+        "hint": "Welche frühere Handlung erscheint in seiner späteren Erinnerung?",
+        "follow": "Zeige, wie diese Handlung den ersten Eindruck korrigiert und ihm eine eigene Geschichte gibt."
+      }
+    ],
+    "evidence": [
+      [
+        "Die fremde Stimme · PDF 55–56",
+        "Dete und Barbel tauschen die belastende Vorgeschichte des Alm-Öhis aus. Klimek betont: Das ist Dorfklatsch innerhalb der Figurenrede."
+      ],
+      [
+        "Die erinnerte Tat · PDF 57",
+        "Bei Klaras Pflege denkt der Grossvater an den verwundeten Hauptmann, den er in Sizilien versorgt hatte. Nun wird seine eigene Erinnerung erzählt."
+      ]
+    ],
+    "refs": [
+      "klimek"
+    ],
+    "room": "spyri"
   }
 };
 

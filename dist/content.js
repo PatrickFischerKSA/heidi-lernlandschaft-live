@@ -251,6 +251,26 @@ const sources = {
   "citteriointerview": {
     "name": "Marcela Citterio im Interview: Pedro reist Heidi nach (Licensing Italia, 20.3.2018)",
     "url": "https://www.licensingitalia.it/heidi-bienvenida-a-casa-in-onda-ad-aprile-su-rai-gulp-la-prima-stagione-della-telenovela-argentina/"
+  },
+  "spyrihls": {
+    "name": "Verena Rutschmann: Johanna Spyri, HLS (2013)",
+    "url": "https://hls-dhs-dss.ch/de/articles/012304/2013-01-10/"
+  },
+  "mikota": {
+    "name": "Jana Mikota: Studierte Mädchen (2026), S. 141–144; PDF 147–150",
+    "url": "quellen/Heidiundmehr.pdf#page=147"
+  },
+  "mikotamartha": {
+    "name": "Mikota: Martha Halm, S. 145; PDF 151",
+    "url": "quellen/Heidiundmehr.pdf#page=151"
+  },
+  "kempinmuseum": {
+    "name": "Nationalmuseum: Emilie Kempin-Spyri und der Berufszugang",
+    "url": "https://blog.nationalmuseum.ch/2019/11/kempin-spyri/"
+  },
+  "spyriportrait": {
+    "name": "Nationalmuseum: Spyri-Porträt, Aufnahme 1860–1870",
+    "url": "https://blog.nationalmuseum.ch/2019/11/spyri-literaturstar/"
   }
 };
 const films = [

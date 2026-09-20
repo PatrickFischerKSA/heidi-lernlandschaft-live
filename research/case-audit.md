@@ -47,3 +47,8 @@ Materialbilder werden unmittelbar bei der Aufgabe angezeigt. Revisionierte Aufga
 Vier Einträge ohne verfügbares geprüftes Standbild (1953 BBC, 1954 BBC, 1959 BBC, 1998/99 Kurzfilm) werden als kompakte Archivzeilen unterhalb der Galerie angezeigt. Keine fremde Verfilmung und keine erfundene Szene als Ersatz. Alle 35 Einträge bleiben suchbar, vergleichbar und erreichbar. Die früheren Materialbilder der Einzelaufgaben bleiben unverändert.
 
 Browserprüfung: 31 Bildkarten, 4 Archivzeilen, 0 typografische Platzhalter. BBC-Suche liefert 1 bebilderten und 3 Archivtreffer. Archivdialog, neuer Playerhintergrund und Bildnachweis geprüft. Desktop und 390px-Mobilansicht visuell kontrolliert.
+
+
+## Wiederhergestellter Autorenraum · 20. September 2026
+Fünf neue Einzeluntersuchungen: Werk/Adressaten, Sinas Studium und Schluss, Martha Halms Sozialisation, literarische Frauenrechtslesart versus Emilie Kempin-Spyris Rechtskampf, Erzählperspektive beim Alm-Öhi. Grundlage: Mikota, gedruckte S. 141–145 / PDF 147–151; Klimek, gedruckte S. 49–51 / PDF 55–57, aus dem bereitgestellten Heidiundmehr-PDF; HLS (Rutschmann 2013); Nationalmuseum zu Kempin-Spyri. Quellenparaphrasen explizit gekennzeichnet. Historisches Porträt vom Nationalmuseum visuell geprüft und verlinkt.
+Browserprüfung am lokalen Server: alle fünf Untersuchungen geöffnet; Sina-Antwort mit beiden individuellen Rückmeldungsaspekten erkannt, Martha ohne fremden Entwurf, Rückwechsel zu Sina mit erhaltenem Entwurf. Sichtprüfung der Quellenkarten und des Porträts. Keine Multiple-Choice-Fragen.

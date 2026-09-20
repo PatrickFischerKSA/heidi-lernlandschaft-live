@@ -31,7 +31,7 @@ Prüfungen: `node research/feedback.test.cjs` und `node research/filmography.tes
 
 ## Individuelle Aufgabenredaktion · 20. September 2026
 
-`dist/cases.js` enthält 51 einzeln formulierte Materialuntersuchungen: 32 Filmfälle, acht Bildaufgaben, neun konkrete Vergleichspaare, ein Montageversuch und eine Quellenuntersuchung zu Walther. Jeder Fall benennt Materialort, Vorgehen, Frage, Einordnung und zwei eigene Rückmeldungsaspekte. Filmausschnitt, Quellenparaphrase und eigener Entwurf werden unterschieden.
+`dist/cases.js` enthält 56 einzeln formulierte Materialuntersuchungen: 32 Filmfälle, acht Bildaufgaben, neun konkrete Vergleichspaare, ein Montageversuch und eine Quellenuntersuchung zu Walther sowie fünf Quellenuntersuchungen zu Johanna Spyri. Der Bereich `#spyri` ist über Hauptnavigation und Startseite erreichbar. Jeder Fall benennt Materialort, Vorgehen, Frage, Einordnung und zwei eigene Rückmeldungsaspekte. Filmausschnitt, Quellenparaphrase und eigener Entwurf werden unterschieden.
 
 Für beliebige Filmpaare werden keine Aufgaben erzeugt. Alte freie Notizen bleiben erhalten; Antworten auf neue Fragen werden getrennt gespeichert. Das Arbeitsheft und die herunterladbare Filmografie enthalten dieselben redigierten Aufgaben.
 
