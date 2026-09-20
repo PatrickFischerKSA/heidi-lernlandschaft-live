@@ -31,8 +31,10 @@ Prüfungen: `node research/feedback.test.cjs` und `node research/filmography.tes
 
 ## Individuelle Aufgabenredaktion · 20. September 2026
 
-`dist/cases.js` enthält 54 einzeln formulierte Materialuntersuchungen: 35 Filmfälle, acht Bildaufgaben, neun konkrete Vergleichspaare, ein Montageversuch und eine Quellenuntersuchung zu Walther. Jeder Fall benennt Materialort, Vorgehen, Frage, Einordnung und zwei eigene Rückmeldungsaspekte. Filmausschnitt, Quellenparaphrase und eigener Entwurf werden unterschieden.
+`dist/cases.js` enthält 51 einzeln formulierte Materialuntersuchungen: 32 Filmfälle, acht Bildaufgaben, neun konkrete Vergleichspaare, ein Montageversuch und eine Quellenuntersuchung zu Walther. Jeder Fall benennt Materialort, Vorgehen, Frage, Einordnung und zwei eigene Rückmeldungsaspekte. Filmausschnitt, Quellenparaphrase und eigener Entwurf werden unterschieden.
 
 Für beliebige Filmpaare werden keine Aufgaben erzeugt. Alte freie Notizen bleiben erhalten; Antworten auf neue Fragen werden getrennt gespeichert. Das Arbeitsheft und die herunterladbare Filmografie enthalten dieselben redigierten Aufgaben.
 
 Die lokale Rückmeldung erkennt aufgabenspezifische Synonyme und begrenzte Tippvarianten. Sie zeigt die Fundstelle im Antworttext, behandelt Verneinungen nicht als Zustimmung und vergibt keine automatische Richtigkeitsbewertung. Prüfung: `node research/cases.test.cjs`. Materialprüfung: `research/case-audit.md`. Für den Browser-Test der Video-Zeitmarken muss der lokale Server HTTP-Byte-Ranges unterstützen; GitHub Pages tut dies.
+
+Nachredaktion: 18 Aufgaben inhaltlich neu ausgearbeitet. Drei schwache Ersatzübungen (BBC 1953, BBC 1974, Kurzfilm 1998/99) entfernt; diese Produktionen bleiben mit ihren Quellen und vorhandenen Videozugängen im Archiv. Materialbilder werden unmittelbar bei ihrer Frage gezeigt. Revidierte Fragen erhalten neue Entwurfsschlüssel, ohne alte Notizen zu löschen. Exporte: `node research/build-case-exports.cjs`.

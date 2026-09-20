@@ -117,10 +117,7 @@
       "mode": "Frühes serielles Kinderfernsehen",
       "tag": "Erweitertes Archiv",
       "facts": "Die BBC produzierte bereits 1953 eine Heidi-Fassung mit Julia Lockwood. Sie gehört in die Fernsehgeschichte vor dem Anime und vor der Schweizer Serie.",
-      "analysis": "1953 liegt vor 1974 und belegt eine frühere Fernsehbearbeitung. Die Besetzungsangabe identifiziert sie; sie beschreibt keine Einstellung. Um Tempo oder Bildgestaltung zu beurteilen, wäre eine Kopie beziehungsweise ein entsprechendes Produktionsdokument nötig.",
       "context": "Die Literaturbearbeitung macht einen bekannten Kinderbuchstoff im damals jungen Fernsehmedium verfügbar. Der Unterschied zwischen Studioaufnahme, Filmeinspielung und heute erhaltener Kopie ist bei frühen Fernsehproduktionen mitzuprüfen.",
-      "question": "Welche historische Behauptung widerlegt der Eintrag von 1953 – und warum verrät er trotzdem noch nichts über Kameranähe oder Erzähltempo?",
-      "scene": "Archivnachweis zur BBC-Produktion von 1953 · kein verifizierter Clip vorhanden. Korrigiere den Katalogsatz: «Heidi kam erst 1974 vom Kino ins Fernsehen.» Behalte nur Angaben bei, die der Nachweis von 1953 tatsächlich trägt.",
       "compare": [
         "Romanstoff in Fortsetzungen",
         "Episodenstruktur als Prüfauftrag",
@@ -135,6 +132,7 @@
         "url": "https://www.imdb.com/title/tt0424138/",
         "type": "Nachweis"
       },
+      "taskStatus": "Archivzugang ohne redigierte Aufgabe",
       "clipGap": "Kein überprüfbarer öffentlicher Filmclip zur BBC-Produktion mit Julia Lockwood gefunden. Treffer zum Schweizer Film von 1952 sind kein Ersatz. Der Erhaltungszustand ist hier nicht abschliessend geklärt."
     },
     {
@@ -147,10 +145,10 @@
       "mode": "Eine Figur darf weiterleben",
       "tag": "Erweitertes Archiv",
       "facts": "Diese BBC-Fortsetzung ist als eigenständige Produktion von 1954 dokumentiert. Angaben zu Umfang und Regiezuschreibung sind in Filmografien nicht einheitlich; sie werden hier nicht als gesicherte Episodenzahl übernommen.",
-      "analysis": "«Wächst heran» kündigt einen längerfristigen Entwicklungsprozess an. Eine neue Altersstufe könnte neue Entscheidungen verlangen. Der Titel belegt dieses Versprechen, aber weder einen bestimmten Konflikt noch die Zahl oder das Ende der Episoden. Ein eigener Fortsetzungsentwurf bleibt davon getrennt.",
+      "analysis": "Die spätere Rückkehr soll Wissen und eine Tätigkeit ins Dorf bringen. Damit kann die Ausbildung ausserhalb der Heimat zu deren Zukunft beitragen, statt nur eine belastende Unterbrechung zu sein. Die Analyse betrifft die dokumentierte Romanvorlage. Wie die BBC diese Spannung inszeniert, ist daraus nicht abzulesen.",
       "context": "Die Fortsetzung gehört zur frühen seriellen Verwertung des Heidi-Stoffs. Sie ist vom Schweizer Kinofilm Heidi und Peter (1955) zu unterscheiden.",
-      "question": "Wodurch verschiebt das angekündigte Heranwachsen den Zeithorizont gegenüber einer blossen Wiederholung von Heidis Rückkehr?",
-      "scene": "BBC-Fortsetzung von 1954 · Titel- und Produktionsnachweis; kein verifizierter Clip. Übertrage «Grows Up» ins Deutsche. Stelle dem Titel eine Frage gegenüber, die nach Heidis Rückkehr auf die Alp noch offen sein könnte. Kennzeichne deinen Handlungsvorschlag als Entwurf.",
+      "question": "Warum wird der Aufenthalt ausserhalb der Alpen hier nicht einfach als Irrweg zurückgenommen? Welche neue Verbindung zwischen Bildung, Selbstständigkeit und Heimat legt Heidis Berufswunsch an?",
+      "scene": "Charles Trittens Fortsetzungsroman: bibliografische Inhaltsbeschreibung der Open Library; BBC-Credits nennen Tritten als Vorlage und Joy Harington als Bearbeiterin. Zeichne den Weg Alp → Internat → Dorf. Schreibe unter den letzten Ort zwei unterschiedliche Verben: «zurückkehren» und «unterrichten». Beschreibe, welche Voraussetzung das Internat für das zweite Verb schaffen kann.",
       "compare": [
         "Weitererzählen nach dem Roman",
         "Wachstum statt nur Heimkehr",
@@ -219,10 +217,10 @@
       "mode": "Das Fernsehmusical",
       "tag": "Erweitertes Archiv",
       "facts": "Das Paley Center belegt die Sendung am 1. Oktober 1955, mit Jeannie Carson, Wally Cox und Natalie Wood. Musik, Tanz und Marionetten gehören zu den dokumentierten Gestaltungsmitteln. Eine Schwarzweisskopie überliefert die Farbsendung.",
-      "analysis": "Sendung und erhaltene Kopie sind verschiedene Überlieferungsstufen. Farbe kann im heute zugänglichen Material fehlen, obwohl die Erstausstrahlung farbig war. Der musikalische Vortrag bleibt im Ausschnitt untersuchbar; die Farbdramaturgie der ursprünglichen Sendung ist damit nicht rekonstruiert.",
+      "analysis": "Ein regelmässiger gemeinsamer Takt kann Einordnung körperlich erfahrbar und zugleich unterhaltsam machen. Eine eigensinnige Abweichung könnte den Konflikt hörbar halten. Ob daraus Zustimmung oder Spott entsteht, hängt etwa von Betonung und Übertreibung ab. Die Liedtitel eröffnen diesen begrenzten Versuch; sie belegen nicht, wer die Nummer singt oder wie sie tatsächlich gespielt wurde.",
       "context": "Die Produktion verbindet Literaturadaption und US-Fernsehspektakel der 1950er-Jahre. Die Archivkopie zeigt auch, warum die Farbe einer heutigen Kopie nicht automatisch die Farbe der Erstausstrahlung belegt.",
-      "question": "Warum darf deine Beschreibung des heute sichtbaren Schwarzweissbilds nicht als Aussage über die Erstausstrahlung formuliert werden?",
-      "scene": "Paley-Katalogbefund und die eingebettete VAI-Vertriebsvorschau von 1:45. Schalte den Ausschnitt kurz stumm und wieder laut. Notiere, was du am musikalischen Vortrag prüfen kannst. Ergänze daneben die Katalogangabe zur ursprünglichen Sendefarbe.",
+      "question": "Was könnte eine Musicaladaption mit dem Konflikt zwischen Heidis Eigenwillen und gesellschaftlicher Einordnung tun, wenn die Regeln selbst zur eingängigen Nummer werden? Wann würde der musikalische Spass die Disziplinierung verdecken, wann sie entlarven?",
+      "scene": "Dokumentierte Liedtitel des NBC-Musicals: I Got My Way und The Etiquette Song; TheTVDB-Sendungsverzeichnis. Sprich «Ich habe meinen Willen bekommen» zunächst frei, dann im gleichen, streng wiederholten Takt wie drei von dir formulierte Tischregeln für den Sesemann-Haushalt. Notiere, welche Version Eigenwillen hörbar lässt. Dies ist ein eigenes Inszenierungsexperiment, keine Rekonstruktion der Nummern.",
       "compare": [
         "Beziehungskonflikte als Musical",
         "Handlung und Nummernfolge",
@@ -259,10 +257,10 @@
       "mode": "Neue Abenteuer und religiöse Bewährung",
       "tag": "Erweitertes Archiv",
       "facts": "Die Fortführung der Heidi-Figur verbindet Abenteuer in den Alpen mit einer moralisch-religiösen Ausrichtung. Sie erzählt zusätzliche Erlebnisse statt lediglich die Frankfurt-Handlung erneut abzubilden.",
-      "analysis": "«Geschenk» benennt noch weder einen Geber noch eine religiöse Bedeutung oder einen Ausgang. Die religiöse Katalogeinordnung kann eine weitere Untersuchung motivieren. Sie ersetzt den Beleg im gesehenen Abschnitt nicht; ein religiös unmarkierter Anfang widerlegt umgekehrt nicht die Einordnung des ganzen Films.",
+      "analysis": "Beim Wettbewerb setzt Heidi ihren Plan über Peters geäusserten Willen. Bei der Rettung steht die Abwendung einer akuten Gefahr im Vordergrund. Auch dort leisten die Kinder nicht alles selbst: Institutionelle Hilfe erweitert ihre Handlungsmöglichkeiten. Die Unterscheidung verhindert, dass gute Absicht automatisch jede Form des Eingreifens rechtfertigt.",
       "context": "Der Familienfilm der Nachkriegszeit verknüpft einen international bekannten Stoff mit Vorstellungen von Fürsorge und Glauben. Diese Perspektive lässt sich mit den religiösen Anteilen von Spyris Roman vergleichen.",
-      "question": "Weshalb wäre es unzulässig, aus dem übersetzten Wort «Geschenk» allein auf eine religiöse Rettung am Ende zu schliessen?",
-      "scene": "Eingebetteter Anfang der spanisch synchronisierten Fassung von A Gift for Heidi. Prüfe zunächst Titel und Besetzung des Uploads. Halte dann fest, ob der sichtbare Anfang bereits einen ausdrücklich religiösen Hinweis enthält. Wenn nicht, notiere genau diese Begrenzung.",
+      "question": "Wieso kann «Heidi hilft» die Rettung plausibel beschreiben, Peters Anmeldung aber zugleich beschönigen? Wie verändert die eingeschaltete Armee den Massstab kindlicher Handlungsmacht?",
+      "scene": "Handlungsreferate zu A Gift for Heidi bei Rotten Tomatoes und IMDb, nicht der kurze eingebettete Filmanfang. Stelle die beiden Hilfsaktionen gegenüber: Peter soll auftreten; das Paar soll aus einer Gefahr gerettet werden. Notiere jeweils, wessen Ziel verfolgt wird und wer in die Entscheidung einwilligen kann.",
       "compare": [
         "Moralische Bewährung",
         "Zusätzliche Abenteuer",
@@ -299,10 +297,10 @@
       "mode": "Kulturelle Übertragung",
       "tag": "Erweitertes Archiv",
       "facts": "Die indische Heidi-Bearbeitung von 1958 setzt Baby Naaz als Poornima ein. Das National Film Archive of India führt Do Phool mit Regisseur A. R. Kardar in seiner Liste digitalisierter und restaurierter Filme.",
-      "analysis": "Eigennamen und Schauplatzzeichen können ersetzt werden, während Handlungsmuster wie Fremdbestimmung, Fürsorge oder ein Wechsel zwischen ungleichen Haushalten erhalten bleiben. Das Diagramm ist eine begründete Suchstruktur, keine vollständige Inhaltsbeschreibung von Do Phool. Der Restaurierungsnachweis allein belegt keine dieser Beziehungen.",
+      "analysis": "Eine scheinbar spontane Figur kann Ergebnis professioneller Darstellungsarbeit sein. Die Wirkung auf der Leinwand und die Tätigkeit vor der Kamera gehören auf verschiedene Ebenen. Lawrence fordert, diese Arbeit in die Analyse des Hindi-Kinos einzubeziehen. Das Abstract belegt weder einen bestimmten Probenablauf noch Baby Naaz’ persönliche Arbeitsbedingungen.",
       "context": "Die Adaption gehört zur internationalen Aneignung europäischer Kinderliteratur im Hindi-Kino. Die Forschung behandelt sie ausdrücklich unter der Frage nach arbeitenden Kindern; die Schweizer Alpen sind kein notwendiges Kriterium einer Heidi-Adaption.",
-      "question": "Warum ist Poornimas anderer Name ein schwächeres Kriterium für oder gegen eine Heidi-Adaption als ihre Abhängigkeit von Erwachsenen und die Funktion ihres Ortswechsels?",
-      "scene": "Restaurierungsnachweis des indischen Filmarchivs und Angaben zur Adaption Do Phool (1958). Entwirf ein Beziehungsdiagramm, das ohne die Wörter «Alp», «Schweiz» und «Heidi» auskommt: Kind, betreuende Erwachsene, wohlhabender Haushalt. Markiere, welche Verbindung du anhand einer Inhaltsquelle noch prüfen müsstest.",
+      "question": "Wie kann Baby Naaz durch erlerntes Spiel den Eindruck von Poornimas ungekünstelter Kindlichkeit erzeugen? Welche Ebene blendet die Aussage «Das Kind ist einfach natürlich» aus?",
+      "scene": "Michael Lawrence: Hindianizing Heidi, öffentliches Abstract, letzter Satz über die Arbeit der Kinderdarsteller. Lege zwei Spalten an: Poornima als erzählte Figur und Baby Naaz als Darstellerin. Ordne «eine Rolle einüben», «im Bild spontan wirken» und «als unschuldiges Kind erscheinen» zu; begründe eine mögliche Doppelzuordnung.",
       "compare": [
         "Fürsorge und soziale Abhängigkeit",
         "Kulturelle Transformation",
@@ -342,10 +340,10 @@
       "mode": "Sechs Fernsehkapitel",
       "tag": "Erweitertes Archiv",
       "facts": "Der BBC Programme Index belegt den Beginn am 19. Mai 1959 und sechs Teile. Sara O’Connor spielt Heidi, Mark Dignam den Grossvater. Damit handelt es sich um eine andere Besetzung als 1953.",
-      "analysis": "Ein bestehender Film kann später erneut gesendet werden; ein anderes Datum ist deshalb kein hinreichender Nachweis einer Neuproduktion. Die unterschiedliche Besetzung derselben Rolle unterscheidet hier die Fassungen. Der Programmeintrag liefert zusätzlich den Start und die Gliederung in sechs Teile.",
+      "analysis": "Die Titelabfolge lässt die Heimkehr vor dem ausdrücklich angekündigten Abschluss stattfinden. Damit wird Rückkehr nicht automatisch mit der Auflösung aller Beziehungen gleichgesetzt. «Another Grandmother» setzt eine neue Bezugsperson zwischen Trennung und Heimkehr. Welche Konflikte sie tatsächlich löst, bleibt ohne Inhaltsnachweis offen; die Titel lenken zunächst die Erwartung.",
       "context": "Die erneute Bearbeitung im selben Jahrzehnt zeigt, dass nicht jede wiederkehrende Heidi-Sendung eine Wiederholung derselben Produktion ist. Besetzung, Herstellungsangabe und Sendedatum müssen zusammen geprüft werden.",
-      "question": "Weshalb ist der Wechsel von Julia Lockwood zu Sara O’Connor aussagekräftiger als der Abstand von sechs Jahren?",
-      "scene": "BBC Programme Index · Up the Mountain, 19. Mai 1959; Vergleich mit dem Eintrag 1953. Unterstreiche den Unterschied, der die Erklärung «blosse Wiederholung von 1953» ausschliesst. Schreibe eine korrigierte Katalognotiz mit Besetzung und Sendestart.",
+      "question": "Was verspricht die zusätzliche Folge nach «Home Again» über den Unterschied zwischen räumlicher Heimkehr und erzählerischem Abschluss? Wie könnte die dazwischengeschaltete Grossmutter dieses Rückkehrmuster verändern?",
+      "scene": "Episodenverzeichnis der BBC-Fassung von 1959: Titel der sechs wöchentlichen Teile. Übertrage die sechs Titel auf eine Linie. Verbinde «Away from Grandfather» mit «Home Again». Kreise danach «Another Grandmother» ein: Hier benennt ein Titel eine neue Beziehung statt eines Ortes.",
       "compare": [
         "Beziehungen über Episoden",
         "Sechsteilige Adaption",
@@ -372,10 +370,10 @@
       "mode": "Der vertraute Stoff im Farbfilm",
       "tag": "Vergleichsfenster",
       "facts": "Die österreichische Sascha-Film-Produktion besetzt Heidi mit Eva Maria Singhammer, den Grossvater mit Gustav Knuth und Klara mit Michaela May. Das DFF verzeichnet den deutschen Kinostart am 29. Oktober 1965 und eine Laufzeit von 98 Minuten.",
-      "analysis": "Ein Name weist eine Besetzung nach, keine Wirkung einer bestimmten Szene. Autorität könnte sich in einem befolgten Befehl, Kontrolle über einen Raum oder einer Entscheidung über Heidi zeigen; Sympathie müsste nochmals anders begründet werden. Wenn das Auftreten im Dreiminutenausschnitt fehlt, ist die Behauptung dort nicht prüfbar.",
+      "analysis": "Das Bild bündelt körperliche Nähe in einer einzigen Geste. Die Arme um den Grossvater und der Kuss können seine zurückgenommene Haltung als angenommene Zuwendung lesbar machen. Der beschriebene Weg von anfänglicher Verschlossenheit zu diesem Vertrauen fehlt im Einzelbild. Ein Werbemotiv kann den erreichten Zustand vorwegnehmen, bevor das Publikum den Übergang kennt.",
       "context": "Die Produktion gehört zum deutschsprachigen Unterhaltungskino der 1960er-Jahre. Das Erscheinungsjahr allein beweist jedoch weder eine konservative Aussage noch einen bewussten Gegenentwurf zum gesellschaftlichen Wandel. Filmform und konkrete Figurenzeichnung bleiben die Belege.",
-      "question": "Welche konkrete Beobachtung könnte die behauptete Autorität begründen, die Besetzung und Erscheinungsjahr allein aber nicht liefern?",
-      "scene": "DFF-Filmangaben: Sascha-Film, 1965; Gustav Knuth, Eva Maria Singhammer, Michaela May. Korrigiere diese Behauptung: «Weil ein bekannter erwachsener Schauspieler den Grossvater spielt, ist er von Beginn an die sympathische Autorität.» Benenne den fehlenden Beleg am ersten Auftreten.",
+      "question": "Wie macht dieses Werbebild aus einer zeitlichen Entwicklung bereits einen sichtbaren Beziehungszustand? Was muss eine Filmhandlung noch erzählen, das der Kuss als Bild schon voraussetzt?",
+      "scene": "DFF-Bild zu Heidi (1965), unten eingeblendet; dazu die DFF-Inhaltsangabe über den anfangs griesgrämigen Grossvater. Decke zunächst Heidis Gesicht und Arme im Bild ab. Beschreibe den verbleibenden Grossvater. Decke sie wieder auf und prüfe, welche deiner Beschreibungen sich allein durch den Körperkontakt verändert.",
       "refs": [
         "fp65"
       ],
@@ -409,10 +407,10 @@
       "mode": "Literatur als Fernsehereignis",
       "tag": "Vergleichsfenster",
       "facts": "Die NBC-Fernsehfassung besetzt Heidi mit Jennifer Edwards und den Grossvater mit Michael Redgrave. Jean Simmons spielt Rottenmeier, Maximilian Schell Herrn Sesemann. Die Musik stammt von John Williams.",
-      "analysis": "Das Ensemble eröffnet mehrere Beziehungen, die inszeniert werden können. Weder Schauspielernamen noch Ausstrahlungsmedium bestimmen Einstellungsgrössen. Erst der Trailer beziehungsweise eine Szene zeigt, ob Nähe über Gesichter, Stimmen, Musik oder räumliche Anordnung entsteht; ein Trailer belegt dabei nur seine eigene Auswahl.",
+      "analysis": "Die Berge ordnen Heidi einer wiedererkennbaren Landschaft zu. Frontalität, Ganzfigur und zentrale Stellung präsentieren sie dem Publikum. Anders als etwa ein Bild des Melkens braucht dieses Motiv kein konkretes Tun, um Zugehörigkeit anzubieten. Es entwirft eine Begegnung mit der Hauptfigur; eine konkrete Handlung oder ein Blickwechsel innerhalb der Szene ist daraus nicht abzuleiten.",
       "context": "Literaturverfilmungen konnten im amerikanischen Fernsehen als besonderes Familienprogramm auftreten. Ein Film bleibt dabei zeitlich komprimiert; er ermöglicht nicht dasselbe lange Zusammenleben mit Figuren wie eine Jahresserie.",
-      "question": "Warum wäre die Folgerung «Fernsehen bedeutet automatisch Nahaufnahmen und Dialognähe» trotz dieser bekannten Darstellenden unbegründet?",
-      "scene": "Besetzungsangaben zur NBC-Fassung von Delbert Mann; Trailer als ergänzender Zugang. Zeichne die Verbindung Heidi–Grossvater und die Verbindung Rottenmeier–Sesemann. Ordne der ersten Zugehörigkeit, der zweiten die Zuständigkeit im Frankfurter Haushalt als Untersuchungsfrage zu.",
+      "question": "Wie wird Heidi hier zur Repräsentantin einer Alpenwelt, obwohl das Bild keine Tätigkeit in dieser Welt zeigt? Welche Beziehung verspricht die frontale Präsentation dem Publikum statt einer Beziehung innerhalb der Handlung?",
+      "scene": "Veröffentlichtes NBC/Getty-Motiv mit Jennifer Edwards, unten eingeblendet; Untersuchung dieses Bildes, nicht einer Filmszene. Betrachte zuerst nur die Figur, dann das ganze Bild. Vergleiche den Blick zum betrachtenden Publikum mit der fehlenden Blickbeziehung zu einer zweiten Figur im dargestellten Raum.",
       "refs": [
         "lib68"
       ],
@@ -481,10 +479,7 @@
       "mode": "Zeitgleich mit dem Anime",
       "tag": "Erweitertes Archiv",
       "facts": "Neben Takahatas Anime entstand 1974 eine britische Realserie mit Emma Blake und Hans Meyer. June Wyndham-Davies inszenierte die sechsteilige Produktion.",
-      "analysis": "Die Sprache einer Fassung bestimmt nicht deren Produktionsidentität. Realaufnahme, Emma Blake und BBC bezeichnen die gesuchte Serie präziser. Ein englisch synchronisierter gezeichneter Film bleibt die Anime-Produktion und wird nicht nachträglich zur BBC-Neuverfilmung.",
       "context": "1974 bezeichnet zwei eigenständige Heidi-Produktionen. Die Jahreszahl allein identifiziert die Fassung nicht. Der Vergleich zeigt unterschiedliche Wege seriellen Kinderfernsehens innerhalb derselben Epoche.",
-      "question": "Welche falsche Zuschreibung entsteht, wenn ein englisch synchronisierter Anime allein wegen der Sprache als BBC-Realserie eingeordnet wird?",
-      "scene": "Produktionsdaten: BBC-Realserie und Alps no Shōjo Heidi. Formuliere eine Archivsuche, die gezielt die Emma-Blake-Fassung findet. Verwende drei unterscheidende Angaben statt nur «Heidi 1974».",
       "compare": [
         "Romanbeziehungen",
         "Sechsteilige Realserie",
@@ -499,6 +494,7 @@
         "url": "https://www.imdb.com/title/tt0228374/fullcredits/",
         "type": "Nachweis"
       },
+      "taskStatus": "Archivzugang ohne redigierte Aufgabe",
       "clip": {
         "provider": "youtube",
         "id": "Znn5ZTLSUik",
@@ -559,10 +555,10 @@
       "mode": "Modernisierung und Musical",
       "tag": "Erweitertes Archiv",
       "facts": "Diese amerikanische Fernsehfassung aktualisiert den Stoff und verlegt einen Teil der Handlung nach New York. Sie ist nicht die deutschsprachige Realserie desselben Jahres. Der Regisseur dokumentiert die Produktion in seinem eigenen Rückblick.",
-      "analysis": "Die Ortsangabe belegt eine Verlegung, nicht die Gleichheit aller sozialen Beziehungen. Um eine vollständige Funktionsübernahme zu behaupten, müssten Haushalt, Heidis Abhängigkeit und Rückkehrmotiv verglichen werden. Elf Werbesekunden bilden diese Handlungskette nicht ab.",
+      "analysis": "Versetzter Gesang lässt gemeinsame Anwesenheit und fehlende Übereinstimmung gleichzeitig hörbar werden. Das gemeinsame Schlusswort schafft einen begrenzten Moment der Verbindung. Die Deutung ist in Senenskys rückblickendem Bericht verankert; sie beweist nicht, dass jedes Publikum sie bemerkt.",
       "context": "Der Produktionsbericht erlaubt es, zwischen späterer Erinnerung eines Beteiligten und am Film sichtbarer Gestaltung zu unterscheiden. Die Modernisierung zeigt eine andere Aktualisierungsstrategie als Imbodens Fassung von 2001.",
-      "question": "Weshalb ist «New York übernimmt die Funktion Frankfurts vollständig» stärker als der belegte Befund, dass ein Teil der Handlung dort spielt?",
-      "scene": "NBC-Promoclip von 0:11 und Produktionsbefund zu The New Adventures of Heidi. Schreibe einen Katalogsatz zur Ortsverlegung und einen getrennten Satz dazu, was du im elfsekündigen Werbeclip tatsächlich feststellen kannst.",
+      "question": "Warum kann der zunächst erwogene technische «Fehler» hier dramaturgisch nützlicher sein als perfekter Gleichklang? Was verändert das gemeinsame Schlusswort an der Beziehung?",
+      "scene": "Ralph Senenskys Regiebericht, Abschnitt unmittelbar nach dem fünften eingebetteten Clip: getrennt aufgenommene Gesangspartien und «Amen». Klopfe zwei leicht versetzte Rhythmen und führe sie erst bei einem gemeinsamen Schlusswort zusammen. Übertrage den Unterschied auf Heidis Verhältnis zum Grossvater in der beschriebenen Nummer.",
       "compare": [
         "Neue Stadt und vertraute Bindung",
         "Modernisierung",
@@ -599,10 +595,10 @@
       "mode": "Heidi als Zeichentrickmusical",
       "tag": "Erweitertes Archiv",
       "facts": "Der AFI-Katalog dokumentiert Hanna-Barberas Kinomusical, veröffentlicht 1982. Im fertigen Film erscheinen sechzehn Lieder; die lange Produktionsgeschichte reicht bis in die 1970er-Jahre zurück.",
-      "analysis": "Ereignisfortschritt und Zugang zu einer Figur sind verschiedene Ebenen. Ein Lied kann eine bestehende Lage verlängern und gleichzeitig einen Wunsch, ein Gefühl oder eine Zugehörigkeit ausformen. Die Zahl sechzehn belegt den Umfang musikalischer Passagen, aber noch nicht die Funktion jedes einzelnen Lieds.",
+      "analysis": "Tiere transportieren Wissen und ermöglichen die Flucht; sie sind Handlungsträger statt Landschaftsschmuck. Der Keller macht Heidis Lage zu einer äusseren Gefangenschaft. Klara schliesst sich aus eigenem Entschluss an: Die Befreiung führt zur gemeinsamen Bewegung der Kinder. Ohne Hooties Nachricht fehlt in dieser Kette die Verbindung zwischen Stadt und Bergen.",
       "context": "Hanna-Barbera bringt Erfahrungen der Fernsehproduktion in einen abendfüllenden Kinofilm ein. Die Produktionsdauer war länger als zunächst angekündigt; die Veröffentlichung von 1982 ist deshalb nicht mit dem Projektbeginn gleichzusetzen.",
-      "question": "Warum kann ein Lied die Handlung zeitlich anhalten und dennoch die Beziehung zu einer Figur weiterentwickeln?",
-      "scene": "AFI-Angabe zu Heidi’s Song und der eingebettete offizielle Filmausschnitt. Höre den Ausschnitt einmal mit Bild und einmal ohne Bild. Notiere eine Information oder Stimmung, die der Gesang trägt; halte daneben fest, ob diese beim stummen Sehen verständlich bleibt.",
+      "question": "Wie verwandelt diese Tier-Helferkette Heidis Rückkehr in eine Befreiungsaktion? Was trägt Klaras Entscheidung zur Abreise bei, das ein blosses Gerettetwerden nicht leisten würde?",
+      "scene": "AFI-Synopse zu Heidi’s Song: Absatz nach der Entdeckung der Kätzchen, Keller und Befreiung. Zeichne die Hilfskette Keller → Eule → Peter und Ziegen → Fenster → gemeinsame Abreise. Streiche probeweise die Eule: An welcher Stelle bricht die Kette, obwohl Peter helfen könnte?",
       "compare": [
         "Emotionalisierung durch Musik",
         "Nummern und Handlung",
@@ -639,10 +635,10 @@
       "mode": "Liebe und Vergebung als Lernziel",
       "tag": "Erweitertes Archiv",
       "facts": "Der Vertrieb Vision Video beschreibt den Film als christliche Erzählung mit Heidi, Peter, Hans und einem Holzschnitzer. Datierung und Laufzeit unterscheiden sich zwischen Angeboten; Apple nennt 1987 und 39 Minuten, der Vertrieb 45 Minuten.",
-      "analysis": "Die Differenz allein verrät weder den Inhalt noch die Ursache. Unterschiedliche Schnitte, Messweisen oder Katalogfehler wären erst zu prüfen. Eine Aussage über entfernte religiöse Szenen bräuchte einen Vergleich der Kopien oder einen entsprechenden Schnittnachweis.",
+      "analysis": "Die Nachbarschaft verbindet die Alpenhandlung mit Beispielen für Feindesliebe und Verzicht auf Gewalt. Dadurch wird eine Lösung als moralische Veränderung erwartbar. Das ist eine untersuchbare Entscheidung des Vertriebs und noch kein Beleg für jede einzelne Szene. Derselbe Film könnte in einem anderen Programm anders angekündigt werden.",
       "context": "Die Auswertung im kirchlichen Bildungszusammenhang macht eine andere Zielgruppe sichtbar als Kinostart oder tägliches Kinderprogramm. Religiöse Adaption ist hier auch eine Frage des Vorführorts.",
-      "question": "Warum wäre «sechs Minuten religiöse Szenen wurden entfernt» keine zulässige Folgerung aus diesen Zahlen?",
-      "scene": "Apple-Laufzeitangabe und Vertriebsbeschreibung von Vision Video. Schreibe einen gemeinsamen Archivdatensatz, der beide Laufzeiten mit ihrer Herkunft erhält. Formuliere daneben, welche Prüfung zwischen Schnittfassung und fehlerhafter Angabe unterscheiden könnte.",
+      "question": "Wie lenkt die Zusammenstellung die Erwartung an Heidis Konflikte, noch bevor eine Szene zu sehen ist? Was würde ein Publikum nach dieser Rahmung eher als gelungene Lösung erkennen: Sieg über einen Gegner oder veränderten Umgang mit ihm?",
+      "scene": "Vision Video, Sommerkatalog 2011: Abschnitt Great Bible Discovery (6–12), drei Kurzbeschreibungen. Schreibe zuerst eine Programmankündigung für Climb a Tall Mountain allein. Ergänze dann die beiden Nachbarfilme. Markiere das neue gemeinsame Deutungswort, das deine zweite Ankündigung bestimmt.",
       "compare": [
         "Vergebung",
         "Didaktische Bewährung",
@@ -838,10 +834,7 @@
       "mode": "Das Schweizbild als Pointe",
       "tag": "Erweitertes Archiv",
       "facts": "Gsponers früher Animationskurzfilm heisst ebenfalls Heidi. SRG und Regiefilmografien nennen 1998; Swiss Films führt den Titel unter 1999. Die Abweichung wird hier offengelegt.",
-      "analysis": "Gleicher Titel und gleiche Regie beweisen keine identische Handlung oder Haltung. Kurzanimation und langer Realfilm sind verschiedene Werke; die widersprüchlichen Jahresangaben betreffen zusätzlich die Katalogisierung des ersten. Für eine Aussage über Wiederholung oder Veränderung wäre der Werkvergleich nötig.",
       "context": "Der gleiche Regisseur realisierte später den langen Realfilm von 2015. Ein Autorvergleich darf deshalb nicht aus dem Namen auf eine gleichbleibende Haltung schliessen.",
-      "question": "Warum ist «Gsponer hat seine Heidi nur neu gedreht» durch diese Angaben nicht belegt?",
-      "scene": "SRG nennt 1998; Swiss Films führt den Animationskurzfilm unter 1999. Gsponers Realfilm stammt von 2015. Erstelle zwei getrennte Katalogzeilen. Bewahre beim Kurzfilm beide Jahresangaben mit Quelle; nenne beim zweiten Eintrag 2015 und Realfilm.",
       "compare": [
         "Bild der Schweiz",
         "Pointe statt Romanbogen",
@@ -857,6 +850,7 @@
         "url": "https://swissfilms.ch/en/person/alain-gsponer/d4c40e6f25334f708ee61b4964f0dc37",
         "type": "Nachweis"
       },
+      "taskStatus": "Archivzugang ohne redigierte Aufgabe",
       "clipGap": "Kein überprüfbarer öffentlicher Clip zu Alain Gsponers dreiminütiger Animationssatire gefunden. Die zahlreichen Treffer zu seinem Spielfilm von 2015 sind keine Ausschnitte dieses Kurzfilms."
     },
     {
@@ -905,10 +899,10 @@
       "mode": "Historischer Familienfilm",
       "tag": "Vergleichsfenster",
       "facts": "Emma Bolger spielt Heidi, Max von Sydow den Grossvater, Geraldine Chaplin Rottenmeier und Diana Rigg die Grossmutter Sesemann. Gemeint ist der Realfilm von Paul Marcus, nicht eine gleichnamige Animationsproduktion desselben Jahres.",
-      "analysis": "Jahr und Titel identifizieren die Werke hier nicht eindeutig. Paul Marcus und die genannten Darstellenden gehören zum Realfilm; die Firmenangaben identifizieren die andere Produktion. Erst nach dieser Trennung ist klar, ob körperliches Schauspiel oder Animation untersucht wird.",
+      "analysis": "Das Seil verknüpft Heidi mit einer praktischen Tätigkeit, die grosse Vordergrundfigur macht sie zugleich zum Blickzentrum. Peter bleibt als kleineres Element der Alpenwelt sichtbar. Die Komposition kann eine Hierarchie der Wiedererkennung anbieten, ohne die tatsächliche Verteilung von Entscheidungen, Szenen oder Redezeit zu zählen.",
       "context": "Die internationale Besetzung macht den Schweizer Stoff innerhalb eines englischsprachigen Familienfilms zugänglich. Historische Ausstattung ist jedoch kein Beleg für historische Genauigkeit oder grössere Werktreue.",
-      "question": "Weshalb führt ein Vergleich unter der blossen Überschrift «Heidi 2005» zu einer unklaren Aussage über Schauspiel und gezeichnete Bewegung?",
-      "scene": "Besetzung des Realfilms von Paul Marcus und Produktionsangaben zum Animationsfilm von 2005. Repariere den Mischdatensatz: «Heidi, 2005; Zeichentrickfilm von Paul Marcus mit Emma Bolger.» Schreibe daraus zwei sauber getrennte Suchanfragen.",
+      "question": "Wie verbindet das Cover Heidis Vorrang mit alltäglicher Verantwortung, während Peter trotz seiner Beziehung zu den Ziegen an den Rand tritt? Warum darf diese Rangordnung nicht als messbarer Handlungsanteil im Film gelten?",
+      "scene": "Covermotiv zum Realfilm mit Emma Bolger und Max von Sydow, unten eingeblendet. Verfolge das Seil von Heidis Händen zur Ziege. Vergleiche diese konkrete Verbindung mit dem Grössenunterschied zwischen Heidi und Peter. Halte Bildposition und Figurenrolle getrennt fest.",
       "refs": [
         "marcus"
       ],
@@ -940,10 +934,10 @@
       "mode": "Ein Stoff, zwei Kinofilme im selben Jahr",
       "tag": "Erweitertes Archiv",
       "facts": "Filmportal weist eine eigenständige Zeichentrickproduktion von TV-Loonland, Nelvana und Telemagination aus, mit deutschem Kinostart am 22. Dezember 2005. Paul Marcus’ Realfilm desselben Jahres ist eine andere Produktion.",
-      "analysis": "Ein gemeinsamer Stoff und die Technik gezeichneter Figuren belegen keine gemeinsame Produktion. Jahr, Format und Firmen weisen die 2005er Kinoproduktion aus. Eine solche Unterscheidung muss der Stilanalyse vorausgehen, sonst werden Befunde dem falschen Werk zugeschrieben.",
+      "analysis": "Heidi muss eine neue Umgebung erschliessen, findet mit Peter aber auch eine Beziehung, die sie trägt. Die Zuneigung des Grossvaters verlangt zusätzlich, dass dessen Rückzug durchlässig wird. So erscheint Ankommen als wechselseitiger Prozess. Die knappe Inhaltsangabe belegt diese Gewichtung der Zusammenfassung, nicht die Dauer einzelner Szenen.",
       "context": "Die internationale Koproduktion zeigt, dass Heidi nicht ausschliesslich als Schweizer Kulturgut vermarktet wird. Herstellungsland, Handlungsschauplatz und Sprachfassung fallen auseinander.",
-      "question": "Warum reicht die Ähnlichkeit «Heidi als gezeichnetes Mädchen» nicht aus, um den Trailer als Ausschnitt aus Takahatas Serie zu beschriften?",
-      "scene": "DFF-Nachweis zur Produktion mit deutschem Kinostart am 22. Dezember 2005. Ergänze zum eingebetteten deutschen Trailer einen eindeutigen Herkunftssatz mit Jahr, Format und Produktionsfirmen.",
+      "question": "Warum erzählt diese Zusammenfassung das Ankommen nicht bloss als Anpassung des Kindes? Welche zusätzliche Veränderung wird dem Grossvater zugemutet, wenn aus Unterbringung ein Zuhause werden soll?",
+      "scene": "DFF-Inhaltsangabe zum Zeichentrickfilm von Alan Simpson, Abschnitt «Inhalt». Ordne die drei Zustände «unwohl in fremder Umgebung», «Freundschaft mit Peter», «Zuneigung des Grossvaters» auf einer Linie. Schreibe darunter, bei wem jeweils eine Veränderung vorausgesetzt wird.",
       "compare": [
         "Vertrauen und Ortswechsel",
         "Verdichtete Romanadaption",
@@ -981,10 +975,10 @@
       "mode": "Heidi wird zur Jugendlichen",
       "tag": "Erweitertes Archiv",
       "facts": "Die moderne Jugendserie versetzt Heidi in eine zeitgenössische Lebenswelt mit Schule und neuen Freundschaften. Die Ausstrahlung begann in der Schweiz 2007; andere Märkte führten sie 2008.",
-      "analysis": "Unterschiedliche Startjahre können zur Verbreitung desselben Werks gehören. Schule führt zugleich wiederkehrende Regeln, Gruppen und Begegnungen ein, an denen sich neue Folgen entzünden können. Der selbst erfundene Schulkonflikt ist eine Anwendung dieser Möglichkeit, kein behaupteter Episodeninhalt.",
+      "analysis": "Eine öffentliche Parteinahme verändert auch die Stellung vor der Gruppe. Unter vier Augen kann Heidi Gründe erfragen, ohne die andere Person sofort vor Publikum festzulegen. Das Experiment nutzt die wiederkehrende Schule: Die Beteiligten müssen einander weiterhin begegnen. Eine Lösung muss deshalb mit den Folgen für beide Bindungen rechnen.",
       "context": "Der Klassiker wird an Formate jugendlicher Serienunterhaltung angeschlossen. Modernisierung betrifft nicht nur Kleidung und Technik, sondern auch Alter, Handlungsmacht und soziale Institutionen.",
-      "question": "Warum belegt das zweite Jahr keine zweite Produktion – und welche wiederkehrende Institution kann hier Konflikte liefern, die ein einmaliger Ortswechsel allein nicht erzeugt?",
-      "scene": "Angaben zur Jugendserie Heidi & Co.; offizieller Teaser von 0:30. Beschrifte zwei Programmankündigungen: Schweizer Start und späterer Start in einem anderen Markt. Ergänze ein mögliches Schulproblem als ausdrücklich eigenen Entwurf.",
+      "question": "Welche Spannung entsteht, weil Heidi zugleich Loyalität zu Peter und einen Platz in der neuen Gruppe behalten möchte? Was kann das vertrauliche Gespräch lösen, das der öffentliche Satz verschärft?",
+      "scene": "Produktionsbefund zur Jugendserie Heidi & Co.: Gegenwart, Schule und neue Freundschaften; abgegrenzter eigener Szenenentwurf. Schreibe zwei Äusserungen Heidis im Klassenzimmer: eine öffentlich vor allen, eine spätere unter vier Augen. Lasse beide Beziehungen nach dem Gespräch weiterbestehen; niemand darf einfach wegziehen.",
       "compare": [
         "Zugehörigkeit und neue Freundschaften",
         "Jugendserie",
@@ -1108,10 +1102,10 @@
       "mode": "Fortsetzbare Abenteuerwelt",
       "tag": "Vergleichsfenster",
       "facts": "Studio 100 führt 39 Folgen der ersten und 26 Folgen der zweiten Staffel auf, jeweils etwa 22 Minuten. Der Katalog nennt die Produktionsjahre 2014–2015 und 2019 und eine Zielgruppe von fünf bis acht Jahren. Dies ist ein eigenständiger Titel neben Gsponers Realfilm.",
-      "analysis": "65 Folgen ergeben etwa 1430 Minuten. Wiederkehrende Orte und Beziehungen erlauben einzelne, begrenzte Probleme und neue Einstiege. Der Umfang macht solche Strukturen plausibel, beweist aber nicht jede Episodenhandlung. Das Ziegenproblem ist ein eigener Entwurf, kein Trailerbefund.",
+      "analysis": "Das Motiv verbindet die Stadt mit gemeinsamer Aktivität und positiven Gesichtsausdrücken. Apfel und Korb geben der Gruppe einen Gegenstand; die Strasse erscheint als nutzbarer Aussenraum. Das widerlegt kein Heimweh im Serienverlauf, zeigt aber, dass städtische Bilder nicht notwendig nur Einschliessung anbieten.",
       "context": "Die Serie steht in einer internationalen Kinderfernseh- und Lizenzökonomie. Der Katalog beschreibt ein Produkt und seine Zielgruppe; seine Aussagen sind keine unabhängige Qualitätsbewertung und keine Publikumsstudie.",
-      "question": "Warum braucht ein solcher Serienumfang wiederholbar nutzbare Beziehungen und Orte statt nur eine immer weiter hinausgezögerte Rückkehr?",
-      "scene": "Studio-100-Katalog: erste Staffel 39, zweite Staffel 26 Folgen; jeweils etwa 22 Minuten. Berechne die Gesamtdauer beider Staffeln. Entwirf anschliessend ein kleines Problem mit den Ziegen, das innerhalb einer Folge gelöst werden könnte, ohne Heidis ganzen Lebensweg abzuschliessen.",
+      "question": "Wie widerspricht gerade dieses Werbemotiv dem pauschalen Schema «Alp bedeutet Freiheit, Stadt bedeutet Gefangenschaft»? Welche städtische Möglichkeit wird durch Apfel, Korb und gemeinsame Bewegung angeboten?",
+      "scene": "Studio-100-Werbemotiv zur CGI-Serie, unten eingeblendet: drei Figuren, Apfelkorb und verschneite Strasse. Decke die Figuren ab und beschreibe nur die Strasse. Decke danach den Hintergrund ab und beschreibe die Gruppe. Führe beide Ebenen wieder zusammen: Welche Gegenstände und Gesten verbinden Stadt und Vergnügen?",
       "refs": [
         "cgi"
       ],
@@ -1143,10 +1137,10 @@
       "mode": "Telenovela, Musik und Gegenwart",
       "tag": "Erweitertes Archiv",
       "facts": "Die für Nickelodeon entwickelte Serie überträgt Heidi in die moderne lateinamerikanische Jugendunterhaltung. Mondo TV beschreibt die Zusammenarbeit mit Alianzas Producciones und die Verbindung von bekanntem Stoff und neuen Figuren.",
-      "analysis": "Eine Gruppe Gleichaltriger eröffnet Anerkennung, Freundschaft und mögliche Konkurrenz innerhalb derselben Generation. Die Beziehung zum Grossvater wird dadurch nicht automatisch bedeutungslos, aber sie ist nicht mehr der einzige Zugang zur neuen Welt. Der Begrüssungsentwurf erprobt diese Verschiebung, ohne eine Originalszene zu behaupten.",
+      "analysis": "Der Ortswechsel unterbricht die alte Freundschaft nicht mehr vollständig. Pedro verbindet beide Lebensräume und kann mit neuen Beziehungen in derselben Stadt zusammentreffen. Daraus lassen sich Konflikte um Loyalität entwickeln; der eigene Konfliktentwurf ist jedoch kein Beleg für eine ausgestrahlte Handlung. Die Autorin erklärt eine gezielte Änderung, nicht bloss einen Austausch von Kostümen.",
       "context": "Die Adaption zeigt einen internationalen Medienverbund aus Serienfigur, Musik und jugendlichem Publikum. Eine kulturelle Übertragung verändert sowohl die erzählte Welt als auch die Art, wie das Publikum die Figur begleitet.",
-      "question": "Was verändert sich an Heidis Ankommen, wenn Zugehörigkeit zuerst in einer Gruppe Gleichaltriger ausgehandelt wird statt ausschliesslich zwischen Kind und Grossvater?",
-      "scene": "Mondo-TV-Produktionsbeschreibung zu Heidi, bienvenida a casa. Übersetze den Titel. Entwirf eine kurze Begrüssung durch eine neue gleichaltrige Figur und kennzeichne den Text als eigene Szene.",
+      "question": "Wie verändert Pedros Nachreise die dramaturgische Funktion der Trennung zwischen Bergen und Stadt? Warum ermöglicht gerade diese Änderung fortlaufende Freundschaftskonflikte vor Ort?",
+      "scene": "Interview mit Autorin Marcela Citterio in Licensing Italia, 20. März 2018: Antwort zu den Unterschieden gegenüber dem Original. Zeichne zwei Wege: Heidi fährt allein in die Stadt; danach folgt Pedro. Trage bei der zweiten Linie ein, welche vertraute Beziehung Heidi nun am neuen Ort weiterführen kann. Entwirf einen Konflikt, der erst durch Pedros Anwesenheit neben neuen Stadtfreundschaften entsteht, und kennzeichne ihn als eigene Möglichkeit.",
       "compare": [
         "Neue soziale Welt",
         "Fortgesetzte Telenovela-Handlung",
@@ -1544,6 +1538,42 @@
     "climbdate": {
       "name": "Apple TV: Climb a Tall Mountain (1987), Fassung mit 39 Minuten",
       "url": "https://tv.apple.com/us/episode/climb-a-tall-mountain/umc.cmc.2vod0e0y9mwa6ziiai1kph5tr?showId=umc.cmc.2exy0cnmdprj94soy0wn01jp8"
+    },
+    "trittenplot": {
+      "name": "Open Library: Heidi Grows Up, Inhaltsbeschreibung der Romanvorlage",
+      "url": "https://openlibrary.org/works/OL182106W/Heidi_grows_up"
+    },
+    "trittenbbc": {
+      "name": "BBC-Fortsetzung 1954: Vorlagen- und Bearbeitungscredits (IMDb)",
+      "url": "https://www.imdb.com/title/tt0424139/fullcredits/"
+    },
+    "bbc59episodes": {
+      "name": "Heidi 1959: Episodentitel und Sendereihenfolge (IMDb)",
+      "url": "https://www.imdb.com/title/tt1591533/episodes/"
+    },
+    "musicaltitles": {
+      "name": "TheTVDB: Max Liebman Presents, Liedliste zu Heidi (1955)",
+      "url": "https://thetvdb.com/series/max-liebman-presents/allseasons/official"
+    },
+    "giftplot": {
+      "name": "IMDb: A Gift for Heidi, ausführliches Handlungsreferat",
+      "url": "https://www.imdb.com/title/tt0051656/plotsummary/"
+    },
+    "giftrt": {
+      "name": "Rotten Tomatoes: A Gift for Heidi, redaktionelle Synopsis",
+      "url": "https://www.rottentomatoes.com/m/a_gift_for_heidi"
+    },
+    "visioncatalog": {
+      "name": "Vision Video: Sommerkatalog 2011, Great Bible Discovery (6–12)",
+      "url": "https://www.visionvideo.com/files/MC11.pdf"
+    },
+    "lawrenceabstract": {
+      "name": "Michael Lawrence: Hindianizing Heidi (Abstract, Adaptation 5/1, 2012)",
+      "url": "https://academic.oup.com/adaptation/article-abstract/5/1/102/6836?login=true"
+    },
+    "citteriointerview": {
+      "name": "Marcela Citterio im Interview: Pedro reist Heidi nach (Licensing Italia, 20.3.2018)",
+      "url": "https://www.licensingitalia.it/heidi-bienvenida-a-casa-in-onda-ad-aprile-su-rai-gulp-la-prima-stagione-della-telenovela-argentina/"
     }
   },
   "filmVariants": [

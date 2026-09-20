@@ -1,4 +1,4 @@
-/* Individuell redigierte Aufgaben. Keine automatisch erzeugten Aufgaben für beliebige Filmpaare. */
+/* Einzelfallredaktion; keine Aufgaben aus Katalogdaten als Ersatz für fehlende Materialanalyse. */
 const HeidiCases = {
   "film-1920": {
     "id": "film-1920",
@@ -144,84 +144,47 @@ const HeidiCases = {
       "filmo"
     ]
   },
-  "film-1953bbc": {
-    "id": "film-1953bbc",
-    "title": "Eine Heidi vor dem Anime",
-    "where": "Archivnachweis zur BBC-Produktion von 1953 · kein verifizierter Clip vorhanden.",
-    "material": "Der Nachweis nennt Julia Lockwood als Heidi. Die bekannte japanische Zeichentrickserie entstand 1974; die Schweizer Realserie begann 1978.",
-    "action": "Korrigiere den Katalogsatz: «Heidi kam erst 1974 vom Kino ins Fernsehen.» Behalte nur Angaben bei, die der Nachweis von 1953 tatsächlich trägt.",
-    "question": "Welche historische Behauptung widerlegt der Eintrag von 1953 – und warum verrät er trotzdem noch nichts über Kameranähe oder Erzähltempo?",
-    "answer": "1953 liegt vor 1974 und belegt eine frühere Fernsehbearbeitung. Die Besetzungsangabe identifiziert sie; sie beschreibt keine Einstellung. Um Tempo oder Bildgestaltung zu beurteilen, wäre eine Kopie beziehungsweise ein entsprechendes Produktionsdokument nötig.",
-    "facets": [
-      {
-        "label": "Frühere Fernsehadaption",
-        "terms": [
-          "1953",
-          "frueher",
-          "vor 1974",
-          "lockwood",
-          "fernseh"
-        ],
-        "hint": "Nenne das Jahr, das dem Wort «erst» im fehlerhaften Katalogsatz widerspricht.",
-        "follow": "Welche Produktion identifiziert Julia Lockwoods Name?"
-      },
-      {
-        "label": "Grenze des Nachweises",
-        "terms": [
-          "kopie",
-          "aufnahme",
-          "einstellung",
-          "tempo",
-          "unbekannt"
-        ],
-        "hint": "Enthält eine Besetzungsliste eine Angabe zur Dauer einer Szene?",
-        "follow": "Formuliere genau eine Aussage zur Inszenierung, die du aus diesem Eintrag nicht ableiten kannst."
-      }
-    ],
-    "refs": [
-      "archive_1953bbc"
-    ]
-  },
   "film-1954grows": {
     "id": "film-1954grows",
-    "title": "Ein Titel verspricht ein Leben nach dem Schluss",
-    "where": "BBC-Fortsetzung von 1954 · Titel- und Produktionsnachweis; kein verifizierter Clip.",
-    "material": "Der Titel lautet Heidi Grows Up. Der Eintrag wird als eigene Produktion geführt. Umfang und Regiezuschreibung sind in den vorhandenen Filmografien nicht einheitlich.",
-    "action": "Übertrage «Grows Up» ins Deutsche. Stelle dem Titel eine Frage gegenüber, die nach Heidis Rückkehr auf die Alp noch offen sein könnte. Kennzeichne deinen Handlungsvorschlag als Entwurf.",
-    "question": "Wodurch verschiebt das angekündigte Heranwachsen den Zeithorizont gegenüber einer blossen Wiederholung von Heidis Rückkehr?",
-    "answer": "«Wächst heran» kündigt einen längerfristigen Entwicklungsprozess an. Eine neue Altersstufe könnte neue Entscheidungen verlangen. Der Titel belegt dieses Versprechen, aber weder einen bestimmten Konflikt noch die Zahl oder das Ende der Episoden. Ein eigener Fortsetzungsentwurf bleibt davon getrennt.",
+    "title": "Heimkehr mit einem Beruf statt Rückkehr ins Kinderleben",
+    "where": "Charles Trittens Fortsetzungsroman: bibliografische Inhaltsbeschreibung der Open Library; BBC-Credits nennen Tritten als Vorlage und Joy Harington als Bearbeiterin.",
+    "material": "Trittens Heidi besucht ein Internat in Lausanne. Sie möchte später in ihrem Dorf unterrichten und beim Grossvater und Peter leben. Die Fernsehadaption greift damit auf eine Fortsetzung eines anderen Autors zurück. Eine Kopie der BBC-Serie ist hier nicht belegt.",
+    "action": "Zeichne den Weg Alp → Internat → Dorf. Schreibe unter den letzten Ort zwei unterschiedliche Verben: «zurückkehren» und «unterrichten». Beschreibe, welche Voraussetzung das Internat für das zweite Verb schaffen kann.",
+    "question": "Warum wird der Aufenthalt ausserhalb der Alpen hier nicht einfach als Irrweg zurückgenommen? Welche neue Verbindung zwischen Bildung, Selbstständigkeit und Heimat legt Heidis Berufswunsch an?",
+    "answer": "Die spätere Rückkehr soll Wissen und eine Tätigkeit ins Dorf bringen. Damit kann die Ausbildung ausserhalb der Heimat zu deren Zukunft beitragen, statt nur eine belastende Unterbrechung zu sein. Die Analyse betrifft die dokumentierte Romanvorlage. Wie die BBC diese Spannung inszeniert, ist daraus nicht abzulesen.",
     "facets": [
       {
-        "label": "Heranwachsen",
+        "label": "Bildung als Voraussetzung",
         "terms": [
-          "heranwachsen",
-          "erwachsen",
-          "aelter",
-          "alter",
-          "entwicklung",
-          "zukunft"
+          "internat",
+          "ausbildung",
+          "bildung",
+          "lernen",
+          "kenntnis",
+          "wissen"
         ],
-        "hint": "Was bedeutet das Verb «grow up», das über eine Rückreise hinausgeht?",
-        "follow": "Welche neue Entscheidung in deinem Entwurf setzt tatsächlich eine veränderte Altersstufe voraus?"
+        "hint": "Welche Fähigkeit braucht eine Lehrerin, die durch blosses Wiederankommen nicht erworben wird?",
+        "follow": "Verbinde die Zwischenstation Lausanne mit dem späteren Tätigsein im Dorf."
       },
       {
-        "label": "Entwurf und Nachweis",
+        "label": "Veränderte Rückkehr",
         "terms": [
-          "entwurf",
-          "koennte",
-          "hypothese",
-          "erfunden",
-          "titel",
-          "nicht belegt"
+          "unterrichten",
+          "lehrerin",
+          "beruf",
+          "selbststaendig",
+          "beitrag",
+          "rueckkehr"
         ],
-        "hint": "Markiere den erfundenen Konflikt in deinem Vorschlag, damit er nicht zur angeblichen Inhaltsangabe wird.",
-        "follow": "Lässt sich dein Vorschlag schon aus dem Titel wissen oder ist er eine Möglichkeit?"
+        "hint": "Was bringt Heidi bei der vorgesehenen Rückkehr mit, das ihr früheres Kinderleben verändert?",
+        "follow": "Unterscheide Zugehörigkeit zu einem Ort von der Rückkehr in die frühere abhängige Rolle."
       }
     ],
     "refs": [
-      "archive_1954grows",
-      "archivalstudy"
-    ]
+      "trittenplot",
+      "trittenbbc"
+    ],
+    "revision": 2
   },
   "film-1955": {
     "id": "film-1955",
@@ -265,236 +228,255 @@ const HeidiCases = {
   },
   "film-1955musical": {
     "id": "film-1955musical",
-    "title": "Eine Farbsendung in Schwarzweiss",
-    "where": "Paley-Katalogbefund und die eingebettete VAI-Vertriebsvorschau von 1:45.",
-    "material": "Max Liebman Presents: Heidi wurde am 1. Oktober 1955 als Farbsendung ausgestrahlt. Der erhaltene Vorschauausschnitt ist schwarzweiss. Musik, Tanz und Marionetten sind für die Produktion dokumentiert.",
-    "action": "Schalte den Ausschnitt kurz stumm und wieder laut. Notiere, was du am musikalischen Vortrag prüfen kannst. Ergänze daneben die Katalogangabe zur ursprünglichen Sendefarbe.",
-    "question": "Warum darf deine Beschreibung des heute sichtbaren Schwarzweissbilds nicht als Aussage über die Erstausstrahlung formuliert werden?",
-    "answer": "Sendung und erhaltene Kopie sind verschiedene Überlieferungsstufen. Farbe kann im heute zugänglichen Material fehlen, obwohl die Erstausstrahlung farbig war. Der musikalische Vortrag bleibt im Ausschnitt untersuchbar; die Farbdramaturgie der ursprünglichen Sendung ist damit nicht rekonstruiert.",
+    "title": "Etikette im Takt: Gehorsam wird aufführbar",
+    "where": "Dokumentierte Liedtitel des NBC-Musicals: I Got My Way und The Etiquette Song; TheTVDB-Sendungsverzeichnis.",
+    "material": "Die Liedliste stellt einen behaupteten eigenen Willen («I Got My Way») neben gesellschaftliche Umgangsregeln («The Etiquette Song»). Die Rollenverteilung dieser Nummern ist durch die Liste allein nicht belegt.",
+    "action": "Sprich «Ich habe meinen Willen bekommen» zunächst frei, dann im gleichen, streng wiederholten Takt wie drei von dir formulierte Tischregeln für den Sesemann-Haushalt. Notiere, welche Version Eigenwillen hörbar lässt. Dies ist ein eigenes Inszenierungsexperiment, keine Rekonstruktion der Nummern.",
+    "question": "Was könnte eine Musicaladaption mit dem Konflikt zwischen Heidis Eigenwillen und gesellschaftlicher Einordnung tun, wenn die Regeln selbst zur eingängigen Nummer werden? Wann würde der musikalische Spass die Disziplinierung verdecken, wann sie entlarven?",
+    "answer": "Ein regelmässiger gemeinsamer Takt kann Einordnung körperlich erfahrbar und zugleich unterhaltsam machen. Eine eigensinnige Abweichung könnte den Konflikt hörbar halten. Ob daraus Zustimmung oder Spott entsteht, hängt etwa von Betonung und Übertreibung ab. Die Liedtitel eröffnen diesen begrenzten Versuch; sie belegen nicht, wer die Nummer singt oder wie sie tatsächlich gespielt wurde.",
     "facets": [
       {
-        "label": "Überlieferungsstufen",
+        "label": "Regel und Rhythmus",
         "terms": [
-          "kopie",
-          "ueberlieferung",
-          "erhalten",
-          "digital",
-          "aufnahme"
+          "takt",
+          "rhythmus",
+          "regel",
+          "gleichmaessig",
+          "disziplin",
+          "ordnung"
         ],
-        "hint": "Vergleiche die heute betrachtete Kopie mit dem katalogisierten Ausstrahlungsereignis.",
-        "follow": "Welche Eigenschaften beschreibst du an der Kopie, welche nur anhand des Katalogs?"
+        "hint": "Welche deiner Tischregeln lässt sich besonders widerspruchslos im Takt mitsprechen?",
+        "follow": "Erkläre, was die musikalische Mitmachbarkeit mit dem Gehorsam gegenüber dieser Regel macht."
       },
       {
-        "label": "Farbe und Sendung",
+        "label": "Eigenwillige Abweichung",
         "terms": [
-          "farbe",
-          "farbig",
-          "schwarzweiss",
-          "1955",
-          "ausstrahlung"
+          "betonung",
+          "abweichung",
+          "eigenwill",
+          "spott",
+          "uebertreib",
+          "widerspruch"
         ],
-        "hint": "Schreibe zwei getrennte Sätze: «Die Sendung …» und «Der Ausschnitt …».",
-        "follow": "Was wäre an «1955 gab es diese Heidi nur in Schwarzweiss» falsch?"
+        "hint": "An welcher Silbe oder Pause hast du den vorgegebenen Takt verlassen?",
+        "follow": "Begründe an deinem Versuch, ob diese Abweichung als Unfähigkeit oder als Widerstand klingt."
       }
     ],
     "refs": [
+      "musicaltitles",
       "archive_1955musical"
-    ]
+    ],
+    "revision": 2
   },
   "film-1958gift": {
     "id": "film-1958gift",
-    "title": "Un regalo: Ein Filmanfang ist noch kein Glaubensbeleg",
-    "where": "Eingebetteter Anfang der spanisch synchronisierten Fassung von A Gift for Heidi.",
-    "material": "Der Archivzugang ist als Un regalo para Heidi bezeichnet und zeigt Sandy Descher als Heidi. Der Titel verspricht ein Geschenk; die Katalogeinordnung bezeichnet zusätzliche Abenteuer und eine moralisch-religiöse Ausrichtung.",
-    "action": "Prüfe zunächst Titel und Besetzung des Uploads. Halte dann fest, ob der sichtbare Anfang bereits einen ausdrücklich religiösen Hinweis enthält. Wenn nicht, notiere genau diese Begrenzung.",
-    "question": "Weshalb wäre es unzulässig, aus dem übersetzten Wort «Geschenk» allein auf eine religiöse Rettung am Ende zu schliessen?",
-    "answer": "«Geschenk» benennt noch weder einen Geber noch eine religiöse Bedeutung oder einen Ausgang. Die religiöse Katalogeinordnung kann eine weitere Untersuchung motivieren. Sie ersetzt den Beleg im gesehenen Abschnitt nicht; ein religiös unmarkierter Anfang widerlegt umgekehrt nicht die Einordnung des ganzen Films.",
+    "title": "Gute Absichten, fremde Entscheidungen",
+    "where": "Handlungsreferate zu A Gift for Heidi bei Rotten Tomatoes und IMDb, nicht der kurze eingebettete Filmanfang.",
+    "material": "Heidi meldet Peter gegen seinen Willen zu einem Gesangswettbewerb an. Später helfen die Kinder bei der Rettung eines in den Bergen eingeschlossenen Paares; auch die US-Armee wird eingeschaltet.",
+    "action": "Stelle die beiden Hilfsaktionen gegenüber: Peter soll auftreten; das Paar soll aus einer Gefahr gerettet werden. Notiere jeweils, wessen Ziel verfolgt wird und wer in die Entscheidung einwilligen kann.",
+    "question": "Wieso kann «Heidi hilft» die Rettung plausibel beschreiben, Peters Anmeldung aber zugleich beschönigen? Wie verändert die eingeschaltete Armee den Massstab kindlicher Handlungsmacht?",
+    "answer": "Beim Wettbewerb setzt Heidi ihren Plan über Peters geäusserten Willen. Bei der Rettung steht die Abwendung einer akuten Gefahr im Vordergrund. Auch dort leisten die Kinder nicht alles selbst: Institutionelle Hilfe erweitert ihre Handlungsmöglichkeiten. Die Unterscheidung verhindert, dass gute Absicht automatisch jede Form des Eingreifens rechtfertigt.",
     "facets": [
       {
-        "label": "Titelübersetzung",
+        "label": "Hilfe und Zustimmung",
         "terms": [
-          "geschenk",
-          "regalo",
-          "gift",
-          "titel"
+          "zustimmung",
+          "einwilligung",
+          "wille",
+          "bevormund",
+          "wettbewerb",
+          "anmeldung"
         ],
-        "hint": "Benennt «Un regalo» bereits, wer wem was schenkt?",
-        "follow": "Trenne die Bedeutung des Titels von der vermuteten Funktion des Geschenks."
+        "hint": "Wer bestimmt beim Gesangswettbewerb, was für Peter gut sein soll?",
+        "follow": "Formuliere den Unterschied zwischen einer hilfreichen Absicht und dem Respekt vor Peters Entscheidung."
       },
       {
-        "label": "Ausschnittgrenze",
+        "label": "Rettung als Kooperation",
         "terms": [
-          "anfang",
-          "ende",
-          "beleg",
-          "religioes",
-          "glauben"
+          "armee",
+          "rettung",
+          "kooperation",
+          "institution",
+          "hilfe",
+          "gefahr"
         ],
-        "hint": "Vergleiche die Länge deines gesehenen Anfangs mit der Behauptung über das Filmende.",
-        "follow": "Welche Formulierung hält offen, was im späteren Film erst noch gezeigt werden könnte?"
+        "hint": "Welche Aufgabe übersteigt die Mittel von Heidi und Peter allein?",
+        "follow": "Ordne ihren Beitrag ein, ohne aus ihnen allmächtige Retter zu machen."
       }
     ],
     "refs": [
-      "archive_1958gift"
-    ]
+      "giftplot",
+      "giftrt"
+    ],
+    "revision": 2
   },
   "film-1958india": {
     "id": "film-1958india",
-    "title": "Poornima statt Heidi",
-    "where": "Restaurierungsnachweis des indischen Filmarchivs und Angaben zur Adaption Do Phool (1958).",
-    "material": "A. R. Kardar inszeniert Do Phool; Baby Naaz spielt Poornima. Die Heidi-Bearbeitung verlegt den Stoff ins Hindi-Kino. Die Forschung behandelt diese Adaption im Zusammenhang mit arbeitenden Kindern.",
-    "action": "Entwirf ein Beziehungsdiagramm, das ohne die Wörter «Alp», «Schweiz» und «Heidi» auskommt: Kind, betreuende Erwachsene, wohlhabender Haushalt. Markiere, welche Verbindung du anhand einer Inhaltsquelle noch prüfen müsstest.",
-    "question": "Warum ist Poornimas anderer Name ein schwächeres Kriterium für oder gegen eine Heidi-Adaption als ihre Abhängigkeit von Erwachsenen und die Funktion ihres Ortswechsels?",
-    "answer": "Eigennamen und Schauplatzzeichen können ersetzt werden, während Handlungsmuster wie Fremdbestimmung, Fürsorge oder ein Wechsel zwischen ungleichen Haushalten erhalten bleiben. Das Diagramm ist eine begründete Suchstruktur, keine vollständige Inhaltsbeschreibung von Do Phool. Der Restaurierungsnachweis allein belegt keine dieser Beziehungen.",
+    "title": "Baby Naaz arbeitet, während Poornima Kind ist",
+    "where": "Michael Lawrence: Hindianizing Heidi, öffentliches Abstract, letzter Satz über die Arbeit der Kinderdarsteller.",
+    "material": "Lawrence untersucht Do Phool als Bearbeitung im Hindi-Kino der 1950er-Jahre. Sein Abstract schlägt vor, die Arbeit der Kinderdarsteller zu beachten: Dadurch wird sichtbar, wie ein Film Vorstellungen von Kindheit herstellt. Untersucht wird diese Forschungsthese, nicht eine ungesehene Szene.",
+    "action": "Lege zwei Spalten an: Poornima als erzählte Figur und Baby Naaz als Darstellerin. Ordne «eine Rolle einüben», «im Bild spontan wirken» und «als unschuldiges Kind erscheinen» zu; begründe eine mögliche Doppelzuordnung.",
+    "question": "Wie kann Baby Naaz durch erlerntes Spiel den Eindruck von Poornimas ungekünstelter Kindlichkeit erzeugen? Welche Ebene blendet die Aussage «Das Kind ist einfach natürlich» aus?",
+    "answer": "Eine scheinbar spontane Figur kann Ergebnis professioneller Darstellungsarbeit sein. Die Wirkung auf der Leinwand und die Tätigkeit vor der Kamera gehören auf verschiedene Ebenen. Lawrence fordert, diese Arbeit in die Analyse des Hindi-Kinos einzubeziehen. Das Abstract belegt weder einen bestimmten Probenablauf noch Baby Naaz’ persönliche Arbeitsbedingungen.",
     "facets": [
       {
-        "label": "Funktion statt Name",
+        "label": "Darstellerin und Figur",
         "terms": [
-          "beziehung",
-          "fuersorge",
-          "abhaengigkeit",
+          "darstellerin",
+          "schauspiel",
+          "baby naaz",
+          "rolle",
           "arbeit",
-          "funktion",
-          "ortwechsel",
-          "ortswechsel"
+          "einüben"
         ],
-        "hint": "Was bleibt als Beziehungskonflikt formulierbar, nachdem du die Schweizer Eigennamen entfernt hast?",
-        "follow": "Zeige an einer Verbindung des Diagramms, welche Funktion stärker trägt als ein Name."
+        "hint": "Wer übt die Rolle ein: Poornima innerhalb der Geschichte oder Baby Naaz bei der Produktion?",
+        "follow": "Erkläre an deiner Doppelzuordnung, wie Arbeit als Spontaneität erscheinen kann."
       },
       {
-        "label": "Prüfbedarf",
+        "label": "Hergestellte Natürlichkeit",
         "terms": [
-          "pruefen",
-          "inhalts",
-          "hypothese",
-          "restaurierung",
-          "nicht belegt"
+          "natuerlich",
+          "spontan",
+          "inszenier",
+          "hergestellt",
+          "wirkung",
+          "ungekuenstelt"
         ],
-        "hint": "Welche Angabe liefert die Liste restaurierter Filme tatsächlich?",
-        "follow": "Trenne die belegte Existenz der Produktion von deiner noch zu prüfenden Handlungsskizze."
+        "hint": "Bezeichnet «natürlich» hier eine Wirkung oder einen nachgewiesenen Produktionsablauf?",
+        "follow": "Trenne die plausible Deutung des Spiels von unbelegten Aussagen über den Dreh."
       }
     ],
     "refs": [
-      "archive_1958india",
-      "indiaarchive"
-    ]
+      "lawrenceabstract",
+      "archive_1958india"
+    ],
+    "revision": 2
   },
   "film-1959bbc": {
     "id": "film-1959bbc",
-    "title": "Neuverfilmung oder Wiederholung?",
-    "where": "BBC Programme Index · Up the Mountain, 19. Mai 1959; Vergleich mit dem Eintrag 1953.",
-    "material": "1953: Julia Lockwood als Heidi. 1959: Sara O’Connor als Heidi, Mark Dignam als Grossvater; sechs Teile. Ein späteres Sendedatum allein könnte auch eine Wiederholung bezeichnen.",
-    "action": "Unterstreiche den Unterschied, der die Erklärung «blosse Wiederholung von 1953» ausschliesst. Schreibe eine korrigierte Katalognotiz mit Besetzung und Sendestart.",
-    "question": "Weshalb ist der Wechsel von Julia Lockwood zu Sara O’Connor aussagekräftiger als der Abstand von sechs Jahren?",
-    "answer": "Ein bestehender Film kann später erneut gesendet werden; ein anderes Datum ist deshalb kein hinreichender Nachweis einer Neuproduktion. Die unterschiedliche Besetzung derselben Rolle unterscheidet hier die Fassungen. Der Programmeintrag liefert zusätzlich den Start und die Gliederung in sechs Teile.",
+    "title": "Home Again ist noch nicht Happy Ending",
+    "where": "Episodenverzeichnis der BBC-Fassung von 1959: Titel der sechs wöchentlichen Teile.",
+    "material": "Die Reihenfolge lautet: Up the Mountain → Two Visitors → Away from Grandfather → Another Grandmother → Home Again → Happy Ending. Die Titel sind Paratexte, keine vollständigen Inhaltsangaben.",
+    "action": "Übertrage die sechs Titel auf eine Linie. Verbinde «Away from Grandfather» mit «Home Again». Kreise danach «Another Grandmother» ein: Hier benennt ein Titel eine neue Beziehung statt eines Ortes.",
+    "question": "Was verspricht die zusätzliche Folge nach «Home Again» über den Unterschied zwischen räumlicher Heimkehr und erzählerischem Abschluss? Wie könnte die dazwischengeschaltete Grossmutter dieses Rückkehrmuster verändern?",
+    "answer": "Die Titelabfolge lässt die Heimkehr vor dem ausdrücklich angekündigten Abschluss stattfinden. Damit wird Rückkehr nicht automatisch mit der Auflösung aller Beziehungen gleichgesetzt. «Another Grandmother» setzt eine neue Bezugsperson zwischen Trennung und Heimkehr. Welche Konflikte sie tatsächlich löst, bleibt ohne Inhaltsnachweis offen; die Titel lenken zunächst die Erwartung.",
     "facets": [
       {
-        "label": "Besetzungswechsel",
+        "label": "Rückkehr vor dem Ende",
         "terms": [
-          "lockwood",
-          "connor",
-          "besetzung",
-          "darsteller",
-          "schauspiel"
+          "home again",
+          "happy ending",
+          "heimkehr",
+          "abschluss",
+          "ende",
+          "fuenfte",
+          "sechste"
         ],
-        "hint": "Welche zwei Namen sind derselben Rolle zugeordnet?",
-        "follow": "Wäre eine unveränderte Wiederholung mit diesem Rollenwechsel vereinbar?"
+        "hint": "Warum stehen für Heimkehr und glücklichen Abschluss zwei verschiedene Folgenplätze bereit?",
+        "follow": "Erkläre das Erwartungsversprechen, ohne eine ungesehene Schlusssequenz zu erfinden."
       },
       {
-        "label": "Sendedatum",
+        "label": "Beziehung in der Mitte",
         "terms": [
-          "datum",
-          "wiederholung",
-          "ausstrahlung",
-          "sechs",
-          "1959"
+          "grossmutter",
+          "grandmother",
+          "beziehung",
+          "bezugsperson",
+          "another"
         ],
-        "hint": "Erkläre, was ein Sendedatum im Unterschied zu einer Herstellungsangabe belegt.",
-        "follow": "Wie könnte ein Film von 1953 im Jahr 1959 erneut im Programm erscheinen?"
+        "hint": "Welcher der mittleren Titel benennt eine Person, die nicht einfach der verlorene Grossvater ist?",
+        "follow": "Was ändert eine zusätzliche Bindung an einem einfachen Schema «weg von Zuhause – zurück nach Hause»?"
       }
     ],
     "refs": [
-      "archive_1959bbc",
-      "archive_1953bbc"
-    ]
+      "bbc59episodes",
+      "archive_1959bbc"
+    ],
+    "revision": 2
   },
   "film-1965": {
     "id": "film-1965",
-    "title": "Gustav Knuths Name ist noch keine Figurenanalyse",
-    "where": "DFF-Filmangaben: Sascha-Film, 1965; Gustav Knuth, Eva Maria Singhammer, Michaela May.",
-    "material": "Das DFF nennt den deutschen Kinostart am 29. Oktober 1965 und 98 Minuten Laufzeit. Der eingebettete Zugang ist auf die ersten drei Minuten begrenzt.",
-    "action": "Korrigiere diese Behauptung: «Weil ein bekannter erwachsener Schauspieler den Grossvater spielt, ist er von Beginn an die sympathische Autorität.» Benenne den fehlenden Beleg am ersten Auftreten.",
-    "question": "Welche konkrete Beobachtung könnte die behauptete Autorität begründen, die Besetzung und Erscheinungsjahr allein aber nicht liefern?",
-    "answer": "Ein Name weist eine Besetzung nach, keine Wirkung einer bestimmten Szene. Autorität könnte sich in einem befolgten Befehl, Kontrolle über einen Raum oder einer Entscheidung über Heidi zeigen; Sympathie müsste nochmals anders begründet werden. Wenn das Auftreten im Dreiminutenausschnitt fehlt, ist die Behauptung dort nicht prüfbar.",
+    "title": "Der Kuss verkürzt eine schwierige Annäherung",
+    "where": "DFF-Bild zu Heidi (1965), unten eingeblendet; dazu die DFF-Inhaltsangabe über den anfangs griesgrämigen Grossvater.",
+    "material": "Heidi umfasst den sitzenden Grossvater und küsst ihn seitlich am Gesicht. Seine Augen sind gesenkt; sein Mund wirkt gelöst. Die Inhaltsangabe beschreibt dagegen zunächst Distanz und erst später gewonnene Zuneigung.",
+    "action": "Decke zunächst Heidis Gesicht und Arme im Bild ab. Beschreibe den verbleibenden Grossvater. Decke sie wieder auf und prüfe, welche deiner Beschreibungen sich allein durch den Körperkontakt verändert.",
+    "question": "Wie macht dieses Werbebild aus einer zeitlichen Entwicklung bereits einen sichtbaren Beziehungszustand? Was muss eine Filmhandlung noch erzählen, das der Kuss als Bild schon voraussetzt?",
+    "answer": "Das Bild bündelt körperliche Nähe in einer einzigen Geste. Die Arme um den Grossvater und der Kuss können seine zurückgenommene Haltung als angenommene Zuwendung lesbar machen. Der beschriebene Weg von anfänglicher Verschlossenheit zu diesem Vertrauen fehlt im Einzelbild. Ein Werbemotiv kann den erreichten Zustand vorwegnehmen, bevor das Publikum den Übergang kennt.",
     "facets": [
       {
-        "label": "Autorität und Handlung",
+        "label": "Kontakt verändert die Figur",
         "terms": [
-          "befehl",
-          "entscheidung",
-          "kontrolle",
-          "gehorch",
-          "ablehn",
-          "raum",
-          "handlung"
+          "kuss",
+          "arme",
+          "umarmung",
+          "kontakt",
+          "gesicht",
+          "naehe"
         ],
-        "hint": "Welche Handlung des Grossvaters würde zeigen, dass andere sich nach ihm richten müssen?",
-        "follow": "Trenne Macht über Heidi davon, ob du den Grossvater sympathisch findest."
+        "hint": "Was liest du anders am Grossvater, sobald Heidis Arme wieder sichtbar sind?",
+        "follow": "Beziehe dich auf dieselbe Haltung vor und nach dem Abdecken."
       },
       {
-        "label": "Besetzung und Grenze",
+        "label": "Zeit im Einzelbild",
         "terms": [
-          "besetzung",
-          "name",
-          "knuth",
-          "minuten"
+          "entwicklung",
+          "annaeherung",
+          "vertrauen",
+          "vorweg",
+          "zustand",
+          "uebergang"
         ],
-        "hint": "Reicht der Name Gustav Knuth für eine Aussage über die erste Begegnung?",
-        "follow": "Bezieht sich dein Beleg wirklich auf eine sichtbare Handlung oder nur auf Bekanntheit?"
+        "hint": "Welcher zeitliche Weg liegt zwischen dem griesgrämigen Beginn der Inhaltsangabe und diesem Bild?",
+        "follow": "Erkläre, warum das Motiv Nähe zeigen kann, ohne deren Entstehung zu erzählen."
       }
     ],
     "refs": [
       "fp65"
-    ]
+    ],
+    "revision": 2,
+    "materialImage": "1965"
   },
   "film-1968": {
     "id": "film-1968",
-    "title": "Vier Stars, vier mögliche Konfliktachsen",
-    "where": "Besetzungsangaben zur NBC-Fassung von Delbert Mann; Trailer als ergänzender Zugang.",
-    "material": "Jennifer Edwards spielt Heidi, Michael Redgrave den Grossvater, Jean Simmons Rottenmeier und Maximilian Schell Herrn Sesemann. John Williams komponierte die Musik.",
-    "action": "Zeichne die Verbindung Heidi–Grossvater und die Verbindung Rottenmeier–Sesemann. Ordne der ersten Zugehörigkeit, der zweiten die Zuständigkeit im Frankfurter Haushalt als Untersuchungsfrage zu.",
-    "question": "Warum wäre die Folgerung «Fernsehen bedeutet automatisch Nahaufnahmen und Dialognähe» trotz dieser bekannten Darstellenden unbegründet?",
-    "answer": "Das Ensemble eröffnet mehrere Beziehungen, die inszeniert werden können. Weder Schauspielernamen noch Ausstrahlungsmedium bestimmen Einstellungsgrössen. Erst der Trailer beziehungsweise eine Szene zeigt, ob Nähe über Gesichter, Stimmen, Musik oder räumliche Anordnung entsteht; ein Trailer belegt dabei nur seine eigene Auswahl.",
+    "title": "Ein Kind vor Bergen – aber ohne Gegenüber",
+    "where": "Veröffentlichtes NBC/Getty-Motiv mit Jennifer Edwards, unten eingeblendet; Untersuchung dieses Bildes, nicht einer Filmszene.",
+    "material": "Heidi steht nahezu frontal im Bildzentrum. Ihr ganzer Körper ist zu sehen; hinter ihr liegen weit entfernte Berge. Keine andere Figur erscheint, zu der sie eine sichtbare Beziehung aufnehmen könnte.",
+    "action": "Betrachte zuerst nur die Figur, dann das ganze Bild. Vergleiche den Blick zum betrachtenden Publikum mit der fehlenden Blickbeziehung zu einer zweiten Figur im dargestellten Raum.",
+    "question": "Wie wird Heidi hier zur Repräsentantin einer Alpenwelt, obwohl das Bild keine Tätigkeit in dieser Welt zeigt? Welche Beziehung verspricht die frontale Präsentation dem Publikum statt einer Beziehung innerhalb der Handlung?",
+    "answer": "Die Berge ordnen Heidi einer wiedererkennbaren Landschaft zu. Frontalität, Ganzfigur und zentrale Stellung präsentieren sie dem Publikum. Anders als etwa ein Bild des Melkens braucht dieses Motiv kein konkretes Tun, um Zugehörigkeit anzubieten. Es entwirft eine Begegnung mit der Hauptfigur; eine konkrete Handlung oder ein Blickwechsel innerhalb der Szene ist daraus nicht abzuleiten.",
     "facets": [
       {
-        "label": "Beziehungen",
+        "label": "Adressierung",
         "terms": [
-          "grossvater",
-          "rottenmeier",
-          "sesemann",
-          "zugehoerigkeit",
-          "haushalt"
+          "frontal",
+          "blick",
+          "publikum",
+          "betrachter",
+          "zentrum",
+          "zentral"
         ],
-        "hint": "Benenne, welche zwei unterschiedlichen Beziehungen dein Diagramm voneinander trennt.",
-        "follow": "Wem gehört der Konflikt um Heidis Zuhause, wem die Entscheidungsmacht im Haushalt?"
+        "hint": "Wohin richtet sich die Figur im Verhältnis zu uns vor dem Bild?",
+        "follow": "Beschreibe die angebotene Begegnung, ohne eine unsichtbare Filmfigur als Gegenüber einzusetzen."
       },
       {
-        "label": "Medium und Form",
+        "label": "Landschaftliche Zuschreibung",
         "terms": [
-          "nahaufnahme",
-          "kamera",
-          "medium",
-          "fernsehen",
-          "trailer",
-          "nicht automatisch"
+          "berge",
+          "landschaft",
+          "alpen",
+          "taetigkeit",
+          "praesentation",
+          "zuordnung"
         ],
-        "hint": "Welche Einstellung wäre nötig, um die Behauptung über Nahaufnahmen zu prüfen?",
-        "follow": "Verwechsle die Besetzung einer Rolle nicht mit der Art, wie die Kamera sie zeigt."
+        "hint": "Was leisten die Berge, obwohl Heidi weder klettert noch Tiere versorgt?",
+        "follow": "Vergleiche landschaftliche Zugehörigkeit mit einer konkret gezeigten Alltagstätigkeit."
       }
     ],
     "refs": [
       "lib68"
-    ]
+    ],
+    "revision": 2,
+    "materialImage": "1968"
   },
   "film-1974": {
     "id": "film-1974",
@@ -537,46 +519,6 @@ const HeidiCases = {
       "takahata"
     ],
     "history": "Takahata erläutert den Eingriff in seinem Werkbericht. Seine Aussagen zur japanischen Wachstumsgesellschaft betreffen die Entstehungsperspektive der Serie; sie ersetzen keine Untersuchung der späteren Zuschauerreaktionen."
-  },
-  "film-1974bbc": {
-    "id": "film-1974bbc",
-    "title": "Zweimal 1974 ist nicht dieselbe Serie",
-    "where": "Produktionsdaten: BBC-Realserie und Alps no Shōjo Heidi.",
-    "material": "Die BBC-Realserie hat Emma Blake und Hans Meyer in den Hauptrollen und sechs Teile. Der Anime entstand unter Isao Takahata. Beide werden unter 1974 geführt.",
-    "action": "Formuliere eine Archivsuche, die gezielt die Emma-Blake-Fassung findet. Verwende drei unterscheidende Angaben statt nur «Heidi 1974».",
-    "question": "Welche falsche Zuschreibung entsteht, wenn ein englisch synchronisierter Anime allein wegen der Sprache als BBC-Realserie eingeordnet wird?",
-    "answer": "Die Sprache einer Fassung bestimmt nicht deren Produktionsidentität. Realaufnahme, Emma Blake und BBC bezeichnen die gesuchte Serie präziser. Ein englisch synchronisierter gezeichneter Film bleibt die Anime-Produktion und wird nicht nachträglich zur BBC-Neuverfilmung.",
-    "facets": [
-      {
-        "label": "Produktionsidentität",
-        "terms": [
-          "emma",
-          "blake",
-          "hans",
-          "meyer",
-          "bbc",
-          "realserie"
-        ],
-        "hint": "Welche Besetzung trennt die Realserie vom Anime?",
-        "follow": "Deine Suchangaben sollen die Produktion identifizieren, nicht bloss die Sprache des Uploads."
-      },
-      {
-        "label": "Synchronisation",
-        "terms": [
-          "sprache",
-          "englisch",
-          "synchron",
-          "anime",
-          "zeichnung"
-        ],
-        "hint": "Kann eine Zeichentrickserie englische Stimmen erhalten, ohne neu gefilmt zu werden?",
-        "follow": "Trenne die Sprachfassung vom Herstellungsmedium."
-      }
-    ],
-    "refs": [
-      "archive_1974bbc",
-      "takahata"
-    ]
   },
   "film-1978": {
     "id": "film-1978",
@@ -621,122 +563,128 @@ const HeidiCases = {
   },
   "film-1978new": {
     "id": "film-1978new",
-    "title": "New York in elf Sekunden",
-    "where": "NBC-Promoclip von 0:11 und Produktionsbefund zu The New Adventures of Heidi.",
-    "material": "Diese amerikanische Fassung verlegt einen Teil der Handlung nach New York. Sie ist nicht die Schweizer Realserie von 1978. Der verfügbare Promoclip dauert elf Sekunden.",
-    "action": "Schreibe einen Katalogsatz zur Ortsverlegung und einen getrennten Satz dazu, was du im elfsekündigen Werbeclip tatsächlich feststellen kannst.",
-    "question": "Weshalb ist «New York übernimmt die Funktion Frankfurts vollständig» stärker als der belegte Befund, dass ein Teil der Handlung dort spielt?",
-    "answer": "Die Ortsangabe belegt eine Verlegung, nicht die Gleichheit aller sozialen Beziehungen. Um eine vollständige Funktionsübernahme zu behaupten, müssten Haushalt, Heidis Abhängigkeit und Rückkehrmotiv verglichen werden. Elf Werbesekunden bilden diese Handlungskette nicht ab.",
+    "title": "Im Duett zusammen – noch nicht im Einklang",
+    "where": "Ralph Senenskys Regiebericht, Abschnitt unmittelbar nach dem fünften eingebetteten Clip: getrennt aufgenommene Gesangspartien und «Amen».",
+    "material": "Senensky berichtet von getrennten Aufnahmen des Duetts. Der Schnitt brachte Heidi und den Grossvater rhythmisch nicht völlig zusammen. Der Regisseur akzeptierte dies als Ausdruck ihrer Uneinigkeit; beim «Amen» seien sie vereint.",
+    "action": "Klopfe zwei leicht versetzte Rhythmen und führe sie erst bei einem gemeinsamen Schlusswort zusammen. Übertrage den Unterschied auf Heidis Verhältnis zum Grossvater in der beschriebenen Nummer.",
+    "question": "Warum kann der zunächst erwogene technische «Fehler» hier dramaturgisch nützlicher sein als perfekter Gleichklang? Was verändert das gemeinsame Schlusswort an der Beziehung?",
+    "answer": "Versetzter Gesang lässt gemeinsame Anwesenheit und fehlende Übereinstimmung gleichzeitig hörbar werden. Das gemeinsame Schlusswort schafft einen begrenzten Moment der Verbindung. Die Deutung ist in Senenskys rückblickendem Bericht verankert; sie beweist nicht, dass jedes Publikum sie bemerkt.",
     "facets": [
       {
-        "label": "Ort und Funktion",
+        "label": "Versetzte Stimmen",
         "terms": [
-          "new york",
-          "frankfurt",
-          "funktion",
-          "haushalt",
-          "beziehung"
+          "versetzt",
+          "asynchron",
+          "rhythmus",
+          "auseinander",
+          "uneinig",
+          "gleichklang"
         ],
-        "hint": "Was müsste ausser dem Stadtnamen übereinstimmen, damit «vollständig» stimmt?",
-        "follow": "Nenne eine soziale Beziehung, die der Ortsname allein nicht erklärt."
+        "hint": "Was bleibt gemeinsam, obwohl die Einsätze nicht zusammenfallen?",
+        "follow": "Erkläre, warum perfekte Synchronität gerade den Beziehungskonflikt verdecken könnte."
       },
       {
-        "label": "Werbeumfang",
+        "label": "Punktuelle Einigung",
         "terms": [
-          "elf",
-          "11",
-          "sekunden",
-          "promo",
-          "werbung",
-          "ausschnitt"
+          "amen",
+          "schlusswort",
+          "gebet",
+          "vereint",
+          "einigung",
+          "zusammen"
         ],
-        "hint": "Wie viel Erzählzeit ist im Zugang tatsächlich verfügbar?",
-        "follow": "Halte deinen Clipbefund kleiner als die Behauptung über den ganzen Film."
+        "hint": "An welcher Stelle deines Klopfversuchs treffen die Rhythmen zusammen?",
+        "follow": "Warum kann ein gemeinsames Schlusswort Verbindung anbieten, ohne jede vorherige Differenz rückwirkend zu löschen?"
       }
     ],
     "refs": [
       "archive_1978new"
-    ]
+    ],
+    "revision": 2
   },
   "film-1982song": {
     "id": "film-1982song",
-    "title": "Sechzehn Lieder verändern die Erzählzeit",
-    "where": "AFI-Angabe zu Heidi’s Song und der eingebettete offizielle Filmausschnitt.",
-    "material": "Der fertige Hanna-Barbera-Film von 1982 enthält laut AFI sechzehn Lieder. Damit gehört das Singen zur Gesamtanlage und ist nicht nur eine einzelne Zugabe.",
-    "action": "Höre den Ausschnitt einmal mit Bild und einmal ohne Bild. Notiere eine Information oder Stimmung, die der Gesang trägt; halte daneben fest, ob diese beim stummen Sehen verständlich bleibt.",
-    "question": "Warum kann ein Lied die Handlung zeitlich anhalten und dennoch die Beziehung zu einer Figur weiterentwickeln?",
-    "answer": "Ereignisfortschritt und Zugang zu einer Figur sind verschiedene Ebenen. Ein Lied kann eine bestehende Lage verlängern und gleichzeitig einen Wunsch, ein Gefühl oder eine Zugehörigkeit ausformen. Die Zahl sechzehn belegt den Umfang musikalischer Passagen, aber noch nicht die Funktion jedes einzelnen Lieds.",
+    "title": "Die Eule holt Hilfe, die Ziegen brechen das Fenster auf",
+    "where": "AFI-Synopse zu Heidi’s Song: Absatz nach der Entdeckung der Kätzchen, Keller und Befreiung.",
+    "material": "Rottenmeier sperrt Heidi nach dem Fund der Kätzchen in den Keller. Die Eule Hootie verständigt Peter in den Bergen. Peter, Spritz und weitere Ziegen öffnen gewaltsam das Kellerfenster und befreien Heidi. Klara entscheidet sich mitzureisen. Das ist eine Paraphrase der AFI-Synopse.",
+    "action": "Zeichne die Hilfskette Keller → Eule → Peter und Ziegen → Fenster → gemeinsame Abreise. Streiche probeweise die Eule: An welcher Stelle bricht die Kette, obwohl Peter helfen könnte?",
+    "question": "Wie verwandelt diese Tier-Helferkette Heidis Rückkehr in eine Befreiungsaktion? Was trägt Klaras Entscheidung zur Abreise bei, das ein blosses Gerettetwerden nicht leisten würde?",
+    "answer": "Tiere transportieren Wissen und ermöglichen die Flucht; sie sind Handlungsträger statt Landschaftsschmuck. Der Keller macht Heidis Lage zu einer äusseren Gefangenschaft. Klara schliesst sich aus eigenem Entschluss an: Die Befreiung führt zur gemeinsamen Bewegung der Kinder. Ohne Hooties Nachricht fehlt in dieser Kette die Verbindung zwischen Stadt und Bergen.",
     "facets": [
       {
-        "label": "Innere Entwicklung",
+        "label": "Wissen und Hilfe",
         "terms": [
-          "gefuehl",
-          "wunsch",
-          "stimmung",
-          "beziehung",
-          "inner",
-          "zugehoerigkeit"
+          "eule",
+          "hootie",
+          "nachricht",
+          "inform",
+          "verstaendig",
+          "hilfskette",
+          "wissen"
         ],
-        "hint": "Welche Information des Gesangs fehlt beim stummen Durchgang?",
-        "follow": "Erkläre ihre Bedeutung für die Figur, ohne dafür einen neuen Handlungsschritt erfinden zu müssen."
+        "hint": "Was weiss Peter erst durch Hootie, und warum genügt seine Hilfsbereitschaft vorher nicht?",
+        "follow": "Zeige die Stelle der Kette, an der ein Tier die Handlung ursächlich verändert."
       },
       {
-        "label": "Erzählzeit",
+        "label": "Klaras Entscheidung",
         "terms": [
-          "zeit",
-          "anhalten",
-          "pause",
-          "ereignis",
-          "handlung",
-          "lied"
+          "klara",
+          "entschluss",
+          "entscheidung",
+          "mitreisen",
+          "mitgehen",
+          "selbst",
+          "abreise"
         ],
-        "hint": "Geschieht während des Liedes etwas Neues, oder wird eine Situation länger erfahrbar?",
-        "follow": "Begründe den Unterschied zwischen äusserem Ereignis und verändertem Verständnis."
+        "hint": "Klara ist nicht die Person im Keller. Warum reist sie trotzdem mit?",
+        "follow": "Unterscheide Heidis Befreiung von Klaras eigenem Schritt in die gemeinsame Reise."
       }
     ],
     "refs": [
       "archive_1982song"
-    ]
+    ],
+    "revision": 2
   },
   "film-1987climb": {
     "id": "film-1987climb",
-    "title": "39 oder 45 Minuten: Welche Fassung?",
-    "where": "Apple-Laufzeitangabe und Vertriebsbeschreibung von Vision Video.",
-    "material": "Apple nennt 1987 und 39 Minuten; Vision Video nennt 45 Minuten. Der Vertrieb führt Heidi, Peter, Hans und einen Holzschnitzer und beschreibt eine christliche Erzählung.",
-    "action": "Schreibe einen gemeinsamen Archivdatensatz, der beide Laufzeiten mit ihrer Herkunft erhält. Formuliere daneben, welche Prüfung zwischen Schnittfassung und fehlerhafter Angabe unterscheiden könnte.",
-    "question": "Warum wäre «sechs Minuten religiöse Szenen wurden entfernt» keine zulässige Folgerung aus diesen Zahlen?",
-    "answer": "Die Differenz allein verrät weder den Inhalt noch die Ursache. Unterschiedliche Schnitte, Messweisen oder Katalogfehler wären erst zu prüfen. Eine Aussage über entfernte religiöse Szenen bräuchte einen Vergleich der Kopien oder einen entsprechenden Schnittnachweis.",
+    "title": "Die Vertriebsnachbarschaft macht Heidi zur Glaubenslektion",
+    "where": "Vision Video, Sommerkatalog 2011: Abschnitt Great Bible Discovery (6–12), drei Kurzbeschreibungen.",
+    "material": "Im selben Katalogblock stehen ein BMX-Konflikt mit dem Auftrag zur Feindesliebe, Climb a Tall Mountain mit Heidi, Peter, Hans und einem Holzschnitzer sowie eine Geschichte, die Gottes Liebe an die Stelle der Fäuste setzt.",
+    "action": "Schreibe zuerst eine Programmankündigung für Climb a Tall Mountain allein. Ergänze dann die beiden Nachbarfilme. Markiere das neue gemeinsame Deutungswort, das deine zweite Ankündigung bestimmt.",
+    "question": "Wie lenkt die Zusammenstellung die Erwartung an Heidis Konflikte, noch bevor eine Szene zu sehen ist? Was würde ein Publikum nach dieser Rahmung eher als gelungene Lösung erkennen: Sieg über einen Gegner oder veränderten Umgang mit ihm?",
+    "answer": "Die Nachbarschaft verbindet die Alpenhandlung mit Beispielen für Feindesliebe und Verzicht auf Gewalt. Dadurch wird eine Lösung als moralische Veränderung erwartbar. Das ist eine untersuchbare Entscheidung des Vertriebs und noch kein Beleg für jede einzelne Szene. Derselbe Film könnte in einem anderen Programm anders angekündigt werden.",
     "facets": [
       {
-        "label": "Quellenzuordnung",
+        "label": "Rahmung durch Nachbarn",
         "terms": [
-          "apple",
-          "vision",
-          "vertrieb",
-          "39",
-          "45"
+          "bmx",
+          "fäuste",
+          "faeuste",
+          "nachbar",
+          "programm",
+          "zusammenstellung"
         ],
-        "hint": "Ordne jede Laufzeit ihrer Quelle zu, statt eine davon stillschweigend zu wählen.",
-        "follow": "Bleibt dein Datensatz nachvollziehbar, wenn eine Quelle ihre Angabe später ändert?"
+        "hint": "Welche zwei anderen Konflikte stehen im selben Katalogblock?",
+        "follow": "Erkläre, welchen gemeinsamen Lösungsrahmen ihre Nachbarschaft anbietet."
       },
       {
-        "label": "Keine erfundene Kürzung",
+        "label": "Andere Erfolgsdefinition",
         "terms": [
-          "schnitt",
-          "kopie",
-          "vergleich",
-          "fehler",
-          "mess",
-          "unbelegt"
+          "vergebung",
+          "feindesliebe",
+          "umgang",
+          "liebe",
+          "sieg",
+          "gewaltverzicht"
         ],
-        "hint": "Welche Bilder wären nötig, um den Inhalt angeblich fehlender Minuten zu bestimmen?",
-        "follow": "Formuliere deine Erklärung als offene Möglichkeit, solange der Fassungsvergleich fehlt."
+        "hint": "Woran würde die Programmlogik erkennen lassen, dass eine Figur etwas gelernt hat?",
+        "follow": "Unterscheide äusseren Sieg von einer veränderten Beziehung zum Gegner."
       }
     ],
     "refs": [
-      "archive_1987climb",
-      "climbdate"
-    ]
+      "visioncatalog"
+    ],
+    "revision": 2
   },
   "film-1990courage": {
     "id": "film-1990courage",
@@ -895,45 +843,6 @@ const HeidiCases = {
       "archive_1995jetlag"
     ]
   },
-  "film-1998short": {
-    "id": "film-1998short",
-    "title": "Ein Regisseur, zwei Jahre, zwei Medien",
-    "where": "SRG nennt 1998; Swiss Films führt den Animationskurzfilm unter 1999. Gsponers Realfilm stammt von 2015.",
-    "material": "Der frühe Kurzfilm und der spätere lange Realfilm tragen denselben Titel und denselben Regienamen. Eine Kopie des Kurzfilms ist hier nicht verfügbar.",
-    "action": "Erstelle zwei getrennte Katalogzeilen. Bewahre beim Kurzfilm beide Jahresangaben mit Quelle; nenne beim zweiten Eintrag 2015 und Realfilm.",
-    "question": "Warum ist «Gsponer hat seine Heidi nur neu gedreht» durch diese Angaben nicht belegt?",
-    "answer": "Gleicher Titel und gleiche Regie beweisen keine identische Handlung oder Haltung. Kurzanimation und langer Realfilm sind verschiedene Werke; die widersprüchlichen Jahresangaben betreffen zusätzlich die Katalogisierung des ersten. Für eine Aussage über Wiederholung oder Veränderung wäre der Werkvergleich nötig.",
-    "facets": [
-      {
-        "label": "Werktrennung",
-        "terms": [
-          "kurzfilm",
-          "animation",
-          "realfilm",
-          "2015",
-          "zwei"
-        ],
-        "hint": "Welche Merkmale verhindern, dass die beiden Einträge zu einem einzigen Film verschmelzen?",
-        "follow": "Kann ein gemeinsamer Regiename eine Inhaltsgleichheit beweisen?"
-      },
-      {
-        "label": "Datierungsdifferenz",
-        "terms": [
-          "1998",
-          "1999",
-          "swiss",
-          "srg",
-          "datierung"
-        ],
-        "hint": "Welche Quelle trägt welches Jahr?",
-        "follow": "Lasse die Abweichung sichtbar, statt ohne zusätzlichen Nachweis ein «richtiges» Jahr zu wählen."
-      }
-    ],
-    "refs": [
-      "archive_1998short",
-      "gsponersrg"
-    ]
-  },
   "film-2001": {
     "id": "film-2001",
     "title": "Berlin ersetzt Frankfurt – das Netz verkürzt die Entfernung",
@@ -978,120 +887,126 @@ const HeidiCases = {
   },
   "film-2005": {
     "id": "film-2005",
-    "title": "Max von Sydow ist nicht die Stimme einer Zeichentrickfigur",
-    "where": "Besetzung des Realfilms von Paul Marcus und Produktionsangaben zum Animationsfilm von 2005.",
-    "material": "Im Realfilm spielen Emma Bolger, Max von Sydow, Geraldine Chaplin und Diana Rigg. Die gleichnamige Zeichentrickproduktion stammt von TV-Loonland, Nelvana und Telemagination.",
-    "action": "Repariere den Mischdatensatz: «Heidi, 2005; Zeichentrickfilm von Paul Marcus mit Emma Bolger.» Schreibe daraus zwei sauber getrennte Suchanfragen.",
-    "question": "Weshalb führt ein Vergleich unter der blossen Überschrift «Heidi 2005» zu einer unklaren Aussage über Schauspiel und gezeichnete Bewegung?",
-    "answer": "Jahr und Titel identifizieren die Werke hier nicht eindeutig. Paul Marcus und die genannten Darstellenden gehören zum Realfilm; die Firmenangaben identifizieren die andere Produktion. Erst nach dieser Trennung ist klar, ob körperliches Schauspiel oder Animation untersucht wird.",
+    "title": "Die Ziege an Heidis Seil, Peter im Hintergrund",
+    "where": "Covermotiv zum Realfilm mit Emma Bolger und Max von Sydow, unten eingeblendet.",
+    "material": "Heidi steht gross im Vordergrund und hält ein Seil zur Ziege. Der Grossvater steht hinter ihr. Peter ist als kleine Figur mit weiteren Tieren links hinten sichtbar. Heidi und der Grossvater blicken nach vorn.",
+    "action": "Verfolge das Seil von Heidis Händen zur Ziege. Vergleiche diese konkrete Verbindung mit dem Grössenunterschied zwischen Heidi und Peter. Halte Bildposition und Figurenrolle getrennt fest.",
+    "question": "Wie verbindet das Cover Heidis Vorrang mit alltäglicher Verantwortung, während Peter trotz seiner Beziehung zu den Ziegen an den Rand tritt? Warum darf diese Rangordnung nicht als messbarer Handlungsanteil im Film gelten?",
+    "answer": "Das Seil verknüpft Heidi mit einer praktischen Tätigkeit, die grosse Vordergrundfigur macht sie zugleich zum Blickzentrum. Peter bleibt als kleineres Element der Alpenwelt sichtbar. Die Komposition kann eine Hierarchie der Wiedererkennung anbieten, ohne die tatsächliche Verteilung von Entscheidungen, Szenen oder Redezeit zu zählen.",
     "facets": [
       {
-        "label": "Realfilm",
+        "label": "Seil als Beziehung",
         "terms": [
-          "marcus",
-          "bolger",
-          "sydow",
-          "realfilm",
-          "schauspiel"
+          "seil",
+          "ziege",
+          "hand",
+          "halten",
+          "verantwortung",
+          "taetigkeit"
         ],
-        "hint": "Welche Namen gehören zur Realfilmproduktion?",
-        "follow": "Formuliere die erste Suche so, dass der Zeichentrickfilm ausgeschlossen wird."
+        "hint": "Welche Figur verbindet das sichtbare Seil mit dem Tier?",
+        "follow": "Zeige, wie ein Gegenstand die grosse Hauptfigur über blosses Posieren hinaus charakterisiert."
       },
       {
-        "label": "Animationsproduktion",
+        "label": "Peter am Rand",
         "terms": [
-          "nelvana",
-          "loonland",
-          "telemagination",
-          "animation",
-          "zeichnung"
+          "peter",
+          "hintergrund",
+          "klein",
+          "rand",
+          "hierarchie",
+          "bildgroesse"
         ],
-        "hint": "Welche Firmen unterscheiden den anderen Film desselben Jahres?",
-        "follow": "Warum wäre eine Aussage über gezeichnete Bewegung im Marcus-Film ein Kategorienfehler?"
+        "hint": "Wo steht Peter relativ zu Heidi, und wie gross ist er dargestellt?",
+        "follow": "Unterscheide die Hierarchie des Covers von einer erst am Film zu prüfenden Verteilung von Handlungsmacht."
       }
     ],
     "refs": [
-      "marcus",
-      "archive_2005animation"
-    ]
+      "marcus"
+    ],
+    "revision": 2,
+    "materialImage": "2005"
   },
   "film-2005animation": {
     "id": "film-2005animation",
-    "title": "Ein Zeichentrickfilm ist noch keine Anime-Folge",
-    "where": "DFF-Nachweis zur Produktion mit deutschem Kinostart am 22. Dezember 2005.",
-    "material": "TV-Loonland, Nelvana und Telemagination produzierten diesen Zeichentrickfilm. Takahatas Alps no Shōjo Heidi ist eine Serie von 1974. Beide verwenden gezeichnete Figuren.",
-    "action": "Ergänze zum eingebetteten deutschen Trailer einen eindeutigen Herkunftssatz mit Jahr, Format und Produktionsfirmen.",
-    "question": "Warum reicht die Ähnlichkeit «Heidi als gezeichnetes Mädchen» nicht aus, um den Trailer als Ausschnitt aus Takahatas Serie zu beschriften?",
-    "answer": "Ein gemeinsamer Stoff und die Technik gezeichneter Figuren belegen keine gemeinsame Produktion. Jahr, Format und Firmen weisen die 2005er Kinoproduktion aus. Eine solche Unterscheidung muss der Stilanalyse vorausgehen, sonst werden Befunde dem falschen Werk zugeschrieben.",
+    "title": "Wer muss sich verändern, damit Heidi ankommt?",
+    "where": "DFF-Inhaltsangabe zum Zeichentrickfilm von Alan Simpson, Abschnitt «Inhalt».",
+    "material": "Die DFF-Beschreibung lässt Heidi sich zunächst unwohl fühlen. Peter wird ihr Freund. Danach gewinnt sie die Zuneigung des zurückgezogenen Grossvaters. Die Ankunft wird damit als Folge veränderter Beziehungen zusammengefasst.",
+    "action": "Ordne die drei Zustände «unwohl in fremder Umgebung», «Freundschaft mit Peter», «Zuneigung des Grossvaters» auf einer Linie. Schreibe darunter, bei wem jeweils eine Veränderung vorausgesetzt wird.",
+    "question": "Warum erzählt diese Zusammenfassung das Ankommen nicht bloss als Anpassung des Kindes? Welche zusätzliche Veränderung wird dem Grossvater zugemutet, wenn aus Unterbringung ein Zuhause werden soll?",
+    "answer": "Heidi muss eine neue Umgebung erschliessen, findet mit Peter aber auch eine Beziehung, die sie trägt. Die Zuneigung des Grossvaters verlangt zusätzlich, dass dessen Rückzug durchlässig wird. So erscheint Ankommen als wechselseitiger Prozess. Die knappe Inhaltsangabe belegt diese Gewichtung der Zusammenfassung, nicht die Dauer einzelner Szenen.",
     "facets": [
       {
-        "label": "Eigenständige Herkunft",
+        "label": "Stützende Freundschaft",
         "terms": [
-          "2005",
-          "loonland",
-          "nelvana",
-          "telemagination"
+          "peter",
+          "freundschaft",
+          "stuetze",
+          "beziehung",
+          "unterstuetzung"
         ],
-        "hint": "Welche Angaben gehören in deinen Herkunftssatz, damit er nur diesen Film bezeichnet?",
-        "follow": "Prüfe, ob der Satz noch mit einer Folge von 1974 verwechselt werden könnte."
+        "hint": "Welche Zwischenstation liegt in der Beschreibung zwischen Unwohlsein und der gewonnenen Zuneigung des Grossvaters?",
+        "follow": "Erkläre, wie diese Bindung das Kind entlasten kann, statt nur neue Anpassung zu verlangen."
       },
       {
-        "label": "Medium ist keine Identität",
+        "label": "Veränderung des Erwachsenen",
         "terms": [
-          "1974",
-          "serie",
-          "takahata",
-          "zeichnung",
-          "gezeichnet"
+          "grossvater",
+          "rueckzug",
+          "zuneigung",
+          "oeffnung",
+          "wechselseitig",
+          "erwachsen"
         ],
-        "hint": "Was haben die beiden Werke gemeinsam, ohne dadurch identisch zu werden?",
-        "follow": "Trenne Animation als Technik von einer bestimmten Animationsserie."
+        "hint": "Muss nur Heidi lernen, oder verändert sich auch die Zugänglichkeit des Grossvaters?",
+        "follow": "Benenne die Differenz zwischen einem erlaubten Aufenthalt in der Hütte und einer tragenden Beziehung."
       }
     ],
     "refs": [
-      "archive_2005animation",
-      "takahata"
-    ]
+      "archive_2005animation"
+    ],
+    "revision": 2
   },
   "film-2007teen": {
     "id": "film-2007teen",
-    "title": "2007 oder 2008: Ausstrahlung wandert",
-    "where": "Angaben zur Jugendserie Heidi & Co.; offizieller Teaser von 0:30.",
-    "material": "Die Schweizer Ausstrahlung begann 2007. Andere Märkte führten die Serie 2008. Schule und neue Freundschaften gehören zur modernisierten Lebenswelt.",
-    "action": "Beschrifte zwei Programmankündigungen: Schweizer Start und späterer Start in einem anderen Markt. Ergänze ein mögliches Schulproblem als ausdrücklich eigenen Entwurf.",
-    "question": "Warum belegt das zweite Jahr keine zweite Produktion – und welche wiederkehrende Institution kann hier Konflikte liefern, die ein einmaliger Ortswechsel allein nicht erzeugt?",
-    "answer": "Unterschiedliche Startjahre können zur Verbreitung desselben Werks gehören. Schule führt zugleich wiederkehrende Regeln, Gruppen und Begegnungen ein, an denen sich neue Folgen entzünden können. Der selbst erfundene Schulkonflikt ist eine Anwendung dieser Möglichkeit, kein behaupteter Episodeninhalt.",
+    "title": "Schule lässt sich nicht wie Frankfurt verlassen",
+    "where": "Produktionsbefund zur Jugendserie Heidi & Co.: Gegenwart, Schule und neue Freundschaften; abgegrenzter eigener Szenenentwurf.",
+    "material": "Der schulische Alltag stellt Gleichaltrige wiederholt zusammen. Im hier zu erprobenden Konflikt soll Heidi für Peter Partei ergreifen, würde damit aber eine neue Klassenfreundin öffentlich beschuldigen. Diese Situation ist ein eigener Versuch, keine behauptete Serienepisode.",
+    "action": "Schreibe zwei Äusserungen Heidis im Klassenzimmer: eine öffentlich vor allen, eine spätere unter vier Augen. Lasse beide Beziehungen nach dem Gespräch weiterbestehen; niemand darf einfach wegziehen.",
+    "question": "Welche Spannung entsteht, weil Heidi zugleich Loyalität zu Peter und einen Platz in der neuen Gruppe behalten möchte? Was kann das vertrauliche Gespräch lösen, das der öffentliche Satz verschärft?",
+    "answer": "Eine öffentliche Parteinahme verändert auch die Stellung vor der Gruppe. Unter vier Augen kann Heidi Gründe erfragen, ohne die andere Person sofort vor Publikum festzulegen. Das Experiment nutzt die wiederkehrende Schule: Die Beteiligten müssen einander weiterhin begegnen. Eine Lösung muss deshalb mit den Folgen für beide Bindungen rechnen.",
     "facets": [
       {
-        "label": "Markt und Datum",
+        "label": "Doppelte Loyalität",
         "terms": [
-          "markt",
-          "ausstrahlung",
-          "2007",
-          "2008",
-          "start",
-          "verbreitung"
+          "peter",
+          "loyalitaet",
+          "freundin",
+          "gruppe",
+          "zugehoerigkeit",
+          "partei"
         ],
-        "hint": "Worauf bezieht sich jedes der beiden Jahre?",
-        "follow": "Würde eine spätere Ausstrahlung andere Darstellende oder eine neue Herstellung erfordern?"
+        "hint": "Wen würde deine öffentliche Äusserung unterstützen, wen unter Druck setzen?",
+        "follow": "Zeige an deinen beiden Sätzen, warum eine einzige Beziehung hier nicht als Massstab genügt."
       },
       {
-        "label": "Schule als Konfliktraum",
+        "label": "Publikum und Fortsetzung",
         "terms": [
-          "schule",
+          "oeffentlich",
+          "vier augen",
+          "vertraulich",
           "klasse",
-          "freundschaft",
-          "gruppe",
-          "regel",
-          "wiederkehr"
+          "morgen",
+          "wiedersehen"
         ],
-        "hint": "Was an deinem Schulproblem könnte in weiteren Folgen erneut relevant werden?",
-        "follow": "Verbinde die Institution Schule mit der seriellen Wiederkehr von Beziehungen."
+        "hint": "Was verändert sich, wenn die Mitschülerinnen und Mitschüler zuhören?",
+        "follow": "Welche Folge deiner Äusserung muss Heidi beim nächsten Treffen noch tragen?"
       }
     ],
     "refs": [
       "archive_2007teen"
-    ]
+    ],
+    "revision": 2
   },
   "film-2008paws": {
     "id": "film-2008paws",
@@ -1176,82 +1091,87 @@ const HeidiCases = {
   },
   "film-2015cgi": {
     "id": "film-2015cgi",
-    "title": "39 plus 26 ist nicht ein einziger Kinobogen",
-    "where": "Studio-100-Katalog: erste Staffel 39, zweite Staffel 26 Folgen; jeweils etwa 22 Minuten.",
-    "material": "Die erste Staffel umfasst rechnerisch rund 858 Minuten, die zweite rund 572 Minuten. Die Zielgruppe wird mit fünf bis acht Jahren angegeben. Der Trailer ist 1:24 lang.",
-    "action": "Berechne die Gesamtdauer beider Staffeln. Entwirf anschliessend ein kleines Problem mit den Ziegen, das innerhalb einer Folge gelöst werden könnte, ohne Heidis ganzen Lebensweg abzuschliessen.",
-    "question": "Warum braucht ein solcher Serienumfang wiederholbar nutzbare Beziehungen und Orte statt nur eine immer weiter hinausgezögerte Rückkehr?",
-    "answer": "65 Folgen ergeben etwa 1430 Minuten. Wiederkehrende Orte und Beziehungen erlauben einzelne, begrenzte Probleme und neue Einstiege. Der Umfang macht solche Strukturen plausibel, beweist aber nicht jede Episodenhandlung. Das Ziegenproblem ist ein eigener Entwurf, kein Trailerbefund.",
+    "title": "Die Stadt als gemeinsamer Spielraum",
+    "where": "Studio-100-Werbemotiv zur CGI-Serie, unten eingeblendet: drei Figuren, Apfelkorb und verschneite Strasse.",
+    "material": "Im Vordergrund hebt Heidi einen Apfel; die mittlere Figur hält einen gefüllten Korb. Alle drei Gesichter erscheinen heiter. Hinter ihnen liegt eine städtische Strasse mit Fenstern, Passanten und einer Kutsche.",
+    "action": "Decke die Figuren ab und beschreibe nur die Strasse. Decke danach den Hintergrund ab und beschreibe die Gruppe. Führe beide Ebenen wieder zusammen: Welche Gegenstände und Gesten verbinden Stadt und Vergnügen?",
+    "question": "Wie widerspricht gerade dieses Werbemotiv dem pauschalen Schema «Alp bedeutet Freiheit, Stadt bedeutet Gefangenschaft»? Welche städtische Möglichkeit wird durch Apfel, Korb und gemeinsame Bewegung angeboten?",
+    "answer": "Das Motiv verbindet die Stadt mit gemeinsamer Aktivität und positiven Gesichtsausdrücken. Apfel und Korb geben der Gruppe einen Gegenstand; die Strasse erscheint als nutzbarer Aussenraum. Das widerlegt kein Heimweh im Serienverlauf, zeigt aber, dass städtische Bilder nicht notwendig nur Einschliessung anbieten.",
     "facets": [
       {
-        "label": "Umfang",
+        "label": "Stadt als Aussenraum",
         "terms": [
-          "1430",
-          "65",
-          "858",
-          "572",
-          "minuten",
-          "folgen"
+          "strasse",
+          "kutsche",
+          "fenster",
+          "passanten",
+          "aussenraum",
+          "stadt"
         ],
-        "hint": "Addiere 39 und 26 und multipliziere die Summe mit 22.",
-        "follow": "Trenne die verfügbare Serienzeit von der Dauer des kurzen Trailers."
+        "hint": "Welche Elemente identifizieren den Ort, nachdem die Figuren abgedeckt sind?",
+        "follow": "Unterscheide die hier sichtbare offene Strasse von einem verschlossenen Frankfurter Zimmer."
       },
       {
-        "label": "Episodenproblem",
+        "label": "Gemeinsame Aktivität",
         "terms": [
-          "ziege",
-          "episode",
-          "wiederkehr",
-          "beziehung",
-          "klein",
-          "loesung"
+          "apfel",
+          "korb",
+          "gruppe",
+          "gesicht",
+          "heiter",
+          "bewegung"
         ],
-        "hint": "Ist dein Ziegenproblem lösbar, ohne dass danach jede Heidi-Geschichte beendet wäre?",
-        "follow": "Zeige, welcher vertraute Ort oder welche Beziehung danach erneut verwendet werden kann."
+        "hint": "Was verbindet die Figuren miteinander und mit einer Tätigkeit?",
+        "follow": "Begründe den positiven Stadtbezug an diesen Details, ohne die ganze Serie für konfliktfrei zu erklären."
       }
     ],
     "refs": [
       "cgi"
-    ]
+    ],
+    "revision": 2,
+    "materialImage": "2015cgi"
   },
   "film-2017bienvenida": {
     "id": "film-2017bienvenida",
-    "title": "Willkommen: ein Titel baut eine neue Gruppe auf",
-    "where": "Mondo-TV-Produktionsbeschreibung zu Heidi, bienvenida a casa.",
-    "material": "Die für Nickelodeon entwickelte Serie verbindet den bekannten Heidi-Stoff mit neuen Figuren und moderner lateinamerikanischer Jugendunterhaltung. Der Titel begrüsst Heidi zu Hause.",
-    "action": "Übersetze den Titel. Entwirf eine kurze Begrüssung durch eine neue gleichaltrige Figur und kennzeichne den Text als eigene Szene.",
-    "question": "Was verändert sich an Heidis Ankommen, wenn Zugehörigkeit zuerst in einer Gruppe Gleichaltriger ausgehandelt wird statt ausschliesslich zwischen Kind und Grossvater?",
-    "answer": "Eine Gruppe Gleichaltriger eröffnet Anerkennung, Freundschaft und mögliche Konkurrenz innerhalb derselben Generation. Die Beziehung zum Grossvater wird dadurch nicht automatisch bedeutungslos, aber sie ist nicht mehr der einzige Zugang zur neuen Welt. Der Begrüssungsentwurf erprobt diese Verschiebung, ohne eine Originalszene zu behaupten.",
+    "title": "Pedro folgt Heidi: Die Stadt trennt die Freunde nicht mehr",
+    "where": "Interview mit Autorin Marcela Citterio in Licensing Italia, 20. März 2018: Antwort zu den Unterschieden gegenüber dem Original.",
+    "material": "Citterio erinnert sich an ihren Kindheitswunsch, Pedro möge Heidi nachreisen. In ihrer modernen Serie lässt sie ihn genau diese Reise unternehmen. Sie beschreibt die Änderung im Zusammenhang mit einer Erzählung für Teenager. Das Material ist ihre rückblickende Erklärung, keine einzelne Episode.",
+    "action": "Zeichne zwei Wege: Heidi fährt allein in die Stadt; danach folgt Pedro. Trage bei der zweiten Linie ein, welche vertraute Beziehung Heidi nun am neuen Ort weiterführen kann. Entwirf einen Konflikt, der erst durch Pedros Anwesenheit neben neuen Stadtfreundschaften entsteht, und kennzeichne ihn als eigene Möglichkeit.",
+    "question": "Wie verändert Pedros Nachreise die dramaturgische Funktion der Trennung zwischen Bergen und Stadt? Warum ermöglicht gerade diese Änderung fortlaufende Freundschaftskonflikte vor Ort?",
+    "answer": "Der Ortswechsel unterbricht die alte Freundschaft nicht mehr vollständig. Pedro verbindet beide Lebensräume und kann mit neuen Beziehungen in derselben Stadt zusammentreffen. Daraus lassen sich Konflikte um Loyalität entwickeln; der eigene Konfliktentwurf ist jedoch kein Beleg für eine ausgestrahlte Handlung. Die Autorin erklärt eine gezielte Änderung, nicht bloss einen Austausch von Kostümen.",
     "facets": [
       {
-        "label": "Neue Gruppe",
+        "label": "Überbrückte Trennung",
         "terms": [
-          "gleichaltrig",
-          "gruppe",
-          "freundschaft",
-          "anerkennung",
-          "konkurrenz",
-          "jugendlich"
+          "nachreise",
+          "nachreisen",
+          "folgt",
+          "pedro",
+          "verbindung",
+          "trennung",
+          "ortswechsel"
         ],
-        "hint": "Woran erkennt Heidi in deiner Begrüssung, ob die Gruppe sie aufnimmt?",
-        "follow": "Nenne eine Erwartung der Gruppe, die nicht einfach ein Befehl des Grossvaters ist."
+        "hint": "Welche alte Beziehung ist nach Pedros Reise auch in der Stadt unmittelbar verfügbar?",
+        "follow": "Erkläre, wie deine zweite Linie die Bedeutung des ersten Weges verändert."
       },
       {
-        "label": "Ankommen",
+        "label": "Neue Beziehungskonstellation",
         "terms": [
-          "willkommen",
-          "zuhause",
-          "ankommen",
-          "zugehoerigkeit",
-          "grossvater"
+          "loyalitaet",
+          "freundschaft",
+          "konkurrenz",
+          "neue freunde",
+          "alte",
+          "beziehung"
         ],
-        "hint": "Welches Versprechen macht «bienvenida a casa» an die Figur?",
-        "follow": "Verbinde dieses Versprechen mit einer konkreten sozialen Bedingung in deinem Entwurf."
+        "hint": "Was verändert sich, wenn Pedro und neue Bekannte Heidi gleichzeitig begegnen können?",
+        "follow": "Begründe deinen entworfenen Konflikt mit dieser Konstellation; kennzeichne ihn weiter als Entwurf."
       }
     ],
     "refs": [
-      "archive_2017bienvenida"
-    ]
+      "citteriointerview"
+    ],
+    "revision": 2
   },
   "film-2022": {
     "id": "film-2022",
@@ -1533,41 +1453,43 @@ const HeidiCases = {
   },
   "bild-1952": {
     "id": "bild-1952",
-    "title": "1953 auf einem Plakat für den Film von 1952",
-    "where": "US-Verleihplakat · Medaillon rechts unten am Porträt.",
-    "material": "Das Medaillon nennt einen Preis in Venedig 1953. Der Film erschien 1952. Oben verspricht der englische Werbetext den Übergang vom Geschichtenbuch zur Leinwand; Berge stehen hinter dem Porträt.",
-    "action": "Markiere das Preis-Medaillon. Verbinde sein Datum mit dem frühestmöglichen Zeitpunkt dieser Plakatgestaltung.",
-    "question": "Warum widerspricht die Zahl 1953 nicht dem Filmjahr 1952? Welche Autorität verleiht die nachträgliche Auszeichnung dem Werbeversprechen?",
-    "answer": "Ein Verleihplakat kann nach dem Filmstart entstehen oder verändert werden. Die aufgedruckte Auszeichnung liefert hier einen Zeitpunkt, vor dem diese Gestaltung nicht vorliegen kann. Das Medaillon wirbt mit externer Anerkennung; es ändert nicht rückwirkend das Herstellungsjahr.",
+    "title": "Ein Preis verspricht mehr als ein glückliches Kind",
+    "where": "US-Verleihplakat zu Heidi (1952): englische Werbezeile oben und venezianisches Preis-Medaillon rechts.",
+    "material": "Das grosse lächelnde Porträt und die Berge bieten eine gefällige Kinderwelt an. Die englische Zeile verspricht die Verwandlung des Geschichtenbuchs in Kinozauber. Das Medaillon setzt zusätzlich eine Festivalauszeichnung ein.",
+    "action": "Markiere das Medaillon. Decke es danach mit der Hand ab und lies das Plakat ohne dieses Zeichen. Notiere für beide Fassungen, wem die Behauptung der besonderen Qualität zugeschrieben wird.",
+    "question": "Warum benötigt die Werbung neben dem lächelnden Kind und dem Literaturversprechen noch die Auszeichnung? Welcher andere Grund, den Film ernst zu nehmen, wird damit einem erwachsenen Publikum angeboten?",
+    "answer": "Ohne Medaillon sprechen vor allem Motiv und Werbestimme des Verleihs. Die Auszeichnung stellt eine zusätzliche Instanz der Anerkennung daneben. Das kann den Film nicht nur als angenehme Kindergeschichte, sondern als kulturell legitimierten Kinobesuch anbieten. Ob ein bestimmtes Publikum dadurch überzeugt wurde, zeigt das Plakat nicht.",
     "facets": [
       {
-        "label": "Zwei Datierungen",
+        "label": "Zwei Sprecher der Werbung",
         "terms": [
-          "1952",
-          "1953",
-          "nachtraeglich",
-          "plakat",
-          "verleih"
+          "verleih",
+          "werbung",
+          "preis",
+          "festival",
+          "medaillon",
+          "instanz"
         ],
-        "hint": "Welches Datum gehört zum Film, welches zur genannten Auszeichnung?",
-        "follow": "Warum kann ein späteres Werbemittel einen früheren Film bewerben?"
+        "hint": "Wer verspricht Qualität vor und nach dem Abdecken des Medaillons?",
+        "follow": "Erkläre den Unterschied zwischen Eigenlob und dem Hinweis auf externe Anerkennung."
       },
       {
-        "label": "Auszeichnung als Werbung",
+        "label": "Erwachsene Adressierung",
         "terms": [
-          "preis",
-          "venedig",
-          "medaillon",
-          "auszeichnung",
-          "autoritaet",
-          "anerkennung"
+          "erwachsen",
+          "legitimation",
+          "kultur",
+          "literatur",
+          "anerkennung",
+          "kinobesuch"
         ],
-        "hint": "Welche Instanz wird durch das Medaillon zusätzlich zur Produktionsfirma aufgerufen?",
-        "follow": "Erkläre, was das Preissignal zum Bild der lächelnden Heidi hinzufügt."
+        "hint": "Welches Argument bietet das Preissignal jemandem, der nicht schon durch das lächelnde Mädchen gewonnen ist?",
+        "follow": "Verbinde die Auszeichnung mit der Entscheidung, einen Kinderstoff als ernstzunehmenden Film auszuwählen."
       }
     ],
     "refs": [],
-    "image": "1952"
+    "image": "1952",
+    "revision": 2
   },
   "bild-1974": {
     "id": "bild-1974",
@@ -1898,35 +1820,37 @@ const HeidiCases = {
   },
   "paar-1968-1978": {
     "id": "paar-1968-1978",
-    "title": "Ein Fernsehfilm und 26 Folgen",
-    "where": "NBC-Film 1968; SRF-Realserie 1978 mit elf Alp-, zehn Frankfurt- und fünf Rückkehrfolgen.",
-    "material": "Beide sind Realproduktionen für das Fernsehen. Die 1978er Serie gliedert den Ortswechsel in viele Folgen; die 1968er Fassung ist ein Film.",
-    "action": "Entwirf für Heidis erste Nacht auf der Alp zwei Anschlussmöglichkeiten: den unmittelbar nächsten Abschnitt eines Films und den Einstieg in eine neue Serienfolge.",
-    "question": "Warum wäre ein Unterschied im Verweilen beim Alltag hier eher am Format als am Gegensatz Realfilm–Animation zu prüfen?",
-    "answer": "Beide Produktionen arbeiten mit realen Darstellenden. Der Vergleich hält dieses Merkmal konstant und verändert insbesondere den zeitlichen Umfang. Ob eine konkrete Alltagsphase länger verweilt, muss dennoch an den Folgen beziehungsweise dem Film geprüft werden; Trailer und Vorspann reichen dafür nicht.",
+    "title": "Vor der Landschaft stehen oder miteinander handeln",
+    "where": "NBC/Getty-Porträt 1968 und RSI-Programmbild der Realserie 1978; beide Bilder werden unten gezeigt.",
+    "material": "1968 präsentiert sich Heidi frontal vor Bergen. Im 1978er Motiv halten Heidi und Peter einander an der Hand und sehen sich an. Untersucht diese beiden Werbebilder, nicht eine aus dem Fernsehformat abgeleitete Kameratheorie.",
+    "action": "Vergleiche zuerst die Richtung der Blicke, dann die Abstände zwischen den Figuren und dem Rand. Verdecke im zweiten Motiv Peter und prüfe, welche Beziehung dein Ausschnitt entfernt.",
+    "question": "Welche Art von Zugang zur Hauptfigur bietet das Einzelporträt, welche das Bild mit Peter? Wie verändert das Abdecken eines Gegenübers die Geschichte, die man einem stillen Bild zuschreibt?",
+    "answer": "Das Einzelporträt von 1968 stellt Heidi dem Publikum frontal vor. Im Motiv von 1978 verbinden Hände und wechselseitige Blicke Heidi mit Peter. Wird Peter verdeckt, verlieren ihr Blick und ihre ausgestreckte Hand das sichtbare Gegenüber. Aus der gemeinsam dargestellten Beziehung wird eine unvollständige Geste. Daraus folgt keine Aussage über sämtliche Einstellungen beider Produktionen.",
     "facets": [
       {
-        "label": "Gemeinsames Medium",
+        "label": "Adressat des Blicks",
         "terms": [
-          "real",
-          "darsteller",
-          "fernsehen"
+          "blick",
+          "frontal",
+          "publikum",
+          "kamera",
+          "gegenueber"
         ],
-        "hint": "Welches Herstellungsmerkmal teilen die beiden Fassungen?",
-        "follow": "Weshalb scheidet «weil die eine gezeichnet ist» als Erklärung aus?"
+        "hint": "Welcher Blick findet im Bild selbst ein Gegenüber, welcher richtet sich nach aussen?",
+        "follow": "Halte eine Blickrichtung fest, statt Nähe aus «Fernsehen» abzuleiten."
       },
       {
-        "label": "Format als Hypothese",
+        "label": "Entfernte Beziehung",
         "terms": [
-          "folge",
-          "serie",
-          "umfang",
-          "zeit",
-          "format",
-          "alltag"
+          "peter",
+          "abdecken",
+          "abstand",
+          "beziehung",
+          "einzelportraet",
+          "zweite"
         ],
-        "hint": "Was ermöglicht ein neuer Folgenbeginn für die Wiederaufnahme einer Situation?",
-        "follow": "Kennzeichne deine Anschlüsse als Entwürfe, nicht als rekonstruierte Szenen."
+        "hint": "Was verschwindet ausser einer Person, wenn du Peter verdeckst?",
+        "follow": "Zeige, wie sich damit die mögliche Beziehungsgeschichte des Motivs verändert."
       }
     ],
     "refs": [
@@ -1936,41 +1860,46 @@ const HeidiCases = {
     "pair": [
       "1968",
       "1978"
+    ],
+    "revision": 2,
+    "materialImages": [
+      "1968",
+      "1978"
     ]
   },
   "paar-1974-2015cgi": {
     "id": "paar-1974-2015cgi",
-    "title": "Ein Jahr begleiten oder 22 Minuten einsteigen?",
-    "where": "Takahatas Werkbericht und Studio-100-Formatangaben.",
-    "material": "Takahata beschreibt das längere Zusammenleben des Publikums mit Heidi als Anliegen. Studio 100 nennt für die CGI-Serie etwa 22 Minuten je Folge und eine Zielgruppe von fünf bis acht Jahren.",
-    "action": "Formuliere zwei verschiedene Prüfkriterien: emotionale Vertrautheit über viele Folgen und Verständlichkeit einer einzelnen Folge für neu Einsteigende.",
-    "question": "Warum darf aus Zielgruppenalter und Episodenlänge nicht unmittelbar folgen, die CGI-Serie sei weniger anspruchsvoll?",
-    "answer": "Die Angaben beschreiben Rahmenbedingungen, keine gemessene Komplexität. Langfristige Bindung und verständliche Episodeneinstiege sind unterschiedliche Gestaltungsprobleme. Ein Anspruchsvergleich bräuchte konkrete Konflikte und Formen beider Serien, nicht bloss Altersempfehlung oder Bildtechnik.",
+    "title": "Ziege melken, Äpfel tragen: zwei Formen von Zugehörigkeit",
+    "where": "Anime-Motiv 1974 mit Grossvater, Ziege und Eimer; CGI-Werbemotiv mit Apfelkorb in der Stadt.",
+    "material": "Im Anime-Motiv schaut Heidi beim Melken zu. Im CGI-Motiv hebt sie einen Apfel innerhalb einer heiteren Gruppe auf einer städtischen Strasse. Beide Bilder binden sie an eine konkrete Alltagstätigkeit.",
+    "action": "Verfolge im ersten Bild den Zusammenhang Ziege–Hände–Eimer und im zweiten Apfel–Hand–Korb. Beschreibe dann, wie Heidi jeweils an der Tätigkeit beteiligt ist.",
+    "question": "Worin unterscheidet sich Zugehörigkeit durch Zuschauen bei einem erfahrenen Erwachsenen von Zugehörigkeit durch eine gemeinsame Aktivität im städtischen Raum? Welche Bilder widersprechen einer Gleichsetzung von Ort und Beziehungsqualität?",
+    "answer": "Das Melkbild macht Können und beobachtendes Lernen zu einem möglichen Bindeglied. Das Stadtmotiv zeigt geteilte Aktivität und positive Gesten. Beide eröffnen Zugehörigkeit mit unterschiedlichen Rollen; weder ländlicher noch städtischer Raum garantiert allein eine gute Beziehung. Die Einzelbilder erlauben keine Rangliste der gesamten Serien.",
     "facets": [
       {
-        "label": "Zwei Kriterien",
+        "label": "Verschiedene Beteiligung",
         "terms": [
-          "vertrautheit",
-          "bindung",
-          "einsteigen",
-          "einstieg",
-          "einzelne",
-          "folge"
+          "melken",
+          "zuschauen",
+          "lernen",
+          "grossvater",
+          "eimer"
         ],
-        "hint": "Welche Leistung prüfst du über viele Folgen, welche innerhalb einer Folge?",
-        "follow": "Erkläre, warum diese Leistungen einander nicht ausschliessen."
+        "hint": "Was tut Heidi selbst, was überlässt sie im Anime-Motiv dem Grossvater?",
+        "follow": "Vergleiche diese Rolle mit der gehobenen Hand und dem Apfel im CGI-Motiv."
       },
       {
-        "label": "Keine Rangliste aus Metadaten",
+        "label": "Beziehung statt Ortsurteil",
         "terms": [
-          "alter",
-          "zielgruppe",
-          "anspruch",
-          "komplex",
-          "rahmen"
+          "apfel",
+          "korb",
+          "stadt",
+          "gruppe",
+          "zugehoerigkeit",
+          "gemeinsam"
         ],
-        "hint": "Welche konkrete Gestaltung wäre für ein Urteil über Anspruch nötig?",
-        "follow": "Vermeide, 3D-Technik oder Zielgruppenalter als fertiges Qualitätsurteil zu verwenden."
+        "hint": "Welche verbindende Aktivität ist mitten in der Stadt sichtbar?",
+        "follow": "Benenne den Gegenbeleg zum pauschalen Urteil, eine Stadt könne nur trennen."
       }
     ],
     "refs": [
@@ -1978,6 +1907,11 @@ const HeidiCases = {
       "cgi"
     ],
     "pair": [
+      "1974",
+      "2015cgi"
+    ],
+    "revision": 2,
+    "materialImages": [
       "1974",
       "2015cgi"
     ]
@@ -2198,4 +2132,10 @@ const HeidiCases = {
     ],
     "sourceTask": true
   }
+};
+
+const HeidiArchiveNotes = {
+  "1953bbc": "Die BBC-Produktion mit Julia Lockwood ist nachgewiesen. Eine für eine konkrete Szenenuntersuchung geprüfte Kopie oder ein ausreichend genauer Szenenbericht liegt hier nicht vor. Der Eintrag bleibt als Archivzugang erhalten; die frühere Jahreszahlenübung entfällt.",
+  "1974bbc": "Der externe Zugang zeigt den Anfang der Emma-Blake-Fassung. Für diesen Eintrag ist bislang keine hinreichend belegte Einzeluntersuchung redigiert. Video und Nachweise bleiben zugänglich; die bisherige Aufgabe zur blossen Unterscheidung von Realserie und Anime entfällt.",
+  "1998short": "Zum Gsponer-Kurzfilm sind Werk- und Datierungsnachweise vorhanden, aber kein hier geprüftes Filmfragment. Die frühere Katalogkorrektur wird nicht als vertiefte Filmanalyse weitergeführt. Die Nachweise bleiben zugänglich."
 };
