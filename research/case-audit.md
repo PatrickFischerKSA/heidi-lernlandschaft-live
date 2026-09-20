@@ -66,3 +66,6 @@ Fünf neue Fälle: Schulweg/Art. 27; Peters Arbeit/Geltungsbereich Fabrikgesetz;
 Erhaltungsprüfung gegen den Stand vor der Erweiterung: alle 60 bestehenden Aufgaben in sämtlichen Feldern identisch; alle 35 Filme und alle bestehenden Quellen identisch; clips.js und images.js bytegleich. Die neuen Bilder ergänzen den Bestand.
 
 Browserprüfung am lokalen Server: alle fünf Schweiz-Untersuchungen geöffnet, Antwort zum Schulweg mit beiden spezifischen Rückmeldungen geprüft, Aufgabenwechsel mit getrenntem Antwortfeld; vergrösserbare Bildquellen und Desktop-Layout geprüft.
+
+## Navigation in gewünschter Reihenfolge
+Schweiz um 1880 → Johanna Spyri → Zeitreise → Filmwelt → Schnittlabor → Bildspuren. Hauptnavigation, Startseiten-Kacheln und Bereichsnummern 01–06 synchronisiert. Browserprüfung: alle sechs Ziele samt aria-current und Nummerierung; Kempin-Unterseite markiert Spyri, Film-Direktlink markiert Filmwelt und öffnet den Dialog; Startseite visuell geprüft, keine JavaScript-Fehler im Test. Feedback-, Filmografie- und sämtliche 65 Aufgabenprüfungen bestanden. Inhaltsdateien unverändert.
