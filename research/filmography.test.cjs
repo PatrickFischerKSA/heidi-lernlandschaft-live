@@ -1,7 +1,7 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
 const c={console,URLSearchParams};c.window=c;vm.createContext(c);
-for(const file of ['content','filmography','clips','images','cases','feedback','explorer'])vm.runInContext(fs.readFileSync('dist/'+file+'.js','utf8'),c);
-const data=vm.runInContext('({films,sources,images,filmVariants,filmResearch,filmUpcoming,filmClips,filmClipGaps,HeidiCases,HeidiArchiveNotes})',c),E=c.HeidiExplorer;
+for(const file of ['content','filmography','clips','images','thumbnails','cases','feedback','explorer'])vm.runInContext(fs.readFileSync('dist/'+file+'.js','utf8'),c);
+const data=vm.runInContext('({films,sources,images,filmVariants,filmResearch,filmUpcoming,filmClips,filmClipGaps,filmThumbnails,HeidiCases,HeidiArchiveNotes})',c),E=c.HeidiExplorer;
 assert.equal(data.films.length,35);assert.equal(new Set(data.films.map(f=>f.id)).size,35);
 for(const f of data.films){assert.equal(f.compare.length,4);for(const r of f.refs)assert(data.sources[r],`${f.id}: ${r}`);for(const k of ['title','director','kind','facts','context'])assert(f[k]);if(data.HeidiCases['film-'+f.id]){for(const k of ['analysis','question','scene'])assert(f[k]);}else assert(data.HeidiArchiveNotes[f.id]);if(f.video)assert(fs.existsSync('dist/'+f.video));}
 for(const i of data.images)if(i.path)assert(fs.existsSync('dist/'+i.path));
@@ -15,5 +15,8 @@ assert.deepEqual(Array.from(E.moveItem(['a','b','c'],'b',-1)),['b','a','c']);ass
 assert.deepEqual(Array.from(E.togglePair(['1937','1974'],'2015')),['1974','2015']);assert.deepEqual(Array.from(E.togglePair(['1937','2015'],'1937')),['2015']);
 for(const s of E.segments){assert(fs.existsSync('dist/media/montage/'+s.id+'.mp4'));assert(fs.existsSync('dist/media/montage/'+s.id+'.jpg'));}
 assert.equal(E.esc('<img onerror="x">'),'&lt;img onerror=&quot;x&quot;&gt;');
-const index=fs.readFileSync('dist/index.html','utf8');for(const script of ['content','filmography','clips','images','cases','feedback','explorer','cases','case-feedback','app'])assert(index.includes(script+'.js'));
+const index=fs.readFileSync('dist/index.html','utf8');for(const script of ['content','filmography','clips','images','thumbnails','cases','feedback','explorer','cases','case-feedback','app'])assert(index.includes(script+'.js'));
 console.log('35 Archiveinträge, 31 Videozugänge, alle Quellen/Bilder, Filter, Zeitgrenzen, Vergleichsauswahl, Montage-Reihenfolge und offene Rückmeldung geprüft.');
+
+assert.equal(Object.keys(data.filmThumbnails).length,31);
+for(const [id,t] of Object.entries(data.filmThumbnails)){assert(data.films.some(f=>f.id===id));assert(fs.existsSync('dist/'+t.path));assert(t.caption&&t.source&&t.credit&&t.kind);assert(fs.statSync('dist/'+t.path).size>2000);}

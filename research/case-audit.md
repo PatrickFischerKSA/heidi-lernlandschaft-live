@@ -39,3 +39,11 @@ Die übrigen 33 Fälle wurden auf Materialbindung und unverwechselbare Fragestel
 Neue Quellen: AFI-Synopse Heidi’s Song; öffentliches Abstract Michael Lawrence (Adaptation 5/1); Marcela Citterio im Interview bei Licensing Italia; Ralph Senenskys eigener Produktionsbericht; DFF/filmportal zu 1965 und 2005 Animation; IMDb-Episodenverzeichnis 1959; OpenLibrary zu Tritten; Vision Video MC11. URLs in `dist/content.js` und Arbeitsheft. Aussagen aus Sekundärsynopsen bleiben als solche bezeichnet.
 
 Materialbilder werden unmittelbar bei der Aufgabe angezeigt. Revisionierte Aufgaben verwenden separate Entwurfsschlüssel; ältere Antworten bleiben gespeichert, werden aber nicht als Antwort auf die neue Frage ausgegeben. Arbeitsheft und Filmografie werden mit `research/build-case-exports.cjs` aus den redigierten Fällen aktualisiert.
+
+## Filmkarten · Bildrevision
+
+31 lokale WebP-Vorschaubilder ersetzen die typografischen Ersatzposter. Drei neue Browserscreenshots (1978 New Adventures 00:03, Heidi’s Song 00:46, Climb a Tall Mountain 04:15) und zwei direkt extrahierte Filmframes (1920 01:25, 2005 Animation 00:25); 26 gesichtete, zum jeweiligen Clip gehörende Plattform-Vorschaubilder. Die letzten 26 sind ausdrücklich nicht als neu aufgenommene Screenshots bezeichnet. Zeitangaben der drei Screenshots beziehen sich auf die verlinkten Uploads; Climb 04:15 liegt im vollständigen Quellenupload ausserhalb der eingebetteten Drei-Minuten-Auswahl. Kein Wasserzeichen entfernt. Alle 31 Bilder als Kontaktbogen visuell kontrolliert. Quellen und Bildarten: `research/thumbnail-sources.json`, auch im Filmografie-Download.
+
+Vier Einträge ohne verfügbares geprüftes Standbild (1953 BBC, 1954 BBC, 1959 BBC, 1998/99 Kurzfilm) werden als kompakte Archivzeilen unterhalb der Galerie angezeigt. Keine fremde Verfilmung und keine erfundene Szene als Ersatz. Alle 35 Einträge bleiben suchbar, vergleichbar und erreichbar. Die früheren Materialbilder der Einzelaufgaben bleiben unverändert.
+
+Browserprüfung: 31 Bildkarten, 4 Archivzeilen, 0 typografische Platzhalter. BBC-Suche liefert 1 bebilderten und 3 Archivtreffer. Archivdialog, neuer Playerhintergrund und Bildnachweis geprüft. Desktop und 390px-Mobilansicht visuell kontrolliert.
