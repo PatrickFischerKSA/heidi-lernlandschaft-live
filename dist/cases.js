@@ -2356,54 +2356,57 @@ const HeidiCases = {
   },
   "spyri-erzaehlen": {
     "id": "spyri-erzaehlen",
-    "title": "Der Alm-Öhi: Dorfgerücht gegen erzählte Erinnerung",
-    "where": "Sonja Klimek, gedruckte S. 49–51, PDF-Seiten 55–57 in Heidiundmehr.",
-    "material": "Am Romananfang berichten Dete und Barbel abwertend über den Grossvater. Später zeigt die Erzählung seine Erinnerung an die Pflege eines verwundeten Hauptmanns in Sizilien.",
-    "action": "Lies beide Belegkarten. Schreibe zu jeder dazu, wer Auskunft gibt. Formuliere anschliessend den ersten Eindruck des Grossvaters neu, ohne Detes Gerücht als Erzählerwissen zu übernehmen.",
-    "question": "Wie korrigiert Spyri das anfängliche Bild des Grossvaters durch einen Wechsel der Informationsquelle? Warum ist das mehr als eine Geschichte über ein Kind, das einen mürrischen Alten aufheitert?",
-    "answer": "Figurenrede vermittelt zunächst ein belastendes Dorfbild. Die später erzählte Erinnerung macht seine Fürsorge aus einer anderen Perspektive zugänglich und stellt das Gerücht infrage. Damit besitzt der Erwachsene eine eigene Geschichte von sozialer Ausgrenzung und Wiederannäherung. Klimeks Lesart zeigt eine zusätzliche Adresse an erwachsene Leserinnen und Leser.",
+    "title": "Der Alm-Öhi: Dorfgerücht gegen beobachtete Fürsorge",
+    "where": "Heidis Lehr- und Wanderjahre, Kapitel 1 «Zum Alm-Öhi hinauf» und Kapitel 2 «Beim Grossvater». Ergänzend Klimeks Einordnung der Figurenrede, gedruckte S. 49–50 / PDF 55–56.",
+    "material": "Dete und Barbel entwerfen beim Aufstieg ein bedrohliches Bild des Grossvaters. Im folgenden Kapitel erlebt Heidi selbst, wie er sie aufnimmt, ihr beim Einrichten des Schlafplatzes hilft und sie mit Essen versorgt.",
+    "action": "Notiere zuerst eine abwertende Aussage aus Detes und Barbels Gespräch samt Sprecherin. Stelle ihr eine konkrete Handlung des Grossvaters aus Kapitel 2 gegenüber. Unterscheide dabei, was über ihn behauptet und was in der Hütte erzählt wird.",
+    "question": "Wie verändert das Einrichten von Heidis Schlafplatz das Bild des Grossvaters aus Detes und Barbels Gespräch? Erkläre, weshalb seine Fürsorge die pauschale Verurteilung fragwürdig macht, aber Gerüchte über seine Vergangenheit weder beweist noch widerlegt.",
+    "answer": "Barbel fürchtet, das kleine Kind werde es beim Öhi nicht aushalten; Dete gibt belastende Berichte über seine Vergangenheit weiter. In Kapitel 2 darf Heidi ihren Schlafplatz wählen. Der Grossvater bringt ein Leintuch und hilft, das Heulager so herzurichten, dass das Kind bequem liegt. Die konkret erzählte Aufmerksamkeit widerspricht dem einseitigen Bild eines bloss bedrohlichen Menschen. Sie entscheidet aber nicht darüber, ob die früher behaupteten Taten stattgefunden haben. Figurenurteil und erzählte Handlung sind unterschiedliche Informationsquellen; ein fürsorglicher Augenblick ist kein Beweis für eine gesamte Biografie.",
     "facets": [
       {
-        "label": "Quelle der Information",
+        "label": "Figurenrede und begrenztes Wissen",
         "terms": [
           "dete",
           "barbel",
           "geruecht",
           "figurenrede",
-          "dorfklatsch"
+          "dorfklatsch",
+          "behaupt"
         ],
-        "hint": "Wer erzählt am Anfang über ihn – und weiss diese Person alles?",
-        "follow": "Trenne das Urteil der Dorffiguren von verlässlichem Erzählerwissen."
+        "hint": "Wer äussert das abschätzige Urteil, und welche Grenzen ihres Wissens nennt Dete selbst?",
+        "follow": "Kennzeichne eine Behauptung als Aussage einer Figur, statt sie der Erzählinstanz zuzuschreiben."
       },
       {
-        "label": "Erinnerte Fürsorge",
+        "label": "Fürsorge am Schlafplatz",
         "terms": [
-          "erinnerung",
-          "hauptmann",
-          "pflege",
-          "sizilien",
-          "fuer­sorge",
-          "erwachsen",
-          "fuersorge"
+          "schlafplatz",
+          "heuboden",
+          "heulager",
+          "leintuch",
+          "lager",
+          "fuersorge",
+          "fuersorg"
         ],
-        "hint": "Welche frühere Handlung erscheint in seiner späteren Erinnerung?",
-        "follow": "Zeige, wie diese Handlung den ersten Eindruck korrigiert und ihm eine eigene Geschichte gibt."
+        "hint": "Was tut der Grossvater, nachdem Heidi den Heuboden als Schlafplatz gewählt hat?",
+        "follow": "Erkläre an dieser Handlung die Korrektur des ersten Eindrucks und die Grenze ihrer Aussagekraft über seine Vergangenheit."
       }
     ],
     "evidence": [
       [
-        "Die fremde Stimme · PDF 55–56",
-        "Dete und Barbel tauschen die belastende Vorgeschichte des Alm-Öhis aus. Klimek betont: Das ist Dorfklatsch innerhalb der Figurenrede."
+        "Das Urteil anderer · Band 1, Kapitel 1",
+        "Barbel bezweifelt, dass Heidi beim Grossvater bleiben könne. Dete erzählt seine Vorgeschichte, obwohl sie ausdrücklich nicht weiss, wie er als junger Mann war. Bei den Vorwürfen der Desertion und des Totschlags beruft sie sich auf das, was man sagte."
       ],
       [
-        "Die erinnerte Tat · PDF 57",
-        "Bei Klaras Pflege denkt der Grossvater an den verwundeten Hauptmann, den er in Sizilien versorgt hatte. Nun wird seine eigene Erinnerung erzählt."
+        "Der Schlafplatz · Band 1, Kapitel 2",
+        "Heidi wählt den Heuboden. Der Grossvater bringt ein Leintuch, ergänzt das Heu und hilft beim Herrichten des Lagers. Heidis Wünsche und sein praktisches Handeln werden in derselben Szene sichtbar."
       ]
     ],
     "refs": [
+      "chroman1",
       "klimek"
     ],
-    "room": "spyri"
+    "room": "spyri",
+    "revision": "band1-2026-09-21"
   },
   "spyri-kempin-tante": {
     "id": "spyri-kempin-tante",
@@ -2784,46 +2787,45 @@ const HeidiCases = {
   "schweiz-migration": {
     "id": "schweiz-migration",
     "room": "schweiz",
-    "title": "Dete reist zur Arbeit – Klara reist zur Erholung",
-    "where": "Band 1, Kapitel 1 «Zum Alm-Öhi hinauf» und Kapitel 5; Band 2, Kapitel 6 «Die fernen Freunde regen sich». HLS «Auswanderung», Abschnitt zum 19. Jahrhundert.",
-    "material": "Reisen in entgegengesetzten Richtungen: Dete sucht eine Arbeitsmöglichkeit ausserhalb der Schweiz; Klara und ihre Grossmutter kommen als versorgte Gäste in die Berge. Das historische Umfeld erklärt Möglichkeiten und Zwänge, aber nicht automatisch Detes individuelles Motiv.",
-    "action": "Schreibe zwei gerichtete Reisezeilen: «Dete: Schweiz → …, Zweck …» und «Klara: Frankfurt → …, Zweck …». Ergänze unter jede Zeile, wer Versorgung oder Betreuung organisiert. Lies danach die Auswanderungskarte und korrigiere die Überschrift «Alle verlassen die arme Schweiz».",
-    "question": "Was wird sichtbar, wenn Detes Weg und Klaras Besuch gleichzeitig auf derselben Karte stehen? Warum erklären die Auswanderungskrisen der 1870er und 1880er Jahre ein Umfeld, aber noch nicht Detes einzelne Entscheidung?",
-    "answer": "Dete nutzt grenzüberschreitende Erwerbsmöglichkeiten, während Klara mit familiärer Unterstützung und organisiertem Transport die Berge besucht. Dieselbe Schweiz ist Herkunftsort von Arbeitsmigration und Ziel wohlhabender Reisender. Das HLS nennt Agrarkrisen als einen Antrieb der Auswanderung; daraus folgt nicht, dass jede reisende Person aus demselben Grund geht oder dass Dete eine bäuerliche Existenz verloren hätte. Der Vergleich macht Unterschiede in Zweck, Mitteln und Entscheidungsspielraum sichtbar. Auch Heidis mitorganisierter Ortswechsel ist nicht mit Detes Erwerbsreise gleichzusetzen.",
+    "title": "Dete sucht Arbeit – Heidi kehrt heim",
+    "where": "Heidis Lehr- und Wanderjahre, Kapitel 1 «Zum Alm-Öhi hinauf», Kapitel 12 «Im Hause Sesemann spukt’s» und Kapitel 13 «Am Sommerabend die Alm hinan». HLS «Auswanderung», Abschnitt zum 19. Jahrhundert.",
+    "material": "Dete möchte eine gut bezahlte Stelle in Frankfurt antreten. Heidis spätere Rückreise in die Schweiz wird nach der ärztlichen Untersuchung organisiert. Zwei grenzüberschreitende Wege haben unterschiedliche Gründe und Entscheidungsträger.",
+    "action": "Zeichne zwei Reisezeilen: «Dete: Schweiz → Frankfurt» und «Heidi: Frankfurt → Schweiz». Ergänze jeweils Anlass und beteiligte Erwachsene. Vergleiche dann Detes ausdrücklich genannten Verdienst mit der allgemeinen Auswanderungsgeschichte.",
+    "question": "Warum bedeutet der Weg über die Grenze für Dete eine berufliche Möglichkeit, für Heidi bei ihrer Rückkehr dagegen Hilfe aus einer gesundheitlichen Notlage? Zeige an den entscheidenden Erwachsenen, wie unterschiedlich die beiden Reisen zustande kommen. Was erklärt die allgemeine Agrarkrise über Dete noch nicht?",
+    "answer": "Dete nennt den besonders guten Dienst in Frankfurt als Chance und organisiert dafür Heidis Betreuung beim Grossvater. Heidis Rückreise folgt dagegen auf das entdeckte Schlafwandeln und die ärztliche Einschätzung ihres Heimwehs. Der Doktor drängt zur Heimkehr, Herr Sesemann veranlasst die Reise und Sebastian begleitet das Kind. Heidi wünscht die Rückkehr, ist bei ihrer Durchführung aber von Erwachsenen abhängig. Arbeitsmigration und die Rückführung eines leidenden Kindes sind somit verschiedene Bewegungen. Das HLS erklärt ein historisches Umfeld von Auswanderung; es belegt nicht, dass Dete wegen einer verlorenen bäuerlichen Existenz abreist.",
     "evidence": [
       [
-        "Detes Bewegung · Roman Band 1",
-        "Dete bringt Heidi zum Grossvater, um eine Stelle in Frankfurt anzutreten. Später vermittelt sie Heidi in den Haushalt Sesemann. Eigene Erwerbsarbeit und die Organisation fremder Betreuung greifen ineinander."
+        "Detes Entscheidung · Band 1, Kapitel 1",
+        "Dete hat als Zimmermädchen in Ragaz gearbeitet. Eine Frankfurter Herrschaft bietet ihr eine Stelle an. Sie möchte diesen Verdienst wahrnehmen und übergibt Heidi deshalb dem Grossvater."
       ],
       [
-        "Klaras Bewegung · Roman Band 2",
-        "Klara kommt mit ihrer Grossmutter in die Schweiz. Für den Weg zur Alp werden Träger, ein Pferd und weiteres Personal eingesetzt. Der Besuch beruht auf organisierter Versorgung."
+        "Heidis Rückkehr · Band 1, Kapitel 12–13",
+        "Der Doktor erkennt hinter dem vermeintlichen Spuk Heidis Schlafwandeln und erfährt von ihrem Heimweh. Er fordert die Rückkehr in die Berge. Herr Sesemann organisiert die Abreise; Sebastian begleitet Heidi in die Schweiz."
       ],
       [
         "Das Umfeld · 1870er und 1880er Jahre",
-        "Das HLS verbindet die damaligen Agrarkrisen mit Auswanderung nach Amerika und in europäische Nachbarländer. Es beschreibt verschiedene Wanderungsformen; erst 1888–1900 verschiebt sich die Bilanz zugunsten der Einwanderung."
+        "Das HLS verbindet die damaligen Agrarkrisen mit Auswanderung nach Amerika und in europäische Nachbarländer. Diese allgemeine Entwicklung ersetzt keinen Beleg für die persönliche wirtschaftliche Vorgeschichte einer Romanfigur."
       ]
     ],
     "refs": [
       "chroman1",
-      "chroman2",
       "chauswanderung"
     ],
     "facets": [
       {
-        "label": "Ungleiche Reisemöglichkeiten",
+        "label": "Erwerbsreise und organisierte Heimkehr",
         "terms": [
           "arbeit",
           "erwerb",
           "stelle",
-          "erholung",
-          "traeger",
-          "betreuung",
-          "versorgung",
-          "wohlhab"
+          "verdienst",
+          "heimweh",
+          "doktor",
+          "sesemann",
+          "sebastian"
         ],
-        "hint": "Was unterscheidet den Zweck und die Versorgung der beiden Reisen?",
-        "follow": "Stelle die Richtungen und die verfügbaren Mittel ausdrücklich nebeneinander."
+        "hint": "Wer entscheidet über Detes Stelle, und wer ermöglicht Heidis Heimreise?",
+        "follow": "Vergleiche die Gründe und den Entscheidungsspielraum, statt beide Wege als dieselbe Form von Auswanderung zu behandeln."
       },
       {
         "label": "Kontext ist keine Einzelursache",
@@ -2840,66 +2842,67 @@ const HeidiCases = {
         "hint": "Welche persönliche Vorgeschichte Detes ist durch eine allgemeine Migrationsgeschichte nicht nachgewiesen?",
         "follow": "Benenne die Grenze zwischen historischem Umfeld und der Erklärung einer Romanfigur."
       }
-    ]
+    ],
+    "revision": "band1-2026-09-21"
   },
   "schweiz-tourismus": {
     "id": "schweiz-tourismus",
     "room": "schweiz",
-    "title": "Wer bringt Klara hinauf – und wer die Gäste auf die Rigi?",
-    "where": "Band 2, Kapitel 6 «Die fernen Freunde regen sich»: Ankunftszug auf der Alp. Foto der Vitznau-Rigi-Bahn auf der Schnurtobelbrücke, um 1875, Verkehrshaus VA-58261.",
-    "material": "Das historische Bild zeigt eine andere Bergregion als Heidis Alp. Die Rigi-Bahn wird 1871 eröffnet, vor den Heidi-Bänden. Verglichen werden Formen der Erschliessung; der Roman erzählt keine Rigi-Reise.",
-    "action": "Öffne das Foto gross. Suche den Menschen auf dem Steg vor dem Zug und die Zahnstange zwischen den Schienen. Stelle diesen beiden Details zwei Tätigkeiten aus Klaras Ankunftszug gegenüber. Schreibe dann eine neue Bildlegende, die neben der Aussicht auch Arbeit und Technik benennt.",
-    "question": "Wie verändert sich das Bild einer «unberührten Bergwelt», wenn Klaras Träger und die technischen Einrichtungen der Rigi-Bahn sichtbar bleiben? Weshalb kann Heidi nicht als Ursprung des Schweizer Bergtourismus gelten?",
-    "answer": "Klaras Aufenthalt setzt die Arbeit von Trägern, Führer und weiterem Personal voraus. Im Rigi-Bild erschliessen Brücke, Gleis und Zahnstange das Gelände; ein vorausgehender Zugsläufer gehört zur Sicherung. Naturerlebnis wird durch Arbeit und Technik ermöglicht. Die Bahn eröffnet 1871, Heidi erscheint 1880/81: Bergtourismus ist bereits vorhanden. Der Roman kann spätere Bergbilder prägen, er begründet aber nicht diese frühere Infrastruktur. Weder zeigt die Aufnahme Maienfeld noch darf die Rigi-Bahn in die Romanhandlung hineingelesen werden.",
+    "title": "Detes Hotelarbeit und die Gäste auf der Rigi",
+    "where": "Heidis Lehr- und Wanderjahre, Kapitel 1: Detes Arbeit im Hotel in Ragaz und ihr Kontakt zur Frankfurter Herrschaft. Foto der Vitznau-Rigi-Bahn auf der Schnurtobelbrücke, um 1875, Verkehrshaus VA-58261.",
+    "material": "Bereits der Romananfang nennt den Kurbetrieb in Ragaz: Dete arbeitet im Hotel und versorgt die Zimmer einer reisenden Herrschaft. Das Rigi-Foto zeigt eine andere Region und eine andere Voraussetzung des Fremdenverkehrs: technische Erschliessung.",
+    "action": "Lies Detes Bericht über die Frankfurter Herrschaft und benenne ihre Arbeit als Zimmermädchen. Suche auf dem vergrösserten Rigi-Foto den Menschen auf dem Steg und die Zahnstange zwischen den Schienen. Formuliere eine Bildlegende, die Arbeit und Technik hinter dem Aufenthalt der Gäste sichtbar macht.",
+    "question": "Welche Voraussetzungen des Fremdenverkehrs machen Detes Hotelarbeit in Ragaz und das Rigi-Foto sichtbar? Erkläre, warum der Roman schon in Kapitel 1 keine wirtschaftlich abgeschlossene Bergwelt zeigt und weshalb Heidi nicht als Ursprung des Schweizer Bergtourismus gelten kann.",
+    "answer": "Dete verdient im Hotel in Ragaz Geld mit der Versorgung von Gästezimmern. Der Kontakt zu einer Frankfurter Herrschaft eröffnet ihr eine neue Stelle: Der Fremdenverkehr verbindet Dienstleistungsarbeit und grenzüberschreitende Beziehungen. Auf dem Rigi-Foto ermöglichen Brücke, Gleis und Zahnstange die Fahrt; der Zugsläufer gehört zur Sicherung. Aufenthalte in der Bergregion setzen also Arbeit und Infrastruktur voraus. Die Rigi-Bahn eröffnet 1871, der erste Heidi-Band erscheint 1880. Der Fremdenverkehr besteht schon vor dem Buch. Die Rigi-Aufnahme zeigt weder Ragaz noch Heidis Alp; sie ist ein historischer Vergleich, keine Illustration desselben Schauplatzes.",
     "evidence": [
       [
-        "Der Ankunftszug · Roman Band 2",
-        "Zwei Männer tragen Klara im offenen Sessel. Die Grossmutter reitet neben einem Führer; ein weiterer Mann schiebt den leeren Rollstuhl, ein Träger bringt Decken und Pelze."
+        "Arbeit für Reisende · Band 1, Kapitel 1",
+        "Dete arbeitet im Hotel in Ragaz als Zimmermädchen. Sie hat dort die Zimmer einer Frankfurter Herrschaft versorgt, die sie als Angestellte mitnehmen möchte. Ein Aufenthalt von Gästen schafft eine Verbindung zwischen Ragaz und Frankfurt."
       ],
       [
         "Die Erschliessung · Rigi um 1875",
         "Das Bild zeigt einen Zug auf einer aufgeständerten Brücke, Gleise mit Zahnstange und einen Menschen auf dem seitlichen Steg vor der Lokomotive. Der Museumsnachweis erläutert seine Aufgabe als Zugsläufer."
       ],
       [
-        "Die Reihenfolge · 1871 und 1880/81",
-        "Die Vitznau-Rigi-Bahn eröffnet 1871. Die Heidi-Bände folgen 1880 und 1881. Ein späterer Roman kann nicht die Ursache für eine bereits eröffnete Bahn sein."
+        "Die Reihenfolge · 1871 und 1880",
+        "Die Vitznau-Rigi-Bahn eröffnet 1871. Heidis Lehr- und Wanderjahre erscheint 1880. Die frühere Bahn kann nicht durch den späteren Roman entstanden sein."
       ]
     ],
     "refs": [
-      "chroman2",
+      "chroman1",
       "chrigi",
       "spyrihls"
     ],
     "facets": [
       {
-        "label": "Arbeit hinter der Aussicht",
+        "label": "Arbeit und Infrastruktur für Gäste",
         "terms": [
-          "traeger",
-          "fuehrer",
+          "zimmermaedchen",
+          "hotel",
+          "gaeste",
+          "dienstleistung",
           "zugslauf",
           "steg",
           "zahnstange",
           "bruecke",
-          "personal",
           "technik"
         ],
-        "hint": "Welche Menschen und Einrichtungen ermöglichen den Aufenthalt am Berg?",
-        "follow": "Verbinde mindestens eine Tätigkeit im Roman mit einem sichtbaren Detail des historischen Fotos."
+        "hint": "Was leistet Dete für die Herrschaft, und was ermöglicht auf dem Foto die Bergfahrt?",
+        "follow": "Verbinde die Hotelarbeit aus Kapitel 1 mit einem konkreten technischen oder personellen Detail des Fotos."
       },
       {
         "label": "Chronologie und Ortsunterschied",
         "terms": [
           "1871",
           "1880",
-          "1881",
           "vorher",
           "bereits",
           "ursprung",
           "rigi",
-          "maienfeld"
+          "ragaz"
         ],
-        "hint": "Welche Eröffnung liegt vor der Veröffentlichung – und welcher Ort ist auf dem Foto zu sehen?",
-        "follow": "Begrenze deine Aussage: historischer Vergleich, keine Abbildung von Heidis tatsächlichem Reiseweg."
+        "hint": "Welche Eröffnung liegt vor dem Buch, und welche unterschiedlichen Orte vergleichst du?",
+        "follow": "Begrenze deine Aussage: historischer Vergleich, keine Abbildung von Detes Hotel oder Heidis Reiseweg."
       }
     ],
     "contextFigure": [
@@ -2907,7 +2910,8 @@ const HeidiCases = {
       "Vitznau-Rigi-Bahn auf der Schnurtobelbrücke, um 1875",
       "Verkehrshaus der Schweiz, VA-58261; Wiedergabe Nationalmuseum",
       "chrigi"
-    ]
+    ],
+    "revision": "band1-2026-09-21"
   },
   "schweiz-religion": {
     "id": "schweiz-religion",
@@ -2971,19 +2975,19 @@ const HeidiCases = {
     "id": "schweiz-solddienst",
     "room": "schweiz",
     "title": "Spuren der alten Eidgenossenschaft: Almöhi im Solddienst",
-    "where": "Band 1, Kapitel 1: Detes Bericht über Neapel. Band 2: Klaras Ankunft auf der Alp, vom Umsetzen in den Rollstuhl bis zur Erinnerung an den Hauptmann. Dazu Graubündens Ausstellung zu Militärkapitulationen und HLS «Fremde Dienste».",
-    "material": "Domleschg → Neapel → Sizilien → Alp: vier Ortsnamen verbinden Dorfgerücht, Kriegsvergangenheit und Krankenpflege. Diese Folge ordnet Textbelege, sie rekonstruiert keine lückenlose Reiseroute.",
-    "action": "Öffne zuerst «Neapel» und «Sizilien». Notiere für beide Stationen, wer das Wissen liefert und was damit belegt ist. Ergänze mit «Alte Eidgenossenschaft» die historische Verbindung. Schreibe dann zu Klaras sorgsam gebetteten Füssen einen kurzen Museumstext: Welche Erfahrung aus der Ferne steckt in dieser Geste?",
-    "question": "Was trägt Almöhi aus dem Solddienst in die scheinbar abgeschlossene Bergwelt zurück? Verbinde die Pflege des Hauptmanns mit Klaras Ankunft und erkläre, weshalb «Spuren der alten Eidgenossenschaft» eine fortwirkende Tradition bezeichnet, aber weder Almöhis Regiment noch sein Gefechtsjahr festlegt.",
-    "answer": "Bei Klaras Ankunft ruft eine Pflegehandlung die Erinnerung an den verwundeten Hauptmann wach. Die Erzählung verbindet Fürsorge auf der Alp mit erlernter Hilfe nach einem Gefecht in Sizilien. Damit lässt sich die Bergwelt als Teil einer grenzüberschreitenden Geschichte lesen. Solddienst war eine lange Tradition der eidgenössischen Orte und der Drei Bünde; sie reichte in das 19. Jahrhundert hinein. Der Roman nennt für Almöhi weder Regiment noch Gefechtsjahr. Detes Bericht über Neapel enthält ausdrücklich Gerüchte: Die spätere Erinnerung bestätigt Kriegserfahrung und Pflege, nicht die behauptete Desertion oder den Totschlag. Eine Verbindung zu einem bestimmten Feldzug wäre erst zusätzlich zu belegen.",
+    "where": "Heidis Lehr- und Wanderjahre, Kapitel 1: Detes Bericht über Domleschg, Neapel und die Rückkehr des Öhi. Dazu Graubündens Ausstellung zu Militärkapitulationen und HLS «Fremde Dienste».",
+    "material": "Domleschg → Neapel → Domleschg → Dörfli: Dete erzählt von einer Vorgeschichte ausserhalb der Alp. Sie verbindet Berichte über den Militärdienst mit ausdrücklich als Hörensagen eingeführten Anschuldigungen. Der historische Solddienst liefert den Kontext, keinen persönlichen Dienstnachweis.",
+    "action": "Lies die ersten beiden Belegkarten. Trenne Detes Bericht über den Militärdienst von den mit «man sagte auch» eingeführten Vorwürfen. Schreibe mit Hilfe der historischen Karten einen kurzen Museumstext, der Neapel mit der Solddiensttradition verbindet und die Grenzen des Wissens über den Öhi offenlegt.",
+    "question": "Wie öffnet Detes Bericht über Neapel schon im ersten Kapitel die scheinbar abgeschlossene Bergwelt für europäische Zusammenhänge? Unterscheide den historischen Solddienst, Detes Bericht über den Öhi und das Gerücht von Desertion und Totschlag. Weshalb lassen sich daraus weder sein Regiment noch ein bestimmtes Einsatzjahr bestimmen?",
+    "answer": "Dete erzählt, der Öhi sei nach dem Verlust seines Hofes zum Militär nach Neapel gegangen und Jahre später mit seinem Sohn zurückgekehrt. Damit erhält die Figur bereits am Romananfang eine grenzüberschreitende Vorgeschichte. Dete war bei den frühen Ereignissen nicht anwesend; die Anschuldigungen der Desertion und des Totschlags führt sie ausdrücklich als Hörensagen ein. Die Geschichte der fremden Dienste macht den genannten Militärdienst in Süditalien historisch verständlich, bestätigt aber keine einzelne Anschuldigung. Militärkapitulationen, Soldunternehmer und ausländische Pensionen gehören zum Erbe der eidgenössischen Orte und der Drei Bünde. Die Tradition reicht ins 19. Jahrhundert; konkrete Regimenter und politische Ereignisse dürfen dem Öhi ohne Textbeleg nicht zugeordnet werden.",
     "evidence": [
       [
         "Domleschg → Neapel · Dete berichtet",
         "Quellenparaphrase, Band 1, Kapitel 1: Dete erzählt von einem verlorenen Bauernhof im Domleschg und dem Weggang zum Militär nach Neapel. Nach zwölf oder fünfzehn Jahren sei der Öhi mit seinem Sohn zurückgekehrt. Desertion und Totschlag führt sie mit «man sagte auch» ein. Das sind keine unabhängig bestätigten Tatsachen."
       ],
       [
-        "Sizilien → Klara · Die Erzählung öffnet eine Erinnerung",
-        "Quellenparaphrase, Band 2, Klaras Ankunft: Almöhi setzt Klara sorgfältig in ihren Rollstuhl und bettet ihre Füsse. Auf die Frage nach seiner Pflegeerfahrung erinnert er sich an den Hauptmann, den er nach einem Gefecht in Sizilien verwundet gefunden, weggetragen und bis zu dessen Lebensende gepflegt hatte. Hier berichtet die Erzählinstanz von seiner Erinnerung; Dete spricht nicht."
+        "Die Grenze des Wissens · Band 1, Kapitel 1",
+        "Dete erklärt, sie habe den Öhi nicht als jungen Mann gekannt. Nach ihrem Bericht kehrt er mit Tobias zurück; Verwandte weisen ihn ab. Desertion und Totschlag sind als Hörensagen markiert. Die Gesprächsszene liefert keine unabhängige Bestätigung dieser Vorwürfe."
       ],
       [
         "Alte Eidgenossenschaft · Sold, Verträge und Einfluss",
@@ -2998,34 +3002,30 @@ const HeidiCases = {
         "Historischer Kontext, HLS: 1848 verbot die Bundesverfassung neue Militärkapitulationen, hob bestehende aber nicht auf. 1859 wurde der Eintritt in «nicht-nationale Truppen» ohne Erlaubnis des Bundesrats verboten; individueller Dienst in «nationalen Truppen» blieb möglich. «1859 endete jeder Schweizer Solddienst» wäre deshalb zu pauschal."
       ],
       [
-        "Zurück auf der Alp · Eine Geste neu lesen",
-        "Deutung zum Prüfen: Die sorgsame Pflege Klaras lässt sich als Nachwirkung einer gewaltsamen Vergangenheit lesen. Die vermeintlich weltferne Alp beherbergt einen Rückkehrer mit Erfahrungen aus Süditalien. «Alte Eidgenossenschaft» bezeichnet hier das historische Erbe des Solddienstes, nicht eine Datierung des Romanhelden vor 1798."
+        "Die Alp ist kein geschichtsloser Ort · Deutung aus Kapitel 1",
+        "Der Ortsname Neapel stellt eine Verbindung zwischen einer Figur auf der Alp und fremden Militärdiensten her. Das historische Erbe erklärt einen möglichen Zusammenhang, keine gesicherte persönliche Laufbahn. Für die Textdeutung bleibt entscheidend, dass Dete diese Geschichte erzählt."
       ]
     ],
     "refs": [
       "chroman1",
-      "chromansold",
       "chsolddienstgr",
       "chsolddienst"
     ],
     "facets": [
       {
-        "label": "Vom verwundeten Hauptmann zu Klara",
+        "label": "Detes Bericht und das Hörensagen",
         "terms": [
-          "hauptmann",
-          "verwundet",
-          "verletz",
-          "pflege",
-          "fuersorge",
-          "fuersorg",
-          "versorg",
-          "kranken",
-          "sorgsam",
-          "kriegserfahrung",
-          "sizilien"
+          "dete",
+          "neapel",
+          "geruecht",
+          "hoerensagen",
+          "man sagte",
+          "desertion",
+          "totschlag",
+          "figurenrede"
         ],
-        "hint": "Vergleiche das Betten von Klaras Füssen mit dem Wegtragen und Pflegen des Hauptmanns: Welche Fähigkeit kehrt wieder?",
-        "follow": "Zeige an der Pflegehandlung, wie Erfahrung aus dem Krieg auf der Alp weiterwirkt. Die Erinnerung bestätigt Detes Totschlagsgerücht nicht."
+        "hint": "Welche Vorwürfe leitet Dete mit «man sagte auch» ein, und was kann sie selbst über seine Jugend wissen?",
+        "follow": "Zeige, wie Neapel die Biografie räumlich erweitert, ohne die Vorwürfe zu gesicherten Tatsachen zu machen."
       },
       {
         "label": "Tradition und Grenzen der Datierung",
@@ -3037,16 +3037,17 @@ const HeidiCases = {
           "soldunternehm",
           "pension",
           "regiment",
-          "gefechtsjahr",
+          "einsatzjahr",
           "datier",
           "jahrhundert",
           "fremde dienste",
           "auslaendische herrscher"
         ],
-        "hint": "Nutze die Vertragsgeschichte und die Einschnitte 1848/1859: Was besteht weiter, und welche Daten fehlen für Almöhi selbst?",
-        "follow": "Trenne die belegte Geschichte der fremden Dienste von der undatierten Romanbiografie. Ein historisches Regiment ist noch kein Nachweis seiner Zugehörigkeit."
+        "hint": "Nutze die Vertragsgeschichte und die Einschnitte 1848/1859: Was besteht weiter, und welche Daten fehlen für den Öhi selbst?",
+        "follow": "Trenne die belegte Geschichte der fremden Dienste von Detes undatierter Figurenbiografie. Ein historisches Regiment ist noch kein Nachweis seiner Zugehörigkeit."
       }
-    ]
+    ],
+    "revision": "band1-2026-09-21"
   }
 };
 

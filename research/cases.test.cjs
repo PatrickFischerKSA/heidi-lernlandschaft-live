@@ -47,11 +47,17 @@ assert(fs.readFileSync('dist/quellen/Wachsfluegelfrau_Lesefenster.html','utf8').
 for(const [id,answer] of [
  ['schweiz-schule','Der Weg durch Schnee ist zu gefährlich. Der Umzug ins Dorf macht die Schulpflicht erreichbar.'],
  ['schweiz-arbeit','Landwirtschaft fällt nicht unter das Fabrikgesetz. Kontrollen sind für die Durchsetzung nötig.'],
- ['schweiz-migration','Dete sucht eine Stelle, Klara kommt zur Erholung. Die Agrarkrise belegt nicht jedes einzelne Motiv.'],
- ['schweiz-tourismus','Träger und Zugsläufer ermöglichen den Zugang. Die Rigi-Bahn von 1871 ist älter als Heidi.'],
+ ['schweiz-migration','Dete sucht eine Stelle, der Doktor veranlasst wegen Heidis Heimweh ihre Rückkehr. Die Agrarkrise belegt nicht jedes einzelne Motiv.'],
+ ['schweiz-tourismus','Hotelarbeit und Zugsläufer ermöglichen den Aufenthalt der Gäste. Die Rigi-Bahn von 1871 ist älter als Heidi.'],
  ['schweiz-religion','Der Pfarrer vermittelt, während der Staat die Schule leitet. Jesuiten sind trotz Glaubensfreiheit ausgeschlossen.']
 ])assert(F.evaluate(id,answer).aspects.every(a=>a.evidence),id+' alternate');
 assert(F.evaluate('schweiz-arbeit','Das Fabrikgesetz gilt nicht für die Landwirtschaft.').aspects[0].negated);
 
-for(const answer of ['Der verwundete Hauptmann braucht Fürsorge. Die Tradition reicht ins nächste Jahrhundert.', 'Almöhi versorgt Klara sorgsam. Sein Regiment bleibt unbestimmt.'])assert(F.evaluate('schweiz-solddienst',answer).aspects.every(a=>a.evidence));
+for(const answer of ['Dete berichtet vom Militärdienst in Neapel. Die Tradition reicht ins nächste Jahrhundert.', 'Desertion ist ein Gerücht. Sein Regiment bleibt unbestimmt.'])assert(F.evaluate('schweiz-solddienst',answer).aspects.every(a=>a.evidence));
 assert(F.evaluate('schweiz-solddienst','Ein bestimmtes Regiment ist nicht belegt.').aspects[1].negated);
+assert(F.evaluate('spyri-erzaehlen','Barbel gibt ein Gerücht weiter. Das Leintuch für Heidis Schlafplatz zeigt Fürsorge.').aspects.every(a=>a.evidence));
+for(const id of ['spyri-erzaehlen','schweiz-migration','schweiz-tourismus','schweiz-solddienst']) {
+  assert.equal(cases[id].revision,'band1-2026-09-21');
+  assert(!/Band 2|Hauptmann|Sizilien|Klaras Ankunft/.test(JSON.stringify(cases[id])),id);
+  assert(!cases[id].refs.includes('chroman2')&&!cases[id].refs.includes('chromansold'),id);
+}
