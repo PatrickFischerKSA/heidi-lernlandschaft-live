@@ -37,6 +37,8 @@
   border-color: #85321f;
 }
 .export-prominent > span { font-size: 24px; flex-shrink: 0; }
+.save-status:not(:empty) { margin: 12px 0; padding: 12px; border-left: 4px solid #28553b; background: #e1eee4; color: #183724; font-weight: 600; }
+.save-status.save-error { border-color: #a73f27; background: #fff0e9; color: #792b19; }
 @media (max-width: 650px) {
   .header-actions { flex: 1 0 100%; flex-wrap: wrap; gap: 10px; }
   .header-actions .notebook-toggle { margin-left: 0; }
